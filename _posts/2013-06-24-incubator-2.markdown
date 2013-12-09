@@ -1,0 +1,56 @@
+---
+layout: page
+status: publish
+published: true
+title: Incubator
+author: Mick Thompson
+author_login: mick
+author_email: mick@codeforamerica.org
+wordpress_id: 23383
+wordpress_url: http://codeforamerica.org/?page_id=23383
+date: 2013-06-24 19:08:11.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America's Incubator Program is an invite-only program. For more info email <a href="mailto:startups@codeforamerica.org">startups@codeforamerica.org</a>
+
+<hr />
+
+<div class="name">
+
+<a name="fellowship"></a>
+<div class="name">
+
+<a name="program"></a>
+<div class="name"></div>
+<div class="picture-and-text">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/12/2013startups.jpg" /></div>
+<h3>The Incubator</h3>
+This six month program (Dec-Jun) helps fellowship teams transition from prototype app to full fledged product market fit. Teams work on scaling their businesses and better navigating the civic tech space. In past years, startups have received 100+ hours of mentorship from industry leaders, pitched to hundreds of government officials and gained access to numerous civic tech investors and sales leads. <a href="http://www.codeforamerica.org/startups/alumni/">Current and Alumni Startups</a>
+
+</div>
+</div>
+<div class="name"></div>
+<div class="picture-and-text">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2010/06/class_photosml.jpg" width="300" height="165" /></div>
+<h3>Benefits and Training</h3>
+Startups take up residence at Code for America's San Francisco headquarters for hands-on mentorship and ongoing technical and marketing support. Companies receive $10,000 dollars to grow their business, training from some of the nation's top civic tech leaders and access to a growing network of government innovators, press and tech luminaries.
+<a href="http://www.codeforamerica.org/category/civic-startups/">Notes from the Field</a>
+
+</div>
+<a name="selection"></a>
+<div class="name"></div>
+<div class="picture-and-text">
+<div class="picture"><img src="http://www.codeforamerica.org/wp-content/uploads/2013/12/2012startups.jpg"></div>
+<h3>Selection</h3>
+Code for America currently works with incubator companies formed by past fellowship teams. The goal of this program is to ensure that particularly compelling fellowship applications are given a chance to flourish and spread in the civic tech ecosystem. 
+
+<a href="http://codeforamerica.org/fellows">Fellowship</a>
+<a href="http://codeforamerica.org/apps">Apps</a>
+
+</div>
+</div>
+<h3>Who's Got Our Back</h3>
+<img style="float: left;" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/12/kauffmanlogo.jpg" width="300" />
+
+<a href="http://www.google.com/entrepreneurs/"><img title="google_entrepreneurs" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/06/google_entrepreneurs.jpg" width="300" /></a>

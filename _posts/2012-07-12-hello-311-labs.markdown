@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: Hello 311 Labs
+author: Jesse Bounds
+author_login: jesse
+author_email: jesse@codeforamerica.org
+wordpress_id: 15038
+wordpress_url: http://codeforamerica.org/?p=15038
+date: 2012-07-12 12:22:03.000000000 +00:00
+categories:
+- News
+- 2012 fellows
+- Chicago
+- Open Data
+tags:
+- boston
+- '311'
+- Chicago
+- Open311
+- 311Labs
+- DailyBrief
+- Bloomington
+- Baltimore
+---
+Code for America fellows work on a wide variety of projects with their city partners, other organizations, community members, and interested civic hackers. The applications that fellows create range from whimsical to serious, and from simply making a point to potentially making a profit. However, in the nascent arena that combines open and transparent data, cloud infrastructure, and your local government as a platform, we don't often find ourselves tripping over well standardized approaches for delivering and consuming government data.
+
+One emerging standard that does exist in our field is <a href="http://open311.org/">Open311</a> - an API for writing and reading civic data directly to and from city systems. Like any evolving standard (i.e. <a href="http://www.w3.org/">W3C</a>), it has inconsistencies that stem from the various cities and organizations doing their best to implement the core API features, yet inevitably realizing the need to change, modify, and adapt the specification to their own unique requirements.
+
+After spending more than six months in this environment, we realized that what these pioneering organizations and citizens need is a platform to experiment with 311 data and communicate with each other about their work. So, we built <a href="http://311labs.org/">311 Labs</a>.
+
+<img class="aligncenter" src="https://lh4.googleusercontent.com/ZQeQ9qAwXUVr8mO8TTzFV-wdcekO3uDptYS8UvxJjQteg2mKyj5Y_5Qws157ZcZIOQWVICxPF5CrmaUQM7E2eKCj4b1i7O7VZEI7YhR_R11FRX-_NA" alt="" width="407px;" height="271px;" />
+311 Labs aims to encourage collaboration and experimentation and is debuting with two innovative Open311 applications that start to tie together the work that folks have been doing in this space over the last few years. Specifically, we are showcasing:
+<ul>
+	<li><a href="http://311labs.org/experiments/dailybrief">The Daily Brief</a>: Explore and filter 311 service requests by neighborhood, service name, and status. This site is already running against Open311 endpoints in Baltimore, Md., Boston, Mass., and Bloomington, Ind.</li>
+</ul>
+<img src="https://lh5.googleusercontent.com/ObjPgdnrRimdY2ueIZVVSIlr4JMWPdl1FpfRDp5bz52qHcY3aZLEB0W3d6vGj8pJO-pupcDumqHOVyhs81dRELZ9c-QJLWE-7kAWhDuljzPIKhR1Cg" alt="" width="345px;" height="212px;" />
+<ul>
+	<li><a href="http://311labs.org/experiments/open311status">Open 311 Status</a>: Monitor Open311 APIs to see if they are down or have performance issues, and view statistics about uptime, comprehensiveness, and citizen utilization. This site currently monitors most of the Open311 endpoints in existence today.</li>
+</ul>
+<img src="https://lh4.googleusercontent.com/wF-UcLQBEMLS7xxMQ2AK4cdps_HxSG4kKm066zrmwg3aTecPK0L7xXZpqcOip8cIvEz3zaRSYL5tj9UPyC2dqJCZNiLVa-ufUN2dw_U3gy8EX5sQ0w" alt="" width="346px;" height="213px;" />
+
+Even though this effort has barely begun, we have already received very positive feedback from city officials. The applications we've built and the communication they've fostered are helping to shore up inconsistencies in API implementations nationwide. What’s more, because the data has been taken out of its native XML and JSON form and visualized, ideas for building even better applications with it are quickly emerging. There is nothing more important than this - the work we do as fellows is really, in many ways, just scaffolding to support the efforts of future fellows and governments who will build truly amazing products.
+
+It’s worth noting that the City of Chicago and the <a href="http://www.smartchicagocollaborative.org/" target="_blank">Smart Chicago Collaborative</a> have done much to encourage this national effort. The vision and support of these Code for America city partners are a keystone in our effort. We look forward to bringing you more news about this project as it evolves and we are excited about the launch of many more innovative civic applications on 311 Labs that focus on 311 data.
+
+Stay tuned to 311 Labs and <a href="http://311labs.org/contact-us">sign up</a> to work with us as we continue to build the civic web!

@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 800 Interviews.
+author: Bob Sofman
+author_login: bob
+author_email: bob@codeforamerica.org
+author_url: http://www.codeforamerica.org
+wordpress_id: 21479
+wordpress_url: http://codeforamerica.org/?p=21479
+date: 2013-04-25 12:04:32.000000000 +00:00
+categories:
+- Commentary
+- '#meta'
+- Fellowship
+tags: []
+---
+Spending a week living on a $32.17 food budget. Shadowing a homeless shelter caseworker. Riding shotgun on a midnight police patrol. Hiking portions of a 110 mile canal trail. Spending time in jail (just visiting). Jogging through the city with the Mayor.
+
+What do all of these have in common? They are just a few of the many experiences the Fellows had while living in their cities during February. These experiences provided them a firs- hand, on-the-street, perspective of the issues they will address in the coming months.
+
+Neither the snow storms they encountered, the travel hiccups they ran into, nor the power outages they experienced, deterred them from also hosting more than 40 events, conducting more than 800 interviews, and appeared on multiple local news shows in just one month.
+
+At the end of the four weeks, armed with breadth of experience and comprehensive data, the Fellows returned to San Francisco in early March and began the arduous task of sifting through all of this information to figure out what to build.
+
+Now, they fellows have begun to build. Over the past several weeks the fellows have started coding on a wide range of web apps -- apps focused on court appearance notification, code enforcement dashboarding, bench warrant inquiry, recreational trail interpretation, social service sourcing, public records access, property parcel mapping, and small business digital resource training. Each designed to address a specific issue that emerged from their immersive city experience.
+
+&nbsp;
+
+Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.

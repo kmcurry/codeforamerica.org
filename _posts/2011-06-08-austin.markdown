@@ -1,0 +1,70 @@
+---
+layout: page
+status: publish
+published: true
+title: Austin
+author: Jack Madans
+author_login: jmadans
+author_email: jack@codeforamerica.org
+wordpress_id: 6184
+wordpress_url: http://codeforamerica.org/?page_id=6184
+date: 2011-06-08 15:42:42.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/Austinseal1-300x300.jpg" width="144" height="144" /></div>
+<blockquote><em>"I refer to it as the Code for America effect: When the fellows spend the time in the city, you see everyone awaken to the possibilities."
+
+- <strong>Mateo Esquibel, Web Services Supervisor, City of Austin</strong></em></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Austin</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/austin_brigade.png" /></div>
+<h4>The Brigade</h4>
+The City of Austin has a thriving tech community of civic hackers, innovators and urbanists. It also offers an <a href="https://data.austintexas.gov/">open data portal</a> and continues to work on its open government platform <a href="http://austintexas.gov/blog/where-were-and-road-ahead-part-3">AustinGo</a>. In 2013, the city <a href="http://www.codeforamerica.org/2012/09/17/austin-launches-innovation-office/">created an Innovation Office</a> as a way to encourage civic tech transparency and growth. It has an <a href="http://www.open-austin.org/calendar">active Brigade</a> led by Chip Rosenthal. To get in touch with the Austin Brigade email openaustin[at]googlegroups.com or visit the <a href="http://www.meetup.com/cfabrigade/Austin-TX/">meetup page</a>.
+<p class="link-block"><a href="http://www.meetup.com/cfabrigade/Austin-TX/">Code for Austin</a>
+<a href="https://data.austintexas.gov">Open Data Portal</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<iframe style="padding: 5px;" src="http://player.vimeo.com/video/53370440?title=0&amp;byline=0&amp;portrait=0" height="165" width="300" allowfullscreen="" frameborder="0" align="left"></iframe>
+Austin City Contact Mateo Esquibel discusses the Code for America experience.
+
+</div>
+<h4>The 2012 Fellowship in Austin</h4>
+Led by city contacts Doug Matthews and Mateo Esquibel, 2012 Austin fellows <a href="http://www.codeforamerica.org/2012-fellows/">Aurelio Tinio, Emily Wright-Moore, Joe Merante</a> were the first to offer a <a href="http://us4.campaign-archive2.com/home/?u=7eae25b3fcdc6e862a1a20456&amp;id=5fa034319d">regular newsletter</a> of project updates.
+
+It's in these updates, that their work shines through -- from organizing hackathons, to engaging in nearly 100 community meetings, to building an app that was a true labor of love.
+
+At a time when 1300 homes in nearby Bastrop County, TX had been ravaged by wildfire, it was no surprise that the fellows decided to tackle wildfire preparedness as one of their projects. Armed with information from the Austin Fire Department's <a href="http://wildlandfirersg.org/Learn/content.cfm?ItemNumber=646&amp;navItemNumber=505">Wildland Urban Interface</a> and citizen polls, the fellows built <a href="http://www.codeforamerica.org/?cfa_app=prepared-ly">Prepared.ly</a> to pull in weather data feeds, assess <a href="http://lafd.org/faq/46-fires-a-fire-prevention/340-red-flag-faqs">red flags</a> and offers tasks for citizen fire preparation. In addition to building the app, the team promoted it heavily via <a href="http://www.codeforamerica.org/2012/07/19/staying-prepared-with-prepared-ly/">blog posts</a>, a <a href="http://www.huffingtonpost.com/joe-merante/failing-to-plan-is-planni_b_1799737.html">Huffington Post opinion editorial article</a> and via word-of-mouth to locals. The app continues to serve the City of Austin and offers near real-time information on property risk.
+
+As one of the most prolific teams in the Code for America fellowship, these fellows also built a virtual gallery for city hall, an <a href="http://stray.citypetz.com/">app that tracks lost pets in shelters</a>, an <a href="http://austin.sheltr.org/">app that finds shelter and human services</a>, a <a href="http://www.atxfloods.com/">flood and emergency road closure map</a> and <a href="http://www.artatx.com/">public art mapping app</a>.
+
+Upon leaving the fellowship, the group was so enamored with Austin that they wrote a <a href="http://www.codeforamerica.org/2012/11/22/love-letter-to-austin/">love letter to the city</a> thanking their hosts for a great experience.
+<p class="link-block"><a href="http://www.codeforamerica.org/?cfa_app=prepared-ly">Prepared.ly</a>
+<a href="http://stray.citypetz.com/">Stray.citypetz</a>
+<a href="http://austin.sheltr.org/">Sheltr</a>
+<a href="http://www.atxfloods.com/">ATX Floods</a>
+<a href="http://www.artatx.com/">Art ATX</a></p>
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.huffingtonpost.com/joe-merante/code-for-america-meets-au_b_1313854.html"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/austin_huffpo.png"></a></div>
+<h4>Code for America Meets Austin - <a href="http://www.huffingtonpost.com/joe-merante/code-for-america-meets-au_b_1313854.html">Huffington Post</a></h4>
+It's hard to believe my team has been in Austin for nearly four weeks already. As part of the 2012 Code for America Fellowship program, we're nearing the end of our residency: five weeks of interviews, meetings, events and information gathering.
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://austintexas.gov/event/austin-named-code-america-finalist"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/austin_gov.png"/></a></div>
+<h4>Technology team is developing smart solutions to everyday city problems - <a href="http://austintexas.gov/event/austin-named-code-america-finalist">AustinTexas.gov</a></h4>
+The City of Austin has been named a finalist by Code for America, an innovative non-profit that recruits top technology talents to build cutting-edge web applications for municipal governments.
+
+</div>

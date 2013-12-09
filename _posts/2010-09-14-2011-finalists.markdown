@@ -1,0 +1,117 @@
+---
+layout: post
+status: publish
+published: true
+title: 2011 CfA Fellowship Finalists
+author: Meghan Reilly
+author_login: mreilly
+author_email: meghan@codeforamerica.org
+excerpt: "We're pleased to announce our 2011 Code for America Fellowship Finalists.
+  Out of a pool of over 360, these candidates stood out as the most capable, dedicated,
+  and passionate -- which wasn't easy to do. We were so impressed by their qualifications
+  that we wanted to show them off :). See for yourself below.\r\n\r\n(Note: Some of
+  the applicants preferred not to be listed publicly for various reasons, and we respected
+  their request, so the list below is not a complete list)\r\n\r\nThroughout this
+  month, we will be gathering additional information on the Finalists, ranging from
+  LinkedIn profiles to video interviews and case problem responses, and we will use
+  this information to take on the even more challenging task of selecting the fellows.
+  We will be announcing the 2011 Fellows mid-October."
+wordpress_id: 1461
+wordpress_url: http://codeforamerica.org/?p=1461
+date: 2010-09-14 14:20:06.000000000 +00:00
+categories:
+- News
+tags: []
+---
+We're pleased to announce our 2011 Code for America Fellowship Finalists. Out of a pool of over 360, these candidates stood out as the most capable, dedicated, and passionate -- which wasn't easy to do. We were so impressed by their qualifications that we wanted to show them off :). See for yourself below.
+
+(Note: Some of the applicants preferred not to be listed publicly for various reasons, and we respected their request, so the list below is not a complete list)
+
+Throughout this month, we will be gathering additional information on the Finalists, ranging from LinkedIn profiles to video interviews and case problem responses, and we will use this information to take on the even more challenging task of selecting the fellows. We will be announcing the 2011 Fellows mid-October.<a id="more"></a><a id="more-1461"></a>
+<h3>2011 Code for America Fellowship Finalists</h3>
+<strong>Aaron Ogle
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/3zu2alRwuBe7go%3D/aaronogle100.jpg" alt="" hspace="5" width="75px" align="right" />By day, Aaron is a mild-mannered software developer for Azavea in   Philadelphia where he builds location-based web applications of social value   for local governments, non-profits, and universities. By night, he dons a cape and fights   for urban sustainability by hacking away at Walkshed.org, a sophisticated   webapp to map walkability. Regardless of costume, Aaron especially enjoys   JavaScript development, GIS, and interesting ways of combining the two. Besides being a tech   geek, Aaron enjoys running with Back on My Feet, reading a good book,   backpacking hither and yon, a great cup of coffee, and the company of dear   friends and family.
+
+<strong>Anna Bloom
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/FwuBelqFgeASSQ%3D/annavbloom_headshot.jpg" alt="" hspace="5" width="75px" align="right" />Anna Bloom wants to join Code for America to continue making creative use   of technology to empower citizens and keep the public better informed. After   graduating from UC Berkeley's Graduate School of Journalism in 2010, Anna   worked for YouTube to launch an innovative news project documenting the Bay   Area with user-generated video. Prior to that, she regularly contributed to   The New York Times Bay Area Blog and co-founded a hyper-local news site for   Oakland in 2008. Anna's career began when she left Chicago for Park City,   Utah, to work as an editor for a newspaper to support her skiing habit.
+
+<strong>Aynne Valencia
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/L2dIyojy16U%3D/aynnevalencia.jpg" alt="" hspace="5" width="75px" align="right" />Aynne is a Design Leader who crafts the vision for next-gen products and   services. Her work centers on social, devices, experiences and space mediated   with computer-related devices. She possesses a unique blend of product   and web design, conceptual art and advertising experience. She has designed   for experimental interfaces, touch-screen, and mobile channels. She is active in   the design community, teaches and presents on topics related to design. She   is particularly interested in sensor-based ubiquitous and pervasive   computing. Aynne is an artist, writes short horror stories, has a wicked sense of   humor, frequently travels abroad &amp; is a great vegetarian cook.
+
+<strong>Brandon Silberstein
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/TsksmPEO7Y4%3D/headshot.jpg" alt="" hspace="5" width="75px" align="right" />Brandon Silberstein is an avid writer, actor, and comedian- an odd   profile to have while working in the technology sector. He graduated from   Stanford with a BA in human biology and an MA in psychology, founded   Stanford's only sketch comedy group, the Robber Barons, and has worked for   numerous consumer facing technology startups. Like any true Silicon   Valley-ite, Brandon plays Ultimate for fun. You can read his blog at skipthefrog.wordpress.com or follow him when he's rarely on Twitter, @froginashoe.
+
+<strong>Brian Denzer
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/Mqhtsp6sxhY%3D/denzer_tn3_pirates_alley_100p.png" alt="" hspace="5" width="75px" align="right" />One of the overlooked lessons of the Katrina and Deepwater Horizon   disasters is that institutional failures preceded human and environmental   calamaties. What was common to both, according to Code for America applicant   and GIS professional Brian Denzer, was that government institutions were   failing for years, fostering the conditions for historically unprecedented   engineering disasters. As an advocate for using crowd-sourced application   development using government data to promote more open government and more   engaged citizens, Brian hopes to "catch-up" democratic institutions   to the 21st century, in order to prevent future such disasters. When he isn't   making maps or advocating for government reform, Brian loves to partake in   the irreverence of Mardi Gras parades and (of course) cheering on the   world-champion Saints.
+
+<strong>Brownell Chalstrom</strong>
+<img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/T5lWs2SsHmM%3D/google.jpg" alt="" hspace="5" width="75px" align="right" />Brownell Chalstrom is a successful software developer with executive  operations experience in public and private companies, both in engineering and marketing. His current technology focus is mobile geo-aware Web applications supported by Ruby and Rails backends. He has been a leader with OpenAustin in helping Austin, TX government take advantage of new technologies. His particular strength is in product definition, positioning, and go-to-market planning and execution. He is a venture partner and has founded several companies. He was an early leader in collaborative computing as GM of Lotus Notes, and an Internet pioneer at BBN.
+
+<strong>Chach Sikes
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/iaaHWxSQmD4%3D/chach_sikes_cfa.jpg" alt="" hspace="5" width="75px" align="right" />Chach hopes to empower citizens to have a voice &amp; hand in building   our civic technologies. She is passionate about teaching open source   development practice and creating project-based learning opportunities for us   all. Professionally,   she is a developer &amp; builds organizational &amp; educational websites.   Before Drupal captivated her heart, Chach designed and built web exhibits for   science museums. This summer she brought technologists &amp; community gardeners   together in a learning collaborative: the Drupal Open Garden Project. This   fall, artists and programmers are explaining computer programming by creating   short hand-crafted animations: the Codeland Storytime Collective. She loves learning,   nature, illustration, code, and creativity.
+
+<strong>Christian Colon
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/ETScy71N8Ck%3D/pic.jpg" alt="" hspace="5" width="75px" align="right" />Christian is web architect/developer with over 8 years of experience   working in the non-profit and education sectors. He was born and raised in   New York, New York. He grew up around Salsa, Merengue, Hip Hop, R&amp;B,   Pasteles, Arepas, Malta and a large Latino family. He attended the University   of Oklahoma where he received a Bachelor of Arts in Information Studies. Christian spends his free   time advocating social change, enjoying time with his family and friends, and   honing his technical skills. He seeks to realize technology's potential in   the areas of education, social reform, and cultural awareness.
+
+<strong>Danny Tamez
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/X2qCJ67LAlA%3D/dtcfa.jpg" alt="" hspace="5" width="75px" align="right" />Danny Tamez is a designer, developer, tinkerer, and web enthusiast. Media Brigade is the studio name that   he works under, and it's there that he designs and produces state of the art   web sites, graphic design, and new media. The studio specializes in open   source software, web 2.0 applications, and social media, and is expanding   into local advertising platforms. Aside from working with clients, Tamez is the   Editor in Chief of Skollie Magazine, a digital lifestyle publication out of   Aspen, Colorado. When he is not   in front of his MacBook Pro you can find him in the mountains or on the town   looking for ways to tie in the adventurous lifestyle to his profession.
+
+<strong>Erik Michaels-Ober
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/cyr2QLWWXwc%3D/me_large.jpg" alt="" hspace="5" width="75px" align="right" />Erik Michaels-Ober is a software developer and entrepreneur living in San   Francisco. He founded and built 140 Proof, an ad network powered by Twitter. He also contributes to various open-source projects and just wrapped up the   summer as a Ruby Summer of Code mentor. His childhood dream is to buy the Dodgers baseball team and bring them back to their rightful home in Brooklyn.
+
+<strong>Jeremy Canfield
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/KtE7ecjaM9A%3D/thumbcfa.jpg" alt="" hspace="5" width="75px" align="right" />Jeremy loves designing and building apps that are not only intuitive and   fun to use, but change the way people understand and interact with the   world. Long a champion of open   data and accountable government, he helped the GAO build and implement tools   that make sharing information easier. Since then, he has honed his skills,   graduated from University of Michigan's Masters Program in Information and   co-founded a mobile app company.   Check out some of his other projects at jeremycanfield.com.
+
+<strong>Joel Mahoney
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/wgmiC3JmDZI%3D/riochama.jpg" alt="" hspace="5" width="75px" align="right" />Joel has been designing and developing web applications since 1999. He has served as the COO and CTO of   multiple start-up companies and is a certified scrum master. He is submitting this profile from   Mt. Rainier National Park, where he hopes to summit in three days' time!
+
+<strong>John Mertens
+</strong><img src="http://codeforamerica.org/wp-content/uploads/2010/09/mertens1.png" alt="" hspace="5" width="75px" align="right" />John is a habitual problem solver and travel junkie from a small village in Iowa.He has been programming since childhood and has developed websites for non-profits &amp; education institutions as well as large companies &amp; government bodies. John has spent most of his adult life living outside the U.S., but he wants to bring his wide array of experiences   back home to help improve the motherland.
+
+<strong>Judith Siegel
+</strong>Judith Siegel was born in Lima, Peru, but claims Arlington, TX as her   hometown. She attended college at Texas Christian University (TCU) in Fort   Worth where she studied Radio-TV-Film, Religion and Political Science. She discovered digital media   somewhere along the way and ending up earning a Master's degree in   Human-Computer Interaction from Georgia Tech. She enjoys writing, reading,   seeing live music, traveling and attempting to cook. She is excellent at writing   Facebook status updates.
+
+<strong>Karla Macedo
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/qlaRHkaQaFA%3D/karlamacedo.jpg" alt="" hspace="5" width="75px" align="right" />Karla is an artist at heart graphic designer by trade she earned her   Bachelors at the The Art Institute of California - San Francisco. She was   born in Mexico City and has lived in California since she was three. She   speaks Spanish and loves the power of communication in graphic design. She is   a lover of chai, water coloring, weeping willows and the creative process as   a whole. Her favorite color is the beautiful mixture of a ‚ÄúCalifornia   Sunset.‚Äù She wishes nothing more than to give back to the state that has   fueled her dreams for years.
+
+<strong>Michael Bernstein
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/D2zdsN1GBwuslashw%3D/webmaven.jpg" alt="" hspace="5" width="75px" align="right" />Michael has been a soldier, a designer, a coder, and an author. He's   lived in three US states and two countries. He's worked for three startups, a   large public agency, and as an independent consultant, and he brings   creativity, diligence, a broad perspective and deep knowledge to every   project. He sucks at self-promotion.
+
+<strong>Michael Betten</strong>
+<img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/9sxw2QYQ8K4%3D/bettenthumb.jpg" alt="" hspace="5" width="75px" align="right" />Mike is an avid coder currently working as a freelance web   developer. He has a degree in   computer science from Boston College and is an aspiring entrepreneur. As a member of the honors program at   BC he collaborated on various research projects and presented his work at the University of Warsaw   in Poland. He enjoys learning   new technology, or anything for that matter, and writing fast, efficient, and   useful code. Mike is also a   strength training aficionado and language enthusiast.
+
+<strong>Michael Evans
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/8z0OJv8y02g%3D/mevans_headshot_cfa.jpg" alt="" hspace="5" width="75px" align="right" />Michael is a web developer from Mountain View, CA. He studied physical chemistry at   UCLA. He also completed over   three years of research with Professors Daniel Kivelson and Charles Knobler   in UCLA's Department of Chemistry.   In 2007, he decided to switch his career path to web development. By early 2008, he became fascinated   with data visualization and geovisualization. He now spends a lot of time figuring out how to make   municipal data exciting and more accessible.
+
+<strong>Michelle Koeth
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/RHZUsV9dKfI%3D/michheadshotwork100.jpg" alt="" hspace="5" width="75px" align="right" />Michelle is currently an intellectual property attorney and electronic   musician. Prior to law school,   Michelle gained experience and skill in web application development and   automated control system development. As an intellectual property lawyer, she   enjoys being an advocate of innovation.   As an electronic musician, she enjoys bringing technology into human   expression. Michelle aspires to   help others understand and leverage technology to economize and enrich their   lives.
+
+<strong>Mjumbe Wa Watu Poe
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/ewuslash0CLp4BeLI%3D/headshot1.jpg" alt="" hspace="5" width="75px" align="right" />Mjumbe Wa Watu Poe was born in California and has lived in Philadelphia   since he was 11. His name means   "representative of the people" in Kiswahili. He enjoys making things, particularly   on computers. He gets excited   about how technology affects humans, for better and worse. This has most recently drawn him to   software projects that help people better use their neighborhoods and   cities. Mjumbe has a   wonderfully supportive partner, several amazing siblings, and is eternally   greatful to his friends, parents, grandparents, extended family, elders and   ancestors for where he is today.
+
+<strong>Pete Fecteau</strong>
+<img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/Q3gPbYVbmEw%3D/profilepic.gif" alt="" hspace="5" width="75px" align="right" />Pete Fecteau studied Digital Media Design at Kendall College of Art &amp;   Design and graduated in 2007. Pete works mainly in the interactive design and   development field creating and administrating websites for a major non-profit   organization. Pete has a passion for social change and has been working to   make an impact in his community using his skills and talents. His latest ‚Äúoff   the grid‚Äù project involves creating a giant mosaic of Dr. Martin Luther King   using 4,242 Rubik's Cubes. Pete hopes to one day create a network for people   to meet together both virtually and physically for community activism.
+
+<strong>Richard Sinn
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/zX6tEwuslash2wuslashj6I%3D/richsinn_headshot.png" alt="" hspace="5" width="75px" align="right" />Richard Sinn was born in the suburbs of Washington, D.C. to Korean   immigrants. Growing up near the nation's capital, coupled with his parent's   influence, piqued Richard's interest in the workings of government and   society. Technology and the   social sciences have always been Richard's hobby and passion. He eventually graduated from MIT, and   has been working at Oracle ever since. Outside of work, Richard is also passionately   involved in taekwondo. He was   once on the US Jr. National Team and has been lucky enough to travel the world   through taekwondo. Richard is a firm believer in the CfA initiative.
+
+<strong>Ryan Resella
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/WgYU5Jf5es0%3D/100bio.jpg" alt="" hspace="5" width="75px" align="right" />Ryan currently works for the City of Santa Clarita as a Senior   Information Technology Analyst. Ryan manages the Application Development group which is responsible   for the City's Web site as well as implementing, developing and managing new   software applications. He holds   a Masters Degree in Public Administration and a Bachelors in Computer Science from California State   University, Northridge. Ryan is   an avid photographer and loves to travel.
+
+<strong>Scott Silverman</strong>
+<img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/TvYOUgTq2S8%3D/silverman_scott.jpg" alt="" hspace="5" width="75px" align="right" />Scott is a recent graduate of Tufts University and big believer   in the transformative power of media and technology. He has experience in a   variety of fields‚Äîranging from technology and communications to video and   design‚Äîand has held positions with Apple, Arnold Worldwide, Macworld Magazine   and The New York Times. Beyond his professional experience, Scott enjoys   vegetarian cooking, adventurous bike rides, small animals, rock climbing and   photography. He is currently based in New York City.
+
+<strong>Susan Moore
+</strong><img src="http://codeforamerica.org/wp-content/uploads/2010/09/moore.png" alt="" hspace="5" width="75px" align="right" />Susan is a seasoned international marketing executive with over 15 years   of strategic and tactical marketing experience. She has led customer satisfaction and insight projects for   several market leaders including Microsoft, Eastman Chemical and Fletcher   Challenge. A featured speaker at   several American Marketing Association presentations, Susan is also a   contributor to the books "Wake Me Up When The Data is Over" (2006)   and "Mastering Customer Value Management" (2003). Susan holds an MBA from the   University of Chicago Graduate School of Business and a BA from Denison   University. Rain or sunshine,   Susan enjoys Bicycle Sundays along Lake Washington in Seattle, WA.
+
+<strong>Talin Salway
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/O5vuyt7heEE%3D/talin_headshot_100x100.jpg" alt="" hspace="5" width="75px" align="right" />Talin Salway graduated from UNLV with a degree in Computer Science in   2009, and has developed web applications since then, including the   co-founding of social location site peerCompass.com. He was awarded the rank   of Eagle Scout, and was part of a team which placed in the 2009 DefCon badge   hacking contest. His other interests include robotics, playing music on   piano, guitar, or violin, and studying the Japanese language.
+
+<strong>Tyler Stalder
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/LK3qWSeK2uI%3D/tylerstalder.png" alt="" hspace="5" width="75px" align="right" />Tyler Stalder spends his days as a web developer, specializing in   internal application development and design in the Midwest. Over the last   three years this has encompassed user interface design, front-end   development, business intelligence, and data visualization. He is passionate   about solving problems using technology in ways that are simple, accessible,   and forgiving. Tyler   received his bachelor's degree in Information, Networking, and Telecommunications   from Fort Hays State University, while also co-founding two web companies.   Today he volunteers with Youth Entrepreneurs of Kansas, helping students   develop business skills and entrepreneurial thinking.
+
+<strong>Vanessa Koch
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/XiREiltt3S4%3D/vanessa.jpg" alt="" hspace="5" width="75px" align="right" />Vanessa hails from the great Midwest where she spent her early years   chasing butterflies and splashing paint on canvas. She carried her brushes to   Pittsburgh, and after four years she graduated from Carnegie Mellon   University's School of Design with a degree in communication design. Her   latest adventure was set in Taipei, where she co-designed a service system   for Taiwanese diabetic patients. She enjoys good conversations and new   destinations.
+
+<strong>Yelena Nakhimovsky
+</strong><img src="https://codeforamerica.wufoo.com/cabinet/w7x3s5/OuZLJldKx9c%3D/yelenanakhimovsky_100x100.jpg" alt="" hspace="5" width="75px" align="right" />For nearly 10 years, Yelena Nakhimovsky has been making online products   more useful &amp; easier to use. A User Experience (UX) Researcher at Google   since 2006, Yelena works with designers, developers &amp; product managers to   shape and improve Google's offerings. She's contributed to Google Maps for   Mobile, Google Mobile Ads, 1-800-GOOG-411 &amp; early versions of Google   Search for high-end phones. Taking successful Gov2.0 projects as proofs of   concept, Yelena is convinced that local government efforts could be   super-charged by applying UX methods, ultimately saving time, money and   frustration. She's proud &amp; honored to be among the Code for America finalists.

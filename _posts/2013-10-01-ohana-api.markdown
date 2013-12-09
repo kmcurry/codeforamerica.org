@@ -1,0 +1,25 @@
+---
+layout: cfa_app
+status: publish
+published: true
+title: Ohana API
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+excerpt: 'Ohana API provides any city or county with an open-source framework for
+  opening up a dataset of community-based organizations, and keeping the information
+  up to date. SMC Connect is an example of an app built on this framework. '
+wordpress_id: 26344
+wordpress_url: http://www.codeforamerica.org/?post_type=cfa_app&#038;p=26344
+date: 2013-10-01 13:00:34.000000000 +00:00
+categories: []
+tags: []
+---
+Named after the Hawaiian word for family, the <a href="http://ohanapi.org/">Ohana API</a> provides any city or county with an open-source framework for opening up a dataset of community-based organizations, and keeping the information up to date. The API can also fuel economic development as it allows anyone to build applications on top of the data. <a href="http://smc-connect.org">SMC-Connect</a>, an open-source website that allows the residents of San Mateo County to easily find the services they are eligible for, is an example of what can be created using the API.
+
+<a href="http://ohanapi.org/"><img class="size-full wp-image-26346 aligncenter" alt="screenshot" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/screenshot.jpg" width="500" height="281" /></a>
+
+Both the API and SMC-Connect were developed by 2013 <a href="http://codeforamerica.org/cities/sanmateocounty">San Mateo County Code for America fellows</a> Anselm Bradford, Moncef Belyamani and Sophia Parafina for San Mateo County’s Human Services Agency (HSA), with funding from the Philanthropic Ventures Foundation.<br><br>
+
+The API's first third-party <a href="https://github.com/marks/ohana-sms">SMS app</a> is currently in development. 

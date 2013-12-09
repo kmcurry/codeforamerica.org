@@ -1,0 +1,29 @@
+---
+layout: page
+status: publish
+published: true
+title: Mentor at Code for America
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 9907
+wordpress_url: http://codeforamerica.org/?page_id=9907
+date: 2011-11-28 00:57:00.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America, through its <a href="http://www.codeforamerica.org/fellows/">Fellowship</a>, <a href="http://www.codeforamerica.org/brigade/">Brigade</a>, and <a href="http://www.codeforamerica.org/accelerator/">Accelerator</a> programs, pairs passionate technologists with innovative cities to create useful and beautiful civic technology.
+
+The CfA Mentor Program is a central component of our participants' experience. Senior professionals guide and advise CfA Fellows, Accelerator founders and Brigade members as they engage with governments and stretch their skills.
+
+We would be honored to have you as a CfA Mentor. Please use the form below to let us know how you would like to participate, and we'll be in touch.
+<div style="width: 910px; margin-top: 25px; background: #f2f2f2; padding: 15px;">
+<h2>Mentor Program Options</h2>
+<strong>Host 'Office Hours' at CfA:</strong> Be available on a pre-determined regular basis, usually for 3-4 hours per visit.
+<strong>Mentor a Fellow, Accelerator founder, or Brigade member:</strong> Commit 1-2 hours per month to partner with an individual on a consistent basis.
+<strong>Provide Periodic Advice: </strong> Be on call for when issues related to your specific expertise arise.
+<strong>Present at a 'CfA Speaker Series' Event:</strong> Give a brief talk to Fellows, founders, and other Friends of CfA.
+If you have any questions, don't hesitate to <a href="mailto:info@codeforamerica.org">get in touch</a>.
+
+</div>
+<div style="width: 510px; float: left;"><iframe src="https://docs.google.com/forms/d/1kFP2caLmoY3xr3clOqMxWMhC66RuLDgwugtYEZ-AhxE/viewform?embedded=true" height="1250" width="910" frameborder="0" marginwidth="0" marginheight="0"></iframe></div>

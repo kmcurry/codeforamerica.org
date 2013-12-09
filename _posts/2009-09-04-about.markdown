@@ -1,0 +1,31 @@
+---
+layout: page
+status: publish
+published: true
+title: About
+author: Leonard Lin
+author_login: lhl
+author_email: lhl@codeforamerica.org
+author_url: http://codeforamerica.org/
+wordpress_id: 2
+wordpress_url: http://codeforamerica.org/?page_id=2
+date: 2009-09-04 00:48:41.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+Code for America helps city governments become more transparent, connected and efficient by connecting the talents of cutting-edge web developers with people who deliver city services and want to embrace the transformative power of the web to achieve more impact with less money.  Inspired in part by Teach for America, CFA works with city officials and leading web development talent to identify and then develop web solutions that can then be shared and rolled out more broadly to cities across America.
+
+For the <a href="http://codeforamerica.org/the-program/">2011 program</a>,<a href="http://codeforamerica.org/2011-cities-projects/">four innovative cities</a> have been selected, and out of a pool of 362 applicants, <a href="http://codeforamerica.org/2011-code-for-america-fellows">20 fellows</a> were chosen our inaugural class.
+
+Code for America is a non-partisan, non-political organization.
+
+Our team is made up of web geeks, city experts, and technology industry leaders.
+
+<a href="http://codeforamerica.org/donors">Early funders</a> include the <a href="http://www.knightfoundation.org/initiatives/technologyforengagement.dot">Knight Foundation</a>,<a href="http://www.omidyar.com/">Omiydar Network</a>, <a href="http://www.rockefellerfoundation.org/">Rockefeller Foundation</a>, <a href="http://sunlightfoundation.com/">Sunlight Foundation</a>, the <a href="http://www.casefoundation.org/">Case Foundation</a>, and the Louis &amp; Anne Abrons Foundation.
+
+<a href="http://codeforamerica.org/what-we-do">What We Do</a>
+
+<a href="http://codeforamerica.org/who-we-are">Who We Are</a>
+
+<a href="/who-we-are"><img src="http://codeforamerica.org/img/board/andrew.greenhill.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/andrew.mclaughlin.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/clay.johnson.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/clay.shirky.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/jascha.franklin-hodge.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/jen.pahlka.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/leonard.lin.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/monica.harrington.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/peter.corbett.jpg" border="0" alt="Code for America Team" width="50" height="50" /><img src="http://codeforamerica.org/img/board/tim.oreilly.jpg" border="0" alt="Code for America Team" width="50" height="50" /></a>

@@ -1,0 +1,101 @@
+---
+layout: page
+status: publish
+published: true
+title: Innovation Strategy Roundtable
+author: Lauren Dyson
+author_login: lauren
+author_email: lauren@codeforamerica.org
+wordpress_id: 21607
+wordpress_url: http://codeforamerica.org/?page_id=21607
+date: 2013-04-30 14:13:07.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="hangout">
+<iframe width="940" height="450" src="http://www.youtube.com/embed/wYZbYR7ejZU" frameborder="0" allowfullscreen></iframe>
+</div>
+<span class="line"></span>
+<div id="participants">
+<div class="title">Participants</div>
+<div class="four" ><img src="http://codeforamerica.org/wp-content/uploads/2013/04/nigeljacobsquare.png" alt="" title="nigel" width="150" height="150" size-thumbnail wp-image-21584" /></a>
+<h3>Nigel Jacob</h3>
+Co-Director, Mayor's Office of New Urban Mechanics
+<em>City of Boston</em>
+<a href="https://twitter.com/nsjacob">@nsjacob</a>
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/Greg_Hermann_circle.png" alt="" title="greg" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>Greg Hermann</h3>
+Head Nerd
+<em>City of Carlsbad, Calif.</em>
+<a href="https://twitter.com/gregphermann">@gregphermann</a>
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/jayandersoncircle.png" alt="" title="jay" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>Jacob Anderson</h3>
+Office of Innovation and Sustainability
+<em>City of Colorado Springs, CO</em>
+<a href="https://twitter.com/the_jay_CO">@the_jay_co</a>
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/jaynathcircle.png" alt="" title="nath" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>Jay Nath</h3>
+Chief Innovation Officer
+<em>City & County of San Francisco</em>
+<a href="https://twitter.com/Jay_Nath">@jay_nath</a>
+</div>
+<span class="line"></span>
+<div class="title">About</div>
+<p> Learn how to build an innovation strategy that aligns with your city's needs and priorities. We've invited Peer Network members from four very different cities to share the approaches and rationales behind their innovation programs, and how they have adapted their strategy to suit their local needs and priorities. Our featured members will present best practices and lessons learned from across the country, and then open it up to a conversation around new ideas and tactics.
+
+This session originally aired May 14, 2013.
+
+<a href="http://peernetwork.in"><img class="alignleft size-thumbnail wp-image-20675" title="lightbulb" src="http://codeforamerica.org/wp-content/uploads/2013/02/lightbulb-150x150.png" alt="" width="75" /></a><em>This event is hosted by the <a href="http://peernetwork.in">Code for America Peer Network</a>, CfA's community of innovators working in local government from over thirty cities and counties. Learn more about the Peer Network and how you can get involved <a href="http://peernetwork.in">here</a>.
+
+<style>
+.four {
+width:24.5%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+text-align:center;
+}
+.four p{
+margin:5px 0px;
+line-height:1em;
+}
+.five {
+width:20%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+text-align:center;
+}
+.five p{
+margin:5px 0px;
+line-height:1em;
+}
+.gutter{
+width: 2%;
+	float:left;
+}
+.title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 24px;
+	color: #191919;
+	text-transform: uppercase;
+        padding:20px 0px
+}
+.line {
+        border-top: 3px solid #CCC;
+        width: 100%;
+        display: block;
+        clear: both;
+        margin-bottom: 5px;
+}
+.hangout{
+  padding:20px 0px;
+
+}
+</style>

@@ -1,0 +1,14 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 2591
+wordpress_url: http://50.16.221.90/cfa_wordpress/?p=2591
+date: 2011-01-06 22:47:02.000000000 +00:00
+categories: []
+tags: []
+---
+For media inquiries, please contact: Abhi Nemani Director of Strategy and Communications abhi [@] codeforamerica.org 6183222220Non-profit offers tech talents to local government, Dec 3, 2010, MarketWatch Code for America matches some of the country’s top young technologists with city governments for one year. Its goal is to develop innovative, cost-saving web-based technologies aimed at making government more accountable, connected and efficient. In many cases, CfA fellows take large pay cuts to code for good. How an Army of Techies is Taking on City Hall, Nov 29, 2010, Fast Company This January, a new organization called Code for America, with support from Yahoo, Microsoft, and others, will launch, aiming to leverage the idealism of a generation of young programmers, this time from within city hall‚Ä¶ ‚ÄúThis transcends political ideology,‚Äù says Jennifer Pahlka, Code for America’s founder. ‚ÄúOne thing that people of different backgrounds can agree on is that government needs to get better.‚Äù ‚ÄòCode for America’ Programmers to Work in City Governments, Nov 3, 2010, Government Technology Four cities will each receive a team of five open source Web programmers for 11 months, as selected by Code for America, a new nonprofit that’s pairing Web geeks with city governments. The selected…

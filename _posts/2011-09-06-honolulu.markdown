@@ -1,0 +1,26 @@
+---
+layout: page
+status: publish
+published: true
+title: '2012 City Partner: Honolulu'
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 8396
+wordpress_url: http://codeforamerica.org/?page_id=8396
+date: 2011-09-06 18:12:44.000000000 +00:00
+categories: []
+tags: []
+---
+<a href="http://codeforamerica.org/wp-content/uploads/2011/06/hon_1801.jpg"><img class="aligncenter size-full wp-image-6157" title="hon_180" src="http://codeforamerica.org/wp-content/uploads/2011/06/hon_1801.jpg" alt="" width="630" height="180" /></a><em></em>
+<blockquote><em>“This is a great opportunity for the City to advance its </em><em><a href="http://codeforamerica.org/wp-content/uploads/2011/06/honolulu.png"><img class="alignright size-full wp-image-6225" title="honolulu" src="http://codeforamerica.org/wp-content/uploads/2011/06/honolulu.png" alt="" width="122" height="122" /></a></em><em>information technology capabilities... By partnering with Code for America, we can move forward with plans to provide an innovative web application that will help make our City more efficient, transparent and participatory.”</em>
+
+- <strong>Mayor Peter Carlisle</strong></blockquote>
+The ongoing development and widespread adoption of digital technologies is creating remarkable opportunities for new efficiency, transparency, and responsiveness. The ability to capture, transmit, and monitor progress of service requests on a single device sets the stage for a revolution in citizen reporting, and Honolulu partnered with Code for America to take advantage of this opportunity to reinvent their constituent engagement system for the digital era.
+
+Together the group hoped to take advantage of the work being done by cities to use technology -- particularly around 311 call centers -- to connect citizens to government in a way that addresses nuisances, potholes, and information requests collaboratively. Across the country, governments have been adopting a common standard for 311 reporting, Open311, which means that apps built on 311 data anywhere can be used everywhere. The Honolulu project included elements of open data and citizen participation through public facing technology for issue submission, while ensuring efficiency and cost-savings by intelligently filtering those submissions for the city. Moreover, the project aimed to engage citizens themselves in not just the reporting of issues, but their resolution, organizing amongst themselves to take care of their communities.
+<h3>The Challenge</h3>
+Honolulu was selected as a partner for the 2012 Code for America Fellowship and a team of CfA Fellows took on this challenge. In less than a year, they worked with the city and local partners to go from concept to delivery -- with everything from research and marketing to development and testing.
+<h3>End of Year Report</h3>
+<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/22304158" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="479" height="511"></iframe>
+<div style="margin-bottom: 5px;"><strong> <a title="2012_Honolulu end of year report " href="http://www.slideshare.net/codeforamerica/honolulu-end-of-year-report-2012" target="_blank">2012_Honolulu end of year report </a> </strong> from <strong><a href="http://www.slideshare.net/codeforamerica" target="_blank">Code for America</a></strong></div>

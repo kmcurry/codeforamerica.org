@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: SFOpen 2011 Recap
+author: Aditya Pai
+author_login: aditya
+author_email: aditya@codeforamerica.org
+wordpress_id: 7003
+wordpress_url: http://codeforamerica.org/?p=7003
+date: 2011-06-22 14:56:14.000000000 +00:00
+categories:
+- News
+tags: []
+---
+Last Thursday, Code for America was proud to partner with GovFresh and change.org to bring together the 2011 San Francisco Mayoral candidates for a discussion on open government and innovation. Participating candidates included Michela Alioto-Pier, John Avalos, David Chiu, Bevan Dufty, Tony Hall, Dennis Herrera, Joanna Rees, Phil Ting and Leland Yee and the debate was moderated by Mitch Kapor. SFOpen 2011 served as the kick-off for San Francisco’s <a href="http://www.summerofsmart.org/home/">Summer of Smart</a>, “a four-month experiment in urban innovation and open government.”
+
+<object width="400" height="300"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Flastminuteracer%2Fsets%2F72157626984645784%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Flastminuteracer%2Fsets%2F72157626984645784%2F&amp;set_id=72157626984645784&amp;jump_to=" /> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=104087" /> <param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=104087" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Flastminuteracer%2Fsets%2F72157626984645784%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Flastminuteracer%2Fsets%2F72157626984645784%2F&amp;set_id=72157626984645784&amp;jump_to="></embed></object>

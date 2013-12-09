@@ -1,0 +1,20 @@
+---
+layout: page
+status: publish
+published: true
+title: The Civic Commons Project
+author: Dan Melton
+author_login: dan
+author_email: dan@codeforamerica.org
+wordpress_id: 973
+wordpress_url: http://codeforamerica.org/?page_id=973
+date: 2010-07-14 17:55:00.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+<img class="left" src="http://civiccommons.org/wp-content/uploads/2010/10/venn.jpg" alt="" width="350" /> How can government meet the challenges of the 21st century? After decades of trimming budgets when times were tough, government entities now find that revenues are not projected to bounce back, that demand for services continues to rise, and that current modes of operation are unsustainable. Local governments are hit the hardest, going bankrupt at an alarming rate, but quality of life suffers in communities around the US as public institutions at all levels weaken. Despite this bleak picture, we are convinced that society is at a tipping point where developments in technology and networked communication make it possible for government to reinvent itself. We can strengthen the institutions of government and their ability to serve the public by doing what government is fundamentally meant to do: collaborate and share resources.
+
+An enormous opportunity to reduce costs, strengthen ties, and foster collaboration lies in the IT infrastructures of our governing institutions – the technology they require to provide myriad essential services. Whereas private sector and academic innovation is accelerating through collaboration and the rapid spread of useful software across networks, public sector innovators face particularly acute barriers such as rigid procurement regulations and vendor lock-in. For the most part, each city, county, state, agency and sometimes individual office builds or buys their technology solutions independently, creating huge redundancies in civic software and wasting millions of taxpayer dollars. These technologies should be public assets, and the agencies responsible for them should be able to work together to better serve the public.
+
+As an independent non-profit organization, <a href="http://www.civiccommons.org">Civic Commons</a> will help these institutions share code and best practices, advance procurement modernization, and learn to function not only as a provider of services but as a platform upon which an ecosystem of industry and civic-minded volunteers can work together to add value for all of us.

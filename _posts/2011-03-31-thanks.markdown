@@ -1,0 +1,21 @@
+---
+layout: page
+status: publish
+published: true
+title: Thanks for Applying!
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 4855
+wordpress_url: http://codeforamerica.org/?page_id=4855
+date: 2011-03-31 11:21:06.000000000 +00:00
+categories: []
+tags: []
+---
+Thank you for applying for the 2014 Code for America fellowship. You’re all done with Step One of the application process -- you should receive a confirmation note shortly at the email address you provided.
+
+You and hackers like you are the vanguard of a new wave of citizenship. We salute you. While our Fellowship is a unique program, it’s far too small to accommodate all the great people who want to use their skills to make a difference. But there many ways to lend your skills. Whether you’re ultimately selected as a 2014 Fellow or not, we hope civic hacking will be a lifelong pursuit.
+<h2>What to Do Next</h2>
+Please join us at an <a href="http://brigade.codeforamerica.org/pages/events">event</a>, contribute code to<a href="https://github.com/codeforamerica"> one of our projects</a>, or participate in the <a href="http://brigade.codeforamerica.org/civic-coding">Great American Civic Hack</a> this summer.
+<p dir="ltr">Now, go tell the world: “<a href="http://twitter.com/?status=I%20just%20applied%20to%20@CodeforAmerica%21%20http://c4a.me/evpEmz">I just applied to @CodeforAmerica! </a><a href="http://c4a.me/evpEmz">http://c4a.me/evpEmz</a>” and we’ll be in touch about the next steps in mid-late August.</p>
+We hope to see you soon, at a meeting or online. Keep hacking!

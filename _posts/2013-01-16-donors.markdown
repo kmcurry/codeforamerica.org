@@ -1,0 +1,268 @@
+---
+layout: page
+status: publish
+published: true
+title: 'Donors '
+author: Ashley Meyers
+author_login: ashley
+author_email: ashley@codeforamerica.org
+wordpress_id: 18437
+wordpress_url: http://codeforamerica.org/?page_id=18437
+date: 2013-01-16 18:45:08.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America is generously supported by leaders in philanthropy and technology. Their support helps make our work connecting city governments and web talent possible. If you are interested in giving, we would appreciate <a href="https://secure.codeforamerica.org/page/contribute">your contribution of any size</a>, or <a href="http://codeforamerica.org/support-2">shape</a>. Donations to Code for America, a 501 (c)(3) nonprofit, nonpartisan organization, are tax deductible.
+
+<span style="font-size: small;">Donors who contributed $1000 or more are listed in bold. Donors who supported local Fellowship cites are noted as such. Please see the bottom of the page for companies who have made in-kind contributions of products or services.</span>
+<h3><strong>2013</strong></h3>
+<span style="font-size: small;"><strong>Ashoka Foundation</strong></span>
+<strong>Blue Host with the support of Hari Ravichandran</strong>
+<strong>Blue Ridge Foundation New York<strong></strong>
+<span style="font-size: small;"><strong>California HealthCare Foundation
+<strong>Matt Cutts</strong></strong></span>
+<span style="font-size: small;"> <strong>Elbaz Family Foundation
+Max Fram-Schwartz</strong></span></strong>
+<strong></strong><strong>Google.org</strong>
+<strong> <strong>Goldhirsh Foundation</strong>
+<span style="font-size: small;"><strong>John S. and James L. Knight Foundation
+Vaughn Koch</strong></span>
+<span style="font-size: small;"><strong>Paul &amp; Yaffa Maritz</strong></span>
+<span style="font-size: small;"><strong>Omidyar Network
+Craig Newmark</strong></span>
+<strong style="font-size: small;">Paul Picciani</strong>
+<span style="font-size: small;"><strong>Geoff Ralston</strong></span>
+<span style="font-size: small;"><strong>Redlich Horwitz Foundation</strong></span>
+<strong>Rita Allen Foundation</strong></strong>
+<strong>
+</strong>
+<strong style="font-size: small;">Cerner Corporation </strong><span style="font-size: small;">- Kansas City</span>
+<span style="font-size: small;"> <strong>Ewing Marion Kauffman Foundation </strong>- Kansas City
+<span style="font-size: small;"><span style="font-size: small;"><strong>Google Fiber</strong> - Kansas City <strong></strong></span></span>
+<span style="font-size: small;"> <strong>H &amp; R Block Foundation</strong> - Kansas City </span>
+<span style="font-size: small;"><strong>Hall Family Foundation </strong>- Kansas City</span></span>
+<span style="font-size: small;"><span style="font-size: small;"><strong>Hallmark Cards, Inc. </strong>- Kansas City</span></span>
+<strong style="font-size: small;"> Sprint </strong><span style="font-size: small;">- Kansas City</span>
+<span style="font-size: small;"><span style="font-size: small;"><strong>The Downtown Project </strong>- Las Vegas</span>
+<span style="font-size: small;"><strong>Laura and John Arnold Foundation </strong>- Louisville</span>
+<span style="font-size: small;"><strong>Louisville Bar Foundation</strong> - Louisville</span></span>
+<span style="font-size: small;"><strong>Blue Ridge Foundation </strong>- New York</span>
+<span style="font-size: small;"><span style="font-size: small;"><strong>Laura and John Arnold Foundation </strong>- New York</span></span>
+<strong>Akonadi Foundation </strong>- Oakland
+<strong>Kapor Center for Social Impact </strong>- Oakland
+<strong>Pandora Media </strong>- Oakland
+<span style="font-size: small;"><span style="font-size: small;"><strong>William H. Donner Foundation </strong>- Oakland
+<strong>Vodafone Americas Foundation </strong>- San Francisco</span></span>
+<strong>Philanthropic Ventures Foundation</strong> - San Mateo County
+<strong>AT&amp;T</strong> - South Bend
+<strong>1st Source Bank</strong> - South Bend
+<strong>Community Foundation of St. Joseph County </strong>- South Bend
+<span style="font-size: small;"><span><strong>Judd Leighton Foundation</strong> - South Bend</span></span>
+<span style="font-size: small;"><span style="font-size: small;"> <strong>Memorial Health System </strong>- South Bend
+<strong>St. Joseph Regional Medical Center </strong>- South Bend
+<strong>Teachers Credit Union</strong> - South Bend</span></span>
+<strong>John S. and James L. Knight Foundation</strong> - Summit County
+<strong>Ohio and Erie Canalway Coalition</strong> - Summit County
+<strong>Metro Parks, Serving Summit County</strong> - Summit County
+<strong>Conservancy for Cuyahoga Valley National Park</strong> - Summit County
+<strong>City of Akron</strong> - Summit County
+<strong>Akron Metropolitan Area Transportation Study</strong> - Summit County
+
+Lance Ahern
+Akrosense/Tiny Circuits
+Jesse Bartley
+Praveen Bhamidipati
+John Boggan
+Spencer Broome
+Chris Cocchiaraley
+Kevin Curry
+Tara Davies
+Luqman Fauzi
+Paige Finkelman
+Roman Kamyk
+Herbert Kanner
+Ezra Kebrab
+Jonah Kim
+Ryan Ko
+Tod Kuykendall
+Carl Larsson
+Shaun Lee
+Charlie O'Donnell
+Jeffrey Maher
+Mark Pan
+Posner-Wallace Foundation
+Ed Schipul
+Jess Zimbabwe
+Serena Zhao
+<h3><strong>2012 </strong></h3>
+<span><strong style="font-size: small;">Blue Host with the support of Hari Ravichandran
+Blue Ridge Foundation
+Ron Bouganim
+Art Chang</strong></span>
+<span style="font-size: small;"><strong>The Ron Conway Family
+Russ Cox</strong></span>
+<span style="font-size: small;"> <strong>Cutts Foundation</strong></span>
+<span style="font-size: small;"> <strong>EMC Green Plum - The EMC Data Science Fellowship</strong></span>
+<span style="font-size: small;"><strong>Esri
+Alan Eustace
+Jascha Franklin-Hodge</strong></span>
+<span style="font-size: small;"> <strong>Freygish Foundation</strong></span>
+<span style="font-size: small;"> <strong>Ewing Marion Kauffman Foundation</strong></span>
+<span style="font-size: small;"> <strong>Robert Glushko and Pamela Samuelson</strong></span>
+<span style="font-size: small;"> <strong>Google.org</strong></span>
+<span style="font-size: small;"> <strong>Nick and Leslie Hanauer
+<strong>William and Flora Hewlett Foundation</strong></strong></span>
+<span style="font-size: small;"> <strong>Kaphan Foundation</strong></span>
+<span style="font-size: small;"> <strong>Paul and Yaffa Maritz</strong></span>
+<span style="font-size: small;"> <strong>Markle Foundation</strong></span>
+<span style="font-size: small;"> <strong>Mashable</strong></span>
+<span style="font-size: small;"> <strong>Andrew McLaughlin</strong></span>
+<span style="font-size: small;"><strong>Roger McNamee
+MDC Partners
+<strong>OATV</strong></strong></span>
+<span style="font-size: small;"><strong>Omidyar Network
+</strong></span><strong style="font-size: small;">Tim O'Reilly
+Jennifer Pahlka
+Gil &amp; Suzanne Penchina
+</strong><strong style="font-size: small;">Bijan Sabet
+</strong><strong style="font-size: small;">John Seely Brown
+</strong><strong style="font-size: small;">Tides Foundation with the support of Robert Millis
+</strong><strong style="font-size: small;">True Ventures
+Hal Varian
+</strong><strong style="font-size: small;">Steve Westly
+Lawrence Wilkinson</strong>
+
+<strong><span style="font-size: small;">John S. and James L. Knight Foundation </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Detroit, Macon, &amp; Philadelphia</span>
+<strong> <span style="font-size: small;"> Kellogg Foundation</span></strong><span style="font-size: small;"> - </span><span style="font-size: small;">Detroit</span>
+<strong> <span style="font-size: small;"> Greater New Orleans Foundation </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">New Orleans</span>
+<strong> <span style="font-size: small;"> Open Society Institute </span></strong><span style="font-size: small;">-</span><span style="font-size: small;"> New Orleans</span>
+<strong> <span style="font-size: small;"> Chicago Community Foundation </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Chicago</span>
+<strong> <span style="font-size: small;"> Barry Swenson Builders </span></strong><span style="font-size: small;">-</span><span style="font-size: small;"> Santa Cruz</span><strong><span style="font-size: small;">
+City of Capitola </span></strong><span style="font-size: small;">-</span><span style="font-size: small;"> Santa Cruz</span><strong><span style="font-size: small;">
+City of Scotts Valley </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span><strong><span style="font-size: small;">
+City of Watsonville </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span><strong><span style="font-size: small;">
+Community Foundation of Santa Cruz County </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span><strong><span style="font-size: small;">
+County of Santa Clara </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span><strong><span style="font-size: small;">
+County of Santa Cruz </span></strong><span style="font-size: small;">-</span><span style="font-size: small;"> Santa Cruz</span><strong><span style="font-size: small;">
+Cruzio </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span><strong><span style="font-size: small;">
+Economic Vitality Manager, Los Gatos </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span><strong><span style="font-size: small;">
+Joint Venture Silicon Valley </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span>
+<strong> <span style="font-size: small;"> NextSpace </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span><strong><span style="font-size: small;">
+Ow Family Properties </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span>
+<strong> <span style="font-size: small;"> Redtree Properties </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span>
+<strong> <span style="font-size: small;"> The Downtown Association </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span>
+<strong> <span style="font-size: small;"> University Business Park </span></strong><span style="font-size: small;">- </span><span style="font-size: small;">Santa Cruz</span>
+
+<span style="font-size: small;"> Connie Adams
+Strahimir Antolijak
+Patrick Atwater
+Sheila Bapat
+Ryan Barrett
+John and Michelle Battelle
+Lane Becker
+James Bentley
+Lucy Bernholtz
+Jake Brewer
+John Cary
+Jeff Casimir
+Scott Chamberlain
+Alexander Chen
+Joane Cheng
+Solon Christensen-Szalanski
+David Clayton
+Jesse Cooper
+Joesph Coster
+Michelle Crawford
+Jasson Denby
+Rita Deng
+Jeffrey Epstein
+Marie and Brian Fitzpatrick
+Diane Foster
+Brooke Ganz
+Brian Giori
+Benjamin Goldsmith
+Lisa Green
+Andrew Greenhill
+Skye Guthrie
+Stephen Hamilton
+Rebecca Handler
+Arnold Hansen
+Anita Hart
+Natasha Haugnes
+Clive Henrick
+Jason Hibbets
+Roger Huffstetler
+Sam Hysell
+Peter Jones
+Vijay Karunamurthy
+John Kennan
+Eugene Kim
+Rick and Robin Klau
+Matthew Klein
+Malcolm Knapp
+Carl Larsson
+Jeremy Levine
+Charlene Li
+Al Lieb
+Ricky Lim
+Jessica Liu
+Nick Martinelli
+Richard McMullen
+Ellen Miller
+John Musser
+Sanjai Nath
+Philip Neustrom
+Jessica Newhall
+Ray Nichols
+Sean O'Connor
+William Pahlka
+Andrew Parker
+Kathryn Pettit
+Nico Posner
+Susan Price
+Alex Ragsdale
+Ryan Resella
+Cathleen Rittereiser
+Barry Roeder
+Randy Rosso
+Adam Russ
+Tim Schwecke
+Adam Sebolka
+Jennifer Sein
+Barbara Sellars
+Ben Sheldon
+Jason Shellen
+John Sichi
+Delyn Simons
+Michelle Sites
+Peter Skomoroch
+Ted Smith
+Steve Smoot
+Christopher Snyder
+Daniel Suarez
+Paris Subrizi
+Nicholas Such
+Jed Sundwall
+Dan Suyeyasu
+Sarah Toton
+Will Turnage
+Judy van Soldt
+Lee Vann
+David Ward
+Kate Wing
+Ryan Wold
+Jon Wong</span>
+<h3><strong>In-Kind Contributors</strong></h3>
+<span style="font-size: small;"><a href="http://www.adobe.com/" target="_blank">Adobe</a>
+<a href="http://www.bluestatedigital.com/" target="_blank">BSD </a>
+<a href="http://cartodb.com/" target="_blank">CartoDB</a>
+<a href="http://www.dropbox.com" target="_blank">Dropbox</a>
+<a href="https://www.heroku.com/" target="_blank">Heroku</a>
+<a href="https://www.kissmetrics.com/" target="_blank">KISSmetrics</a>
+<a href="http://www.mapbox.com/" target="_blank">Mapbox</a>
+<a href="http://www.microsoft.com/en-us/default.aspx" target="_blank">Microsoft</a>
+<a href="http://www.mofo.com/" target="_blank">Morrison Foerster</a> - supporting the CfA Accelerator
+<a href="https://www.openshift.com/" target="_blank">Open Shift</a> by <a href="http://www.redhat.com/" target="_blank">Red Hat</a>
+</span><span style="font-size: small;"><a href="https://www.tropo.com/" target="_blank">Tropo</a></span>
+<span style="font-size: small;"> <a href="http://www.twilio.com/" target="_blank">Twilio</a>
+<a href="http://www.wsgr.com/WSGR/Default.aspx" target="_blank">Wilson Sonsini Goodrich &amp; Rosati</a> </span>

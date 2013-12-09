@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: 'RFP-EZ: A Case for Better Procurement'
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 21987
+wordpress_url: http://codeforamerica.org/?p=21987
+date: 2013-05-16 15:30:13.000000000 +00:00
+categories:
+- Accelerator
+- Open Gov
+- Procurement
+tags: []
+---
+The White House Office of Science and Technology Policy recently issued a <a href="http://www.whitehouse.gov/blog/2013/05/15/rfp-ez-delivers-savings-taxpayers-new-opportunities-small-business">post</a> on how online procurement platform <a href="https://rfpez.sba.gov">RFP-EZ</a> is already saving taxpayers money.  With five pilot contracts used as a proxy for success, RFP-EZ's online bids averaged 30 percent lower in price than those received through the traditional procurement platform of FedBizOpps. Over a year, this could translate into millions saved.
+
+In addition to the cost benefit, RFP-EZ also attracted more than 270 businesses who had never before approached the Federal government for a contract. With results like these it's no wonder that the project team is already working on RFP-EZ version two.
+
+<a href="http://codeforamerica.org/wp-content/uploads/2013/05/RFP-EZ1.jpg"><img class="size-full wp-image-21991 alignleft" title="RFP-EZ" src="http://codeforamerica.org/wp-content/uploads/2013/05/RFP-EZ1.jpg" alt="" width="450" height="229" /></a>
+
+The announcement comes just days after Presidential Innovation Fellow and RFP-EZ's team member Clay Johnson <a href="http://codeforamerica.org/author/clay-johnson/">wrote a three-part series</a> about government procurement strategies.
+
+&nbsp;
+
+As Johnson and our chief strategist <a href="http://codeforamerica.org/2013/05/07/towards-a-procurement-strategy/">Abhi Nemani suggest</a>, better procurement technology increases transparency and lowers the barrier to entry for competition. While RFP-EZ was created in just six months with the full project code available on <a href="https://github.com/presidential-innovation-fellows/rfpez">GitHub</a>, it's services like these that allow vendors to search for government contract opportunities in plain language while also receiving 24-7 insight into competitive offers. The result is that the government receives good value on its services while offering a chance for diverse new innovators to emerge.
+
+In keeping with CfA's belief that procurement is a great place to start to improve innovation in our communities, we encourage those civic startups with procurement solutions to consider our accelerator program. If you've been following the federal story and you've got great ideas on how to fix procurement or are looking to disrupt the civic tech industry, apply for to the CfA Accelerator: <a href="http://codeforamerica.org/accelerator/#application">codeforamerica.org/accelerator</a> by May 31, 2013.
+
+&nbsp;
+
+Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.

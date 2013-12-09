@@ -1,0 +1,26 @@
+---
+layout: page
+status: publish
+published: true
+title: 'A New Kind of Solution Webinar: <br />Why Your City Should Code for America'
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 3143
+wordpress_url: http://codeforamerica.org/
+date: 2011-01-19 20:09:13.000000000 +00:00
+categories: []
+tags: []
+---
+<a href="http://c4a.me/city-web-reg"><img src="http://codeforamerica.org/wp-content/uploads/2011/01/register-feb.png" alt="" title="register" width="301" height="67" class="alignright size-full wp-image-3158" /></a>Over the past six months we’ve heard from cities, big and small, across America about the challenges they’re facing. Through hundreds of interviews over the past year, we’ve seen first-hand the problems and the potential in local government. We’d like to share with you some of our learnings: what we’ve been hearing from local leaders across the country, why cities are interested in our program, and how our projects can change the way citizens and governments work together.
+
+We invite you to join us for <strong>A New Kind of Solution: Why Your City Should Code for America</strong> webinar on Tuesday, February 8, 2011, at 10am PT. In a brief webinar, we will go over the city program, discuss some common challenges facing our local governments, and answer questions from the audience. This is your opportunity to learn about the state of local governments across the country and how Code for America can work with your city to solve core problems.
+<ul>
+	<li><strong>What</strong>: Code for America City Program Webinar</li>
+	<li><strong>When</strong>: Tuesday, February 8, 2011, at 10am PT</li>
+	<li><strong>How</strong>: Online Event, Free Registration</li>
+	<li><strong><a href="http://c4a.me/city-web-reg">Register Now</a></strong></li>
+
+</ul>
+
+<em>Note: The webinar is being generously hosted by O'Reilly Media, and registration is being handled through their platform.</em>

@@ -1,0 +1,14 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Mick Thompson
+author_login: mick
+author_email: mick@codeforamerica.org
+wordpress_id: 22780
+wordpress_url: http://codeforamerica.org/?p=22780
+date: 2013-06-06 17:39:16.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America is a big idea with a small team, so we rely on supporters around the country to make our programs work. Here’s what to do: Donate Give: Make a tax-deductible donation to Code for America, and help us program the next chapter in American history. Hack Your City Developers, Designers & Researchers Join a Fellowship team: Spend 11 months with city leaders producing best practices, open-source apps and community solutions (Deadline Jul 31). Connect with the Brigade: Share projects, policy and code with other civic hackers. City Officials Enlist the Fellows: Spend 11 months with a team of civic hackers building better policy, apps and data practices. Connect with the Peer Network: Share tips, tricks and projects with other govtech innovators. Startups Join the Accelerator: Receive $25,000 in funding, office space in SF and 4 months of mentorship from govtech’s brightest leaders. Subscribe to Updates Send me #meta, the monthly newsletter Let me know about CfA events in SF What are you interested in? Fellowship Brigade Accelerator   Events @ CfA  

@@ -1,0 +1,15 @@
+---
+layout: page
+status: publish
+published: true
+title: Google Summer of Code 2012 Project Ideas
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 12163
+wordpress_url: http://codeforamerica.org/?page_id=12163
+date: 2012-03-29 20:20:09.000000000 +00:00
+categories: []
+tags: []
+---
+<iframe width='940' height='1000' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AvYYucBzoMJFdEtSVGs2YWhvY2VORkRkVk90NmNLOEE&single=true&gid=0&output=html&widget=true'></iframe>

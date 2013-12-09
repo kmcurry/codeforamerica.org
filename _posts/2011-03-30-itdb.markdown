@@ -1,0 +1,45 @@
+---
+layout: page
+status: publish
+published: true
+title: Cost-Saving IT Dashboard Software Now Available to All Levels of Government
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 4765
+wordpress_url: http://codeforamerica.org/?page_id=4765
+date: 2011-03-30 08:32:56.000000000 +00:00
+categories: []
+tags: []
+---
+<strong>For Immediate Release:
+Federal CIO Releases Cost-Saving IT Dashboard Software to All Levels of Government through Civic Commons Reuse Initiative</strong>
+
+<em>March 31, 2011 - Washington, DC </em> - Today, with the support of the <a href="http://civiccommons.org/">Civic Commons</a> project of <a href="http://codeforamerica.org/">Code for America</a>, in collaboration with <a href="http://openplans.org/">OpenPlans,</a> the Federal Government made the cost-saving IT Dashboard, the technology behind <a href="http://it.usaspending.gov/">IT.USAspending.gov</a>, freely available for any government entity to use and customize. This development is the latest in a growing movement to cut government IT spending by sharing reusable technology, thereby reducing redundant development costs and encouraging cooperation between multiple branches and levels of government.
+
+Launched in 2009, the <a href="http://itdashboard.gov/">Federal IT Dashboard</a> has been one of the most widely-recognized government transparency initiatives. US CIO Vivek Kundra explained, “In June of 2009, we launched the IT dashboard. It was a website where you could track $80 billion of IT spending annually. We literally took the picture of every CIO across the federal government and put it right next to the projects they’re responsible for.” The IT Dashboard is a publicly accessible tool that tracks details of federal spending, status, and ROI of information technology projects, making government investment in IT more transparent and allowing users to monitor how effectively taxpayer dollars are being spent. “Transparency is not just about data that’s out there in the public domain,” added Kundra, “it’s actually about government that performs and delivers for the American people.” The federal government has used the dashboard to evaluate project effectiveness in order to better manage government resources. According to an OMB report, the IT Dashboard was a major component of the process the Federal Government employed to save over $3 billion in just its first two years of deployment.
+
+“US taxpayers want accountability, transparency, and cost savings in IT spending at all levels of government,” added Jennifer Pahlka, founder of Code for America, the organization spearheading the sharing of the IT Dashboard, “Since they’ve already paid for an IT Dashboard with their federal taxes, their cities and states shouldn’t have to buy it again. We saw a real opportunity here to help all governments work better.” Kundra approached Code for America to provide technical and strategic support in making the IT Dashboard available to other governments.
+
+The initiative was coordinated through Code for America’s Civic Commons project, which helps governments share technology for the public good. Civic Commons is a collaboration between non-profits Code for America and OpenPlans. Working with the contractor that built the IT Dashboard for OMB, Civic Commons staff prepared the code for release under an open source license. The code behind the dashboard will now be available to the public, and other government entities can not only download and install the software, but also learn about successful deployment strategies and ways to maximize cost savings.
+
+The opening of the IT Dashboard is the latest in a trend of governments sharing their software to make it usable by other government agencies, and thereby to benefit from the improvements and contributions of other governments. Representatives from various other states, counties, and cities have already expressed interest in deploying the IT Dashboard, including Chicago, New York, West Virginia, and the Netherlands. "The creation of the IT dashboard was a significant step forward in making government programs more transparent and accountable,” said Tim O’Reilly, founder of O’Reilly Media, an early supporter of Code for America and Civic Commons. “Its open source release is a huge step forward - and a model for other government programs - in showing how to reduce the costs and increase the effectiveness of government by sharing tools developed by one agency with others who also need them."
+
+Using an open source licence, technology is made available for implementation or customization by other potential government users and developers. “There are many benefits to spreading this software through an open source model,” said Karl Fogel, Civic Commons lead on this IT Dashboard project. “The opening of this platform makes possible an ecosystem around it, and interestingly, the original contractor is as supportive of this as anyone. They understand that that ecosystem is itself a sales force for all its participants, while governments understand they can can deploy the Dashboard with access to support and development from a number of vendors. Everybody wins.”
+
+A live demo of the opensourced IT Dashboard is available: http://demo.itdashboard.reisys.com
+The code is available and open at http://sourceforge.net/projects/it-dashboard, and listed at http://www.cio.gov/tools, where the Federal CIO Council has also made available the TechStat Toolkit, a set of tools and processes for reviewing projects flagged by the Dashboard.
+
+<strong><a href="http://civiccommons.org">About Civic Commons
+</a></strong>Civic Commons helps government entities share code and best practices, reform procurement practices, and engage developers and vendors to participate in the recoding of government. Civic Commons is a project of Code for America, in collaboration with Open Plans.
+
+<strong><a href="http://codeforamerica.org ">About Code for America
+</a></strong>Code for America (CfA) connects the talent of the tech industry with local governments to make cities more open, responsive, and efficient. CfA recruits civic-minded, tech-savvy individuals to work with industry and governmental leaders to develop innovative applications that can be used in cities across the country.
+
+<strong><a href="http://openplans.org">About Open Plans
+</a></strong>OpenPlans is a nonprofit technology organization focused on open government and citizen engagement. A leader in Geographic Information Systems, transportation &amp; urban planning tools, and “open city” information technology, OpenPlans produces and supports open source software for the civic sector.
+
+<strong>Contact Information</strong>
+For media inquiries, please contact: Abhi Nemani, 618-322-2220, abhi@codeforamerica.org
+
+###

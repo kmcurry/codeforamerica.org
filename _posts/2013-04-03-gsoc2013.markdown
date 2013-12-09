@@ -1,0 +1,33 @@
+---
+layout: page
+status: publish
+published: true
+title: Google Summer of Code 2013
+author: Mick Thompson
+author_login: mick
+author_email: mick@codeforamerica.org
+wordpress_id: 21260
+wordpress_url: http://codeforamerica.org/?page_id=21260
+date: 2013-04-03 12:20:03.000000000 +00:00
+categories: []
+tags: []
+---
+Google Summer of Code is a great way to get involved with Code for America. Find out more from Google about the <a href="https://developers.google.com/open-source/soc/">GSoC program</a>.
+
+Code for America's GSoC program is being run by Mick Thompson &lt;mick at codeforamerica.org&gt;. Email him with any questions.
+
+Throughout the program we encourage you to discuss your ideas on our github: <a href="https://github.com/codeforamerica/dev">https://github.com/codeforamerica/dev</a> start a new <a href="https://github.com/codeforamerica/dev/issues">issue</a> to discuss your proposal. 
+
+<strong>Students</strong>
+
+Student application period opens April 22 and ends on May 3.
+
+Here is what we are looking for in a proposal:
+<ul>
+	<li>A clear concrete idea along with the tasked needed to make the idea a success.</li>
+	<li>Tell us about you. Show use what you have done in the past so we can see you are able to complete the project</li>
+	<li>Provide a schedule with major milestones so your mentor knows when to expect things to be done.</li>
+</ul>
+<h3>Ideas:</h3>
+
+Extend an existing Code for America project, or work on something reusable for civic developers. See a <a href="https://github.com/codeforamerica/dev/blob/master/gsoc2013.md"> list of ideas on github</a> Then please discuss your proposal in that github repo by starting a new <a href="https://github.com/codeforamerica/dev/issues">issue</a> 

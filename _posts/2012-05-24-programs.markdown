@@ -1,0 +1,15 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Programs
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 13474
+wordpress_url: http://codeforamerica.org/?p=13474
+date: 2012-05-24 12:24:17.000000000 +00:00
+categories: []
+tags: []
+---
+Cities are under greater pressure than ever, struggling with budget cuts and outdated technology. Code for America believes that instead of cutting services or raising taxes, cities can leverage the power of the web to become more open and efficient. And we want to help them do it. Here’s how: Through Code for America’s fellowship program, we recruit talented web developers, designers, and entrepreneurs into a year of public service and then invite forward-thinking cities to apply to work with them, hand-in-hand, to help them better leverage technology and engage the community. Through this process — and they apps they create, datasets they open, and events they host — both the fellows and the cities not only make a real difference in each city, but they also show what’s possible in any city. While technological and market advances over the past few decades have enabled the private sector to run more efficiently, government has been left behind, saddled with outdated and inefficient software and vendors. That has to change. The Code for America Accelerator recruits “civic startups” and turbo-charges them with a national platform to raise awareness, a wealth of business training and advice, and a broad network of potential…

@@ -1,0 +1,71 @@
+---
+layout: page
+status: publish
+published: true
+title: Las Vegas
+author: Joel Mahoney
+author_login: joel
+author_email: joel@codeforamerica.org
+wordpress_id: 16862
+wordpress_url: http://codeforamerica.org/?page_id=16862
+date: 2012-09-29 16:14:45.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/lasvegas1-150x150.jpg" width="144" height="144" /></div>
+<blockquote><em>"As the economy shifts toward recovery It’s now time, for us at the City of Las Vegas to get creative. Serving the community will require innovation, critically different thinking and most of all, focus and energy. Participating in the Code for America project will be the catalyst for the city to become a high-tech community-minded model for other cities to emulate."</em>
+
+- <strong>Joseph Marcella, CIO, City of Las Vegas</strong></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Las Vegas</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/09/lasvegas_brigade.jpg" /></div>
+<h4>The Brigade</h4>
+To commemorate the 2013 National Day of Civic Hacking and <a href="http://vegashack.com/">VegasHack</a>, the City of Las Vegas released an <a href="http://lasvegas.opendata.junar.com/home/">open data portal</a> with information on employee compensation, service requests, business licenses, development service projects and census data.The city is currently in talks to create an open data policy and at the time of the Mayor’s Innovation Summit, Mayor Goodman committed to using the <a href="http://housefacts.me/">housefacts</a> data standard to publish information on residential house, safety inspections and unsafe housing conditions. Vegas is currently working on building out its Code for America Brigade. Brigade Captains Shawn Looker and Ryan Quinn have recently stepped forward to take over. Check the CfA brigade site for <a href="http://brigade.codeforamerica.org/">updates</a> on how you can join.
+<p class="link-block"><a href="http://lasvegas.opendata.junar.com/home/">Open Data Portal
+</a><a href="http://brigade.codeforamerica.org/">Code for America Brigade Site</a> - LV brigade updates coming soon</p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/09/lasvegas_fellowship.jpg" />
+The fellows pose with the city as their backdrop.
+<br><br>
+<iframe width="300" height="165" src="//www.youtube.com/embed/_lTPz0Qp8sA" frameborder="0" allowfullscreen></iframe>
+Las Vegas Spotlight on Economic Development at Code for America Summit
+</div>
+<h4>The 2013 Fellowship in Las Vegas</h4>
+The economic recovery of the City of Las Vegas depends heavily on its ability to redefine beyond gaming and entertainment. Locally-based Zappos invested in the the Downtown Revitalization project, turning the city’s core into a high-tech business incubator and creating a public environment that appeals to creative and educated workers. Nevertheless, in 2013, there’s still plenty of work to be done. It’s for this reason that the City of Las Vegas IT Department and Las Vegas Department of Economic Development enlisted Code for America fellows Lou Huang, Ryan Closner and Lindsay Ballant to brainstorm ideas.
+
+One such idea was their <a href="http://lv-fastpass.herokuapp.com/">Development FastPass</a>. Built utilizing the <a href="http://www.census.gov/eos/www/naics/">North American Industry Classification System</a> (NAICS), the app helps business owners research the best options to locate their businesses within Las Vegas.
+
+Originally used by the Census Bureau to assess the state of North America’s economy, NAICS is a six-digit classification with each digit corresponding to a specific economic sector, industry group or nation (in this case US, Canada and Mexico). Fellows Lou Huang and Ryan Closner quickly realized that this same well-established system could help offer recommendations on commercial land use options by coupling it with additional public datasets.
+
+The two combined NAICS with land use, building occupancy, zoning, and business incentive data to produce their <a href="http://lv-fastpass.herokuapp.com/">Development FastPass</a> application in just a few months. If the duo can convince a third party vendor like Trulia to contribute information, there’s a chance that FastPass will do more than just reveal a property. It will help facilitate its lease or purchase.
+
+The team also created the <a href="http://www.lasvegasnevada.gov/foodtruck">Food trucks of DTLV app </a> to help the city monitor real-time usage of metered parking spaces while also offering public updated on food truck location. The 2013 Las Vegas fellowship team also built the <a href="http://am-i-in-vegas.herokuapp.com/">Am I in Las Vegas?</a> -- an app to let residents know whether or not a parcel of land is within city limits.
+<p class="link-block"><a href="http://lv-fastpass.herokuapp.com/">Development Opportunity Finder</a>
+<a href="http://am-i-in-vegas.herokuapp.com/">Am I in Las Vegas?</a>
+<a href="http://www.lasvegasnevada.gov/foodtruck/">Food trucks of DTLV app</a>
+
+<b>Community Partners</b>: The Downtown Project
+</p>
+
+</div>
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.codeforamerica.org/2013/09/17/brigade-captains/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/09/lasvegas_press1.jpg" /></a></div>
+<h4>Announcing the 2013 Brigade Captains - <a href="http://www.codeforamerica.org/2013/09/17/brigade-captains/">Code for America Blog</a></h4>
+In 2012, Code for America launched the Brigade program, enacting 16 local chapters. Today we’re excited to announce the addition of 18 new Brigades supported by 31 new Captains. This includes the City of Las Vegas.
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.lasvegasnevada.gov/Publications/29094.htm"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/09/lasvegas_press2.jpg" /></a></div>
+<h4>Downtown Food Truck iPhone App Now Available - <a href="http://www.lasvegasnevada.gov/Publications/29094.htm">Lasvegasnevada.gov</a></h4>
+Information about the city’s pilot program for downtown food trucks is now available through the city of Las Vegas App for iPhones®. The free app shows what food trucks are currently in three designated spaces downtown and also features a map and schedule as well as links to the food truck’s websites.
+</div>

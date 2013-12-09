@@ -1,0 +1,31 @@
+---
+layout: page
+status: publish
+published: true
+title: Accelerator 2012
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 28080
+wordpress_url: http://www.codeforamerica.org/?page_id=28080
+date: 2013-12-03 16:58:20.000000000 +00:00
+categories: []
+tags: []
+---
+The inaugural class of the Accelerator was composed of seven civic startups developing real, sustainable solutions for challenges faced by our governments. Chosen from more than 235 applicants by Tim O'Reilly, Ron Bouganim, and a board of government technology leaders, the Accelerator startups represent a select pool of talent, potential, and passion necessary to advance civic technology in today's marketplace. 
+<hr style="color: #ccc;" />
+
+<a href="https://www.auntbertha.com/">Aunt Bertha</a>: Aunt Bertha simplifies the search and application process for social services. We collect information on federal, state, county, city, neighborhood and nonprofit programs and put it all in one place. In just a few seconds, users can enter basic information and find programs relevant to their needs.<br><br>
+
+<a href="http://captricity.com">Captricity</a>: Captricity offers a completely self-serve data entry service for digitizing paper forms. We can get data off of paper and into a digital spreadsheet quickly and cheaply, providing human-quality data entry that works on hand-writing — but at a fraction of what manual data entry costs.<br><br>
+
+<a href="https://www.learnsprout.com/">LearnSprout</a>: LearnSprout brings interoperability and accessibility to school data. We build tools to access school data currently silo-ed away in legacy student information systems used across US K12. We’re creating a web API service that allows developers to build classroom apps that leverage this data, without the expensive enterprise-like vendor integration process.<br><br>
+
+<a href="http://measuredvoice.com">Measured Voice</a>: Measured Voice (MV) is a web-based social media management system (SMMS) designed to help government organizations create, publish, and measure social media content. Measured Voice helps users manage multiple social media accounts, enact publishing workflow, delineate team roles, and measure results and team performance through a simple interface.<br><br>
+
+<a href="http://www.mindmixer.com/">Mindmixer</a>: MindMixer is an engagement tool that activates community contributors. Ideas, voices, and perspectives are shared to facilitate deeper conversations that yield actionable insights. The tool has helped create a network of contributors in more than 250 organizations around the country.<br><br>
+
+<a href="http://recovers.org">Recovers</a>: We’re building a toolkit for community powered disaster recovery. Our disaster response platform at [townname].recovers.org incorporates searchable databases, social media aggregation, and mobile tools, allowing grassroots organizers to efficiently marshal resources in their area.<br><br>
+
+<a href="http://www.revelstonelabs.com/">Revelstone</a>: Revelstone is a performance metrics and social networking company for the public sector. We are building an online virtual community that enables local government leaders to measure, compare and discuss operational performance results with their peers in order to learn from each other to improve.

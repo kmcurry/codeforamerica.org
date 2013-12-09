@@ -1,0 +1,14 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 17068
+wordpress_url: http://codeforamerica.org/?p=17068
+date: 2012-10-01 12:02:46.000000000 +00:00
+categories: []
+tags: []
+---
+The Code for America Fellowship is a partnership — it’s a collaboration between change agents inside City Hall and talented technologists, giving a year of service. This year over 30 governments applied for the 2013 program, by identifying problem areas that would not only challenge the CfA fellows, but also make a real impact in local communities. During the past four months Code for America staff, fellows and an amazing selection committee dived into those applications and narrowed down potential partners to a group of 10 finalists, based on their problem statement and also their commitment and capacity. Learn more about what each finalist city is hoping to accomplish in CfA 2012 using the links below: Kansas City Las Vegas Louisville New York Oakland San Francisco San Mateo South Bend Summit County This group of 10 will be narrowed down to five to eight city partners for our 2012 program. Selected cities will be announced in the Fall 2011.

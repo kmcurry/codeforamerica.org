@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 'CfA Codes for More of America in 2012: What’s Ahead'
+author: Jennifer Pahlka
+author_login: jen
+author_email: jen@pahlka.com
+author_url: http://codeforamerica.org
+wordpress_id: 10143
+wordpress_url: http://codeforamerica.org/?p=10143
+date: 2011-12-14 03:00:44.000000000 +00:00
+categories:
+- News
+tags: []
+---
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/google.jpg"><img src="http://codeforamerica.org/wp-content/uploads/2011/12/google.jpg" alt="" title="google" width="200" class="alignright size-full wp-image-10250" /></a>Today, we’re pleased to announce that with the support of <a href="http://google.com">Google</a>, Code for America will be growing quite a bit in <a href="/2012">2012</a>. The charitable giving team at Google is granting Code for America $1.5M to help us do more with the fellowship, and pilot two new programs designed to help government work better with the people and the power of the web. See their announcement of their 2012 giving, which includes many other wonderful causes, <a href="http://www.google.com/landing/givesback/2011/">here</a>.
+
+How will we grow, and what does this mean for the future of the organization? Well, this year, we learned that the fellowship is a powerful tool for bringing innovation into government, so we’ll be expanding the program with more cities and more fellows. We also realize that the fellowship is just one tool to realize the change we seek, so next year we will be working from the outside as well, tapping into the energy in local community groups and leveraging the disruptive potential of entrepreneurs.
+
+<strong><a href="/fellows">Evolving Fellowship:</a></strong> In 2012, we’ll put <a href="http://codeforamerica.org/2012-fellows/">fellows</a> in <a href="/cities">eight cities</a>, a big jump from our pilot year. We’re also institutionalizing the experimental, test-driven culture that led to many of our successes this year and applying the lessons learned to make a better fellowship. We’re looking forward not only to great new apps and stories of innovation, but to reuse of the 2011 apps by our new city partners and others. We’d like to thank not only Google but also the <a href="http://knightfoundation.org">John S and James L Knight Foundation</a>, who has made the fellowship possible from the start and continues to fund the fellows program in 2012, as well as the <a href="http://fordfoundation.org/">Ford Foundation</a>, the <a href="http://www.soros.org/">Open Society Foundations</a>, and many others who’ve made it possible for us to bring the program to new cities in 2012.
+
+Applications for the 2013 Fellowship opened today; <a href="http://codeforamerica.org/apply">apply now</a>: http://codeforamerica.org/apply
+
+<a href="/accelerator"><img src="http://codeforamerica.org/wp-content/uploads/2011/10/incubator_editedV221-300x102.png" alt="" title="incubator_editedV22" width="200" height="102" class="alignright size-medium wp-image-10233" /></a><strong><a href="/accelerator">Civic Startup Seed Accelerator</a>:</strong> Disruptive technology in the hands of entrepreneurs can change the world. It’s time it changed government. We’re launching a seed accelerator to foster sustainable businesses that can become the next generation of government vendors. We’re grateful also the <a href="http://www.kauffman.org/">Kauffman Foundation</a> for supporting this program. Look for more information about the seed accelerator in Spring 2012. Stay connected by <a href="/accelerator">signing up here</a>.
+
+<a href="/brigade"><img src="http://codeforamerica.org/wp-content/uploads/2011/10/CfA_Brigade_logo_FINAL-300x120.png" alt="" title="CfA_Brigade_logo_FINAL" width="200" class="alignright size-medium wp-image-10234" /></a><strong><a href="/brigade">CfA Brigade</a>:</strong> Thousands of citizens across the country want to “code for America” and bring the changes they see around them to their city. In 2012, we’ll roll out an online platform to connect civic hackers and others with each other locally, and to reuse and remix civic apps in their cities. Look for a chance to be a part of this movement starting in March, and in the meantime, <a href="/brigade">sign up for access</a> when the beta site goes live.
+
+While the fellowship is pretty well defined, the two new programs are just starting to take shape. There’s a lot to do in terms of strategy, execution, funding, and outreach. We'd like these programs to reflect the desires and creativity of all of you who care about Code for America’s mission. We’re couldn’t be more excited (and perhaps a little daunted) about what’s ahead, and we hope you join us in these efforts in 2012.

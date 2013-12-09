@@ -1,0 +1,193 @@
+---
+layout: page
+status: publish
+published: true
+title: 2013 Code for America Fellows
+author: Joel Mahoney
+author_login: joel
+author_email: joel@codeforamerica.org
+wordpress_id: 17245
+wordpress_url: http://codeforamerica.org/?page_id=17245
+date: 2012-10-16 15:46:02.000000000 +00:00
+categories: []
+tags: []
+---
+<em>Code for America's 2013 Fellows are graduating with many available for work in technology, government and design. If you'd like an introduction to one of the fellows please email </em>atran[at]codeforamerica.org.
+<hr style="color: #ccc;" />
+More than 550 people applied for a 2013 Code for America Fellowship. Men and women from across the country and around the world applied to the program with backgrounds ranging from back-end development to urban design. From that impressive applicant pool, we selected 28 people who form the 2013 class of Code for America Fellows. Here they are.
+<p style="text-align: right;"><a href="http://codeforamerica.org/fellows/apply">Apply for Next Year's Fellowship &gt;&gt;</a></p>
+
+
+<hr style="color: #ccc;" />
+
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/andrew_hyder-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Andrew"></a>Andrew Hyder</strong></div>
+<div class="name"><a href="http://codeforamerica.org/2013-partners/kansas-city/">Kansas City(s) Team</a></div>
+<div class="bio">Andrew is an urban designer and software engineer dedicated to creating safe, fun, and healthy communities. He enjoys hacking on cities, making maps, and telling stories with data. At Urban Mapping he worked on an online mapping and data API. At Urban Ecology he successfully built several school yards, bicycle paths, and neighborhood parks around the Bay Area. <a href="www.linkedin.com/in/hyd415">LinkedIn</a> | <a href="https://twitter.com/hackyourcity">@hackyourcity</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Ariel_Kennan-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Ariel"></a>Ariel Kennan</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/kansas-city/">Kansas City(s) Team</a></div>
+<div class="bio">Ariel is an interaction and experience designer, most recently with ESI Design in New York. Her passion is where experience design meets scale – from the palm of the hand to entire cities. She has created mobile applications, websites, kiosks, media walls, institutions, and master planning for new communities. Ariel holds a BFA in Integrated Design from Parsons the New School for Design. <a href="http://www.linkedin.com/in/arielkennan">LinkedIn</a> | <a href="https://twitter.com/arielmai">@arielmai</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/louhuang_headshot2-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Lou"></a>Lou Huang</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/las-vegas/">Las Vegas Team</a></div>
+<div class="bio">Lou is a LEED-accredited urban designer based in San Francisco. Most recently he has been working on guidelines for multi-family, mixed income neighborhoods. He has also worked as a graphic and web designer, and is currently experimenting with mapping, data visualization, and using video games for effective city planning and community engagement strategies. He holds a BA in Architecture from University of California Berkeley and a Master of City Planning from the University of Pennsylvania. <a href="http://www.linkedin.com/in/louhuang">LinkedIn</a> | <a href="https://twitter.com/saikofish">@saikofish</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Ryan_Closner-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Ryan Closner"></a>Ryan Closner</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/las-vegas/">Las Vegas Team</a></div>
+<div class="bio">Ryan is a software engineer and entrepreneur from Portland, Oregon. Most recently, he's worked for a governmental utility analytics company based out of Bend, Oregon. Ryan's an avid traveler, open-source contributor, and has been developing client applications for more than five years. He studied Philosophy and Political Science at Seattle Pacific University. <a href="http://www.linkedin.com/pub/ryan-closner/57/9b3/301">LinkedIn</a> | <a href="https://twitter.com/rclosner">@rclosner</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Lindsay_Ballant-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong>Lindsay Ballant</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/las-vegas/">Las Vegas Team</a></div>
+<div class="bio">Lindsay is a New York–based art director and designer with a passion for journalism and storytelling. Most recently, she served as the design director of <em>Newsweek</em> magazine. When not on deadline, she is an adjunct professor at the School of Visual Arts, and collaborates on other web-based projects under the moniker of Public Service Bureau. Her work has received awards from the Art Directors Club, the Society of Publication Designers, the National Magazine Awards, AIGA, Communication Arts, I.D. magazine, Print magazine, and the Type Directors Club, among others. <a href="http://www.linkedin.com/in/lindsayballant">LinkedIn</a> | <a href="https://twitter.com/lindsayballant">@lindsayballant</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Marcin-Wichary-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Marcin"></a>Marcin Wichary</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/louisville/">Louisville Team</a></div>
+<div class="bio">Marcin is a user interface designer and developer. Over the past seven years he’s worked at Google on Chrome and search teams, and has coded and attended to the user experience of interactive homepage doodles. After hours, Marcin takes photos and occasionally volunteers at the Computer History Museum. <a href="http://www.linkedin.com/in/mwichary">LinkedIn</a> | <a href="https://twitter.com/mwichary">@mwichary</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Laura_Meixell-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Laura"></a>Laura Meixell</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/louisville/">Louisville Team</a></div>
+<div class="bio">Laura served as a Presidential Management Fellow at the Department of Housing and Urban Development, where she worked on agency performance management and developed a place-based data driven review process. Prior to that she worked on a community data and mapping system in Pittsburgh, Penn. <a href="www.linkedin.com/pub/laura-meixell/2a/787/504">LinkedIn</a> | <a href="https://twitter.com/lauratypes">@lauratypes</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Shaunak_Kashyap_Headshot-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Shaunak"></a><strong>Shaunak Kashyap</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/louisville/">Louisville Team</a></div>
+<div class="bio">Shaunak is generalist backend software developer with 10 years of experience. Most recently, he helped build the ground software that will control earth-imaging satellites. Lately he has developed a passion for building RESTful web services. Outside of work he likes spending time with his wife, Tiffany, and their labradoodle, Seger.<a href="http://www.linkedin.com/in/ycombinator">LinkedIn</a> | <a href="https://twitter.com/shaunak">@shaunak</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Ezra_Spier-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Ezra"></a>Ezra Spier</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/new-york-city/">New York City Team</a></div>
+<div class="bio">Ezra is a web and mobile designer and developer from Portland, Oregon. Most recently, he worked at Sustainable Harvest Coffee Importers building sustainable mobile technology to improve the productivity and incomes of coffee farmers around the world. He majored in East Asian Studies at Oberlin College and served on Oberlin’s Board of Trustees. <a href="http://www.linkedin.com/in/ezraspier">LinkedIn</a> | <a href="https://twitter.com/ahhrrr">@ahhrrr</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/CJ_Bryan-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="CJ"></a>CJ Bryan</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/new-york-city/">New York City Team</a></div>
+<div class="bio">
+
+CJ is a web developer and software consultant. Most recently, he rebuilt the online publishing platform for the Society for Cultural Anthropology. Previously he worked with Fight for the Future creating online campaign platforms. He spends the rest of his time riding bikes and hacking on small machines. <a href="http://www.linkedin.com/pub/cj-bryan/6/612/534">LinkedIn</a> | <a href="https://twitter.com/waltz">@waltz</a>
+
+</div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/DonelizaJoaquinPicture-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Doneliza"></a>Doneliza Joaquin</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/new-york-city/">New York City Team</a></div>
+<div class="bio">Doneliza is an urban planner interested in city design, transportation networks, and data visualization. She has worked as a graphic designer and on community development and events at the Dumbo Improvement District. She holds degree in Urban Studies from Fordham University and a Masters in Urban Planning from Columbia University. <a href="http://www.linkedin.com/in/donelizajoaquin">LinkedIn</a> | <a href="https://twitter.com/donelizasays">@donelizasays</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Sheila_Dugan-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Sheila"></a><strong>Sheila Dugan</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/oakland/">Oakland Team</a></div>
+<div class="bio">Sheila markets products using digital and social media. Recently, she's worked on broadband infrastructure development and adoption issues at the Center for Innovative Technology and Connect South Carolina. In 2011, Dugan was appointed a Virginia Governor’s Fellow and served under the Secretary of Technology in the Office of the Governor. She holds a Bachelor of Arts in Political Science from Brown University and a Masters in Public Policy from The College of William and Mary.<a href="www.linkedin.com/in/sheiladugan">LinkedIn</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Richa_Agarwal_Headshot-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Richa"></a>Richa Agarwal</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/oakland/">Oakland Team</a></div>
+<div class="bio">Richa is a software developer and lover of technology, civic engagement, and the outdoors. Most recently, she has been working to help re-elect Obama from the campaign headquarters. When she's not coding, you can find her at a local coffee shop or out on the trails. Richa holds a BA in Philosophy and Psychology from Colgate University, and an MS in Computer Science from the University of Illinois at Chicago. <a href="www.linkedin.com/in/richaagarwal">LinkedIn</a> | <a href="https://twitter.com/richaaaa">@richaaaa</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Cris_Cristina1-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Cris"></a>Cris Cristina</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/oakland/">Oakland Team</a></div>
+<div class="bio">Cris is a user experience designer originally from New Orleans. Most recently, he held the position of design manager at Cisco, developing next generation collaboration products for mobile and web platforms. He has worked as a design strategist, user researcher, and interaction designer. With a background in biomedical engineering and human factors, he spent six years designing aeronautical interfaces for the U.S. Navy. Cris is passionate about driving innovation through design and makes a mean gumbo. <a href="http://www.linkedin.com/in/criscristina">LinkedIn</a> | <a href="https://twitter.com/criscristina">@criscristina</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/jsolomon_headshot-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Jacob"></a><strong>Jacob Solomon</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/san-francisco/">San Francisco Team</a></div>
+<div class="bio">Jacob is a policy analyst and project manager from Oakland. Most recently, he studied the quality of care for mentally ill veterans, the forthcoming Medicaid expansion, and medical marijuana policy in California at RAND Corporation. Previously, he worked as a Forward Deployed Engineer at Palantir Technologies. Jacob studied Economics at Occidental College.<a href="http://www.linkedin.com/pub/jake-solomon/4/9b7/a70">LinkedIn</a> | <a href="https://twitter.com/lippytak">@lippytalk</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Marc_Hebert-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Marc"></a>Marc K. Hébert</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/san-francisco/">San Francisco Team</a></div>
+<div class="bio">Marc relies on user-experience research and design anthropology to improve the way people interact with government information, services, and physical spaces. His work also attempts to improve digital participation in the public sphere. Libraries and community organizations have been important in this aim. He has a Ph.D. from the University of South Florida in Applied Anthropology. <a href="http://www.linkedin.com/pub/marc-hebert/1/2bb/66">LinkedIn</a> | <a href="http://twitter.com/anthromarc">@anthromarc</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Andy_Hull-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Andy"></a>Andy Hull</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/san-francisco/">San Francisco Team</a></div>
+<div class="bio">Andy is a web developer and a Geographic Information Systems analyst with ten years of experience working with government agencies, academic research groups, libraries, non-profits, and think tanks to create user centered web applications. Most recently, he produced interactive maps, data driven sites focused on savings for the poor, and data visualizations at the New America Foundation. At Duke University, Andy helped redesign the library digital collections platform and built web applications around public health issues. He holds a BA in Geography and an MS in Information Science, both from the University of North Carolina. <a href="http://www.linkedin.com/pub/andy-hull/27/95/678">LinkedIn</a> | <a href="https://twitter.com/andyhull3">@andyhull3</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" title="Rebecca" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Rebecca_Ackerman-1.jpg" width="147" height="121" /></div>
+<div class="name"><strong><a name="Rebecca Chaya Ackerman"></a>Rebecca Ackerman</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/san-francisco/">San Francisco Team</a></div>
+<div class="bio">Rebecca is a public policy researcher and social justice activist in Chicago. Most recently, she worked at Chapin Hall at the University of Chicago, where she worked on web development and research about social services in the Chicagoland area. She organized with the Immigrant Youth Justice League, an undocumented-led youth organization in Chicago. Rebecca studied at the University of Chicago.<a href="http://www.linkedin.com/in/rcackerman">LinkedIn</a> | <a href="https://twitter.com/aka_rca">@aka_rca</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Moncef_Belyamani-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Moncef"></a>Moncef Belyamani</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/san-mateo-county/">San Mateo County Team</a></div>
+<div class="bio">Moncef is passionate about solving problems, learning by doing, and giving back to the community. Most recently, he led the Automation effort on the Mobile Team at AOL, and worked on various iOS and Android apps. In his spare time, he runs several music-related websites, and a programming blog where he authored a popular tutorial about setting up a development environment on a Mac. Moncef earned his Electrical Engineering and Music degrees from UVA, and speaks English, French, and Arabic. <a href="http://www.linkedin.com/in/moncefbelyamani">LinkedIn</a> | <a href="https://twitter.com/monfresh">@monfresh</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/sophia_parafina-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Sophia"></a>Sophia Parafina</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/san-mateo-county/">San Mateo County Team</a></div>
+<div class="bio">Sophia has worked on a wide range of projects ranging from helping establish the Pic Macaya Biosphere Reserve in Haiti to building information architecture for pipelines, airports, and railways. Most recently, she wallowed in data and liberated it from stovepipes. Previously, she managed projects for the CIA's venture capital firm, founded and sold an enterprise software company, and worked with non-profits. <a href="http://www.linkedin.com/in/sophiap">LinkedIn</a> | <a href="https://twitter.com/spara">@spara</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Anselm_Bradford_headshot1-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="Anselm"></a>Anselm Bradford</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/san-mateo-county/">San Mateo County Team</a></div>
+<div class="bio">Anselm is lecturer in digital media at AUT University in New Zealand. He has worked with Apress/friends of ED, O’Reilly Media, Peachpit Press, and Lonely Planet on book titles in the areas of visual communication, web, and interactive media. He has authorship credit on HTML5 Mastery and CSS3 Solutions (Apress).<a href="http://www.linkedin.com/in/anselmbradford">LinkedIn</a> | <a href="https://twitter.com/anselmbradford">@anselmbradford</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Tamara_Manik-Perlman-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Tamara"></a><strong>Tamara Manik-Perlman</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/south-bend/">South Bend Team</a></div>
+<div class="bio">Tamara is passionate about geodata visualization, interactive art, local food, national parks, and inclusive urban citizenship. Most recently, she worked at Azavea where she managed the development of web and mobile applications, and lead the spatial analysis and UX design teams. Tamara has worked at environmental and health non-profits and is particularly interested in the role of immigrants in shaping urban development. She studied Anthropology at Swarthmore College and did graduate work in Geography at Temple University. <a href="http://www.linkedin.com/in/tamaramp">LinkedIn</a> | <a href="https://twitter.com/TamaraMP">@TamaraMP</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Dave_Guarino-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Dave"></a><strong>Dave Guarino</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/south-bend/">South Bend Team</a></div>
+<div class="bio">Dave Guarino is a backend developer, specializing in Ruby, and a public policy analyst. He primarily focuses on developing analytic software. His recent work includes an award-winning Challenge.gov application that addressed gender pay inequity and a federal wage data explorer. Before joining Code for America, he spent time in the health policy world, managing data and analyses related to state-level health insurance legislation, the Affordable Care Act, and municipal governments' health plans. Dave is a graduate of UC Berkeley, and enjoys *nix and living in Oakland, Calif. <a href="www.linkedin.com/pub/david-guarino/4/a33/871">LinkedIn</a> | <a href="https://twitter.com/allafarce">@allafarce</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Reed_Duecy_Gibbs-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Reed"></a><strong>Reed Duecy Gibbs</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/south-bend/">South Bend Team</a></div>
+<div class="bio">Reed is an urbanist and interdisciplinary designer and is the co-founder of OpenUrban, a crowd sourced map and forum on current urban development. He has worked as an architect and urban designer, and as a policy researcher for the City of Seattle. Most recently his work was on display in the Istanbul Design Biennial’s Ad-Hocracy exhibition. Reed is a former Fulbright Scholar and holds a Masters of Architecture from the Rhode Island School of Design. <a href="http://www.linkedin.com/pub/reed-duecy-gibbs/13/212/a1">LinkedIn</a> | <a href="https://twitter.com/rduecyg">@rduecyg</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Alan_Williams-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Alan"></a><strong>Alan Williams</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/summit-county/">Summit County Team</a></div>
+<div class="bio">Alan is an urban planner, designer, and community strategist. Most recently he lead the Community team at Neighborland, a civic ideation platform. Alan’s early experience as a community organizer informed his work as a spatial analyst and urban planner in post-Katrina New Orleans. In 2011, he joined Civic Center, a creative studio that blends art, design, education, and urban planning to create tools that help people navigate and improve their cities. <a href="http://www.linkedin.com/in/alanjosephwilliams">LinkedIn</a> | <a href="https://twitter.com/alanjosephwilli">@alanjosephwilli</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Dan_Avery-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Dan"></a><strong>Dan Avery</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/summit-county/">Summit County Team</a></div>
+<div class="bio">Dan is a web and mobile developer who has designed, coded, and managed projects to solve problems for organizations like the Internet Archive, Yahoo!, and AltaVista. Dan led the initial development of the Internet Archive's Archive-It project, bringing the Archive's groundbreaking web-preserving technology to libraries and archives around the world. Dan created the iOS app StickyWords. <a href="http://linkedin.com/in/danavery0">LinkedIn</a> | <a href="https://twitter.com/danavery">@danavery</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/Katie_Lewis-150x150.jpg" width="150" height="150" /></div>
+<div class="name"><a name="Katie"></a><strong>Katie Lewis</strong></div>
+<div class="team"><a href="http://codeforamerica.org/2013-partners/summit-county/">Summit County Team</a></div>
+<div class="bio">
+
+Katie Lewis is a graphic designer and photographer from Madison, Wis. As an AmeriCorps*VISTA for United Way of Central Kentucky, Katie focused on building sustainable marketing and communications materials. She holds a BFA from University of Wisconsin–Madison. <a href="http://www.linkedin.com/in/kelewis1">LinkedIn</a> | <a href="https://twitter.com/klizlewis">@klizlewis</a>
+
+</div>
+</div>
+<p style="text-align: right;"><a href="http://codeforamerica.org/fellows/apply">Apply for Next Year's Fellowship &gt;&gt;</a></p>

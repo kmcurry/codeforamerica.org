@@ -1,0 +1,33 @@
+---
+layout: page
+status: publish
+published: true
+title: Alex Yule
+author: Joel Mahoney
+author_login: joel
+author_email: joel@codeforamerica.org
+wordpress_id: 17545
+wordpress_url: http://codeforamerica.org/?page_id=17545
+date: 2012-10-19 16:13:51.000000000 +00:00
+categories: []
+tags: []
+---
+<iframe src="http://player.vimeo.com/video/51302278" width="620" height="350" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<p>Alex Yule is a web developer and geographer with a focus on building interactive maps and tools for engagement. As a 2012 fellow, he partnered with Philadelphia to build <a href="http://textizen.com">Textizen</a>, a system for citizen feedback via text message.</p>
+
+<p>Alex came to CfA from the Mapping Center team at Esri, an industry leader in Geographic Information System (GIS) software, where he built interactive web maps with their ArcGIS platform. Among other projects, he pioneered the Poll Map, a configurable system for deploying voting maps. Alex graduated cum laude from Middlebury College in Vermont with a degree in Geography in 2009, earning accolades for his work creating innovative visualizations for the Geographies of the Holocaust Project. An avid writer and photographer, his technical skills include application planning and design, web development, data analysis, and visualization.</p>
+
+<h3>Projects</h3>
+<ul>
+<li><a href="http://textizen.com">Textizen</a>: Citizen feedback for the digital age, via text messaging</li>
+<li><a href="https://github.com/codeforamerica/nodetiles-init">Nodetiles</a>: Joyful map tile rendering with Node.js</li>
+</ul>
+
+<h3>Contact</h3>
+<ul>
+<li><a href="http://github.com/yuletide">GitHub</a></li>
+<li><a href="http://twitter.com/yuletide">Twitter</a></li>
+<li><a href="http://www.linkedin.com/in/alexyule">LinkedIn</a></li>
+<li><a href="http://alexyule.com">Homepage</a></li>
+</ul>

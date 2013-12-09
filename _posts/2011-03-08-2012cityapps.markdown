@@ -1,0 +1,54 @@
+---
+layout: page
+status: publish
+published: true
+title: 'FOR IMMEDIATE RELEASE: 19 Governments Apply to Compete to Partner with Code
+  for America '
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 4310
+wordpress_url: http://codeforamerica.org/?page_id=4310
+date: 2011-03-08 14:18:25.000000000 +00:00
+categories: []
+tags: []
+---
+<em>San Francisco, CA – March 10, 2011</em> – 19 government agencies have applied to compete to partner with the non-profit, Code for America, in 2012. Code for America recruits web developers, designers, and entrepreneurs to give a year of service through a fellowship program, helping governments become more efficient and open. Government agencies from across the country -- ranging from the city of Anchorage, Alaska, to the US Department of State -- have submitted applications to engage in the 2012 program and develop innovative solutions that promote openness and efficiency.
+
+For the 2012 program, three to five cities will be selected through a competitive process, and governmental agencies applied by identifying a project that has real cost-savings and promotes transparency and public participation. “It’s great to see not only this much interest in Code for America, but also enthusiasm from public officials in using technology to change the way government works,” said Alissa Black, Code for America’s Government Relations Director. “The response we’re seeing proves that government is thinking creatively about ways to innovate in response to our fiscal crises; and that the open government movement is really taking hold within government itself.” In fact, the city of Philadelphia is currently a Code for America 2011 partner, and based on its experience so far this year, decided to apply again for the next fellowship cycle.
+
+The applications will be reviewed through a Selection Committee made up of civic and industry leaders, including Carol Coletta (CEOs for Cities), Clay Johnson (Big Window Labs), Kevin Curry (City Camp), Daniel O’Neil (Every Block), Nigel Jacob (City of Boston), and Andrew Greenhill (City of Tuscon). Applications will be assessed on the expressed commitment to the partnership, funding to support the project, and potential impact of the solution in terms of openness, efficiency, and reusability. The application deadline was March 1, and selected governmental partners will be announced in June 2011.
+
+While the program is structured primarily around cities, Code for America chose to accept applications from all levels of government. Both the US Department of State and the California Department of Energy applied this year. Overall, the following jurisdictions submitted applications for the 2012 Code for America program: 
+<ul style="list-style: none;">
+	<li>Anchorage, Alaska</li>
+	<li>Austin, Texas</li>
+	<li>Balboa Park - San Diego, California</li>
+	<li>California Department of Economic Development</li>
+	<li>California Department of Energy</li>
+	<li>Columbus, Ohio</li>
+	<li>Detroit, Michigan</li>
+	<li>Hartford County, Maryland</li>
+	<li>Memphis, Tennessee</li>
+	<li>New Orleans, Louisiana</li>
+	<li>New York City</li>
+	<li>Omaha, Nebraska</li>
+	<li>Palm Bay, Florida</li>
+	<li>Philadelphia, Pennsylvania</li>
+	<li>Raleigh, North Carolina</li>
+	<li>San Francisco, California</li>
+	<li>Santa Clarita, California</li>
+	<li>Santa Cruz, California</li>
+	<li>US Department of State</li>
+</ul>
+Additional information about the applicants and the city program is available upon request.
+
+Tweet: 19 governments apply to compete for the 2012 @CodeforAmerica program: http://c4a.me/fh01yd
+
+About Code for America
+Code for America enlists the brightest minds of the web industry into public service to use their skills to solve core problems facing our communities. We help talented technologists leverage the power of the internet to make governments more open and efficient, and become civic leaders able to realize transformational change with technology.<a href="http://codeforamerica.org/"></a>
+<a href="http://codeforamerica.org/"></a>
+Contact Information
+For media inquiries, please contact: Abhi Nemani, 618-322-2220, <a href="mailto:abhi@codeforamerica.org">abhi@codeforamerica.org</a>
+
+###

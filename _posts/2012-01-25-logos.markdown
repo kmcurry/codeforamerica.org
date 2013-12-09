@@ -1,0 +1,62 @@
+---
+layout: page
+status: publish
+published: true
+title: Logos
+author: Lauren Reid
+author_login: lr
+author_email: lr@codeforamerica.org
+wordpress_id: 10900
+wordpress_url: http://codeforamerica.org/?page_id=10900
+date: 2012-01-25 13:15:47.000000000 +00:00
+categories: []
+tags: []
+---
+&nbsp;
+<h2>Standard</h2>
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo.png"><img class="size-medium wp-image-10337 alignnone" title="CfA_logo" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo-300x120.png" width="192" height="77" /></a>
+
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo.jpg" target="_blank">CfA_logo.jpg</a>
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo.png" target="_blank">CfA_logo.png</a>
+<h2>Greyscale</h2>
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo_greyscale.png"><img class="size-medium wp-image-10340 alignnone" title="CfA_logo_greyscale" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo_greyscale-300x120.png" width="192" height="77" /></a>
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo_greyscale.jpg" target="_blank">CfA_logo_greyscale.jpg</a>
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo_greyscale.png" target="_blank">CfA_logo_greyscale.png</a>
+<h2>White/Reverse</h2>
+<img class="size-medium wp-image-10901 alignnone" title="CfA_logo_cmyk_blue" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/01/CfA_logo_cmyk_blue-300x120.png" width="300" height="120" />
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo_reverse.png" target="_blank">CfA_logo_reverse.png</a>
+<a href="http://codeforamerica.org/wp-content/uploads/2011/12/CfA_logo_reverse.tif" target="_blank">CfA_logo_reverse.tif</a>
+
+&nbsp;
+<h2>Accelerator Logo</h2>
+<a href="http://www.codeforamerica.org/wp-content/uploads/2012/01/acceleratorminilogo.jpg"><img class="alignnone size-full wp-image-25633" alt="acceleratorminilogo" src="http://www.codeforamerica.org/wp-content/uploads/2012/01/acceleratorminilogo.jpg" width="300" height="102" /></a>
+
+<a href="http://www.codeforamerica.org/wp-content/uploads/2012/01/acceleratorlogo.png" target="_blank">CfA_Accelerator_logo.png</a>
+<a href="http://www.codeforamerica.org/wp-content/uploads/2012/01/acceleratorlogo.jpg" target="_blank">CfA_Accelerator_logo.jpg</a>
+
+&nbsp;
+<h2>Brigade Logo</h2>
+<a href="http://codeforamerica.org/wp-content/uploads/2012/01/CfA_Brigade_logo.png"><img class="size-medium wp-image-10905 alignnone" title="CfA_Brigade_logo" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/01/CfA_Brigade_logo-300x113.png" width="270" height="102" /></a>
+
+<a href="http://codeforamerica.org/wp-content/uploads/2012/01/CfA_Brigade_logo.png" target="_blank"> CfA_Brigade_logo.png</a>
+<a href="http://codeforamerica.org/wp-content/uploads/2012/01/CfA_Brigade_logo.jpg" target="_blank">CfA_Brigade_logo.jpg</a>
+
+&nbsp;
+<h2>Fellowship Logo</h2>
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_fellowship_logo1.png"><img class="size-medium wp-image-10910 alignnone" title="CfA_Accelerator_logo" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_fellowship_logo1.png" width="300" /></a>
+
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_fellowship_logo1.png" target="_blank">CfA_Fellowship_logo.png</a>
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_fellowship_logo.jpg" target="_blank">CfA_Fellowship_logo.jpg</a>
+
+&nbsp;
+<h2>Peer Network Logo</h2>
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_peer_network_logo.png"><img class="size-medium wp-image-10910 alignnone" title="CfA_PeerNetwork_logo" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_peer_network_logo.png" width="300" /></a>
+
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_peer_network_logo.png" target="_blank">CfA_PeerNetwork_logo.png</a>
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_peer_network_logo.jpg" target="_blank">CfA_PeerNetwork_logo.jpg</a>
+
+&nbsp;
+<h2>Flag Tag</h2>
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/flag_tag.png"><img class="size-medium wp-image-10910 alignnone" title="CfA_Accelerator_logo" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/03/flag_tag.png" width="300" /></a>
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/flag_tag.png" target="_blank">CfA_FlagTag.png</a>
+<a href="http://codeforamerica.org/wp-content/uploads/2013/03/flag_tag_inverse.png">CfA_FlagTag_Inverse.png</a>

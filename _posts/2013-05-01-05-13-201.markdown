@@ -1,0 +1,106 @@
+---
+layout: page
+status: publish
+published: true
+title: Broadband Discussion with Susan Crawford
+author: Lauren Dyson
+author_login: lauren
+author_email: lauren@codeforamerica.org
+wordpress_id: 21619
+wordpress_url: http://codeforamerica.org/?page_id=21619
+date: 2013-05-01 12:33:52.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="hangout">
+<h2> Part I: Broadband Policy with Susan Crawford</h2>
+<iframe width="940" height="450" src="http://www.youtube.com/embed/mtkBsc05rI4" frameborder="0" allowfullscreen></iframe>
+<h2>Follow along with Susan's slides:</h2>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/21179178" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<h2> Part II: Broadband Roundtable with Susan Crawford and the Peer Network</h2>
+<iframe width="940" height="450" src="http://www.youtube.com/embed/qEvq85ZDQOs" frameborder="0" allowfullscreen></iframe>
+</div>
+<span class="line"></span>
+<div id="participants">
+<div class="title">Participants</div>
+<div class="four" ><img src="http://codeforamerica.org/wp-content/uploads/2013/04/susancrawfordcircle.png" alt="" title="susan" width="150" height="150" size-thumbnail wp-image-21584" /></a>
+<h3>Susan Crawford (Guest Expert)</h3>
+Author
+<em>Captive Audience</em>
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/jakebrewercircle.png" alt="" title="jake" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>Jake Brewer (Moderator)</h3>
+Head of Communications
+US Ignite
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/ashleyhandcircle.png" alt="" title="ashley" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>Ashley Hand</h3>
+Chief Innovation Officer
+Kansas City, Mo.
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/johntolvacircle.png" alt="" title="john" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>John Tolva</h3>
+Chief Technology Officer
+City of Chicago
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/debacostacircle.png" alt="" title="deb" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>Deb Acosta</h3>
+Chief Innovation Officer
+City of San Leandro, Calif.
+</div>
+<div class="four">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/04/sheiladugancircle.png" alt="" title="sheila" width="150" height="150" size-thumbnail wp-image-21585" /></a>
+<h3>Sheila Dugan</h3>
+2013 Fellow
+Code for America
+</div>
+<span class="line"></span>
+<div class="title">About</div>
+<p> Broadband access is an important issue at the core of civic technology and innovation, and cities like San Leandro, Calif.; Chattanooga, Ten.; and Kansas City, Kan. + Mo. are already undertaking intiatives to roll out broadband internet access citywide. What does the future of broadband access and local government look like? Watch this conversation about broadband access, policy, and the role of municipal government with guest expert Susan Crawford (broadband policy expert, co-director of the Berkman Center at Harvard University, and author of the recent book <em>Captive Audience</em>).
+
+<strong>Part 1:</strong> Presentation by Susan Crawford at the Code for America HQ
+<strong>Part 2:</strong> G+ Hangout with Susan Crawford and CfA Peer Network Cities moderated by Jake Brewer from the US Ignite Partnership. 
+
+This event originally streamed on May 13, 2013.</p>
+
+<a href="http://peernetwork.in"><img class="alignleft size-thumbnail wp-image-20675" title="lightbulb" src="http://codeforamerica.org/wp-content/uploads/2013/02/lightbulb-150x150.png" alt="" width="75" /></a><em>This event is hosted by the <a href="http://peernetwork.in">Code for America Peer Network</a>, CfA's community of innovators working in local government from over thirty cities and counties. Learn more about the Peer Network and how you can get involved <a href="http://peernetwork.in">here</a>.
+
+<style>
+.four {
+width:24.5%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+text-align:center;
+}
+.four p{
+margin:5px 0px;
+line-height:1em;
+}
+.gutter{
+width: 2%;
+	float:left;
+}
+.title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 24px;
+	color: #191919;
+	text-transform: uppercase;
+        padding:20px 0px
+}
+.line {
+        border-top: 3px solid #CCC;
+        width: 100%;
+        display: block;
+        clear: both;
+        margin-bottom: 5px;
+}
+.hangout{
+  padding:20px 0px;
+
+}
+</style>

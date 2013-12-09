@@ -1,0 +1,51 @@
+---
+layout: page
+status: publish
+published: true
+title: 'This Summer, Make a Big Difference: CfA Internship'
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 1550
+wordpress_url: http://codeforamerica.org/
+date: 2011-03-08 10:03:05.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America is a new nonprofit that recruits tech-savvy, civic-minded individuals into public service to help governments work better, and we are seeking summer interns with the skills to take on big problems in a short timeline. Trust us, this isn’t your typical internship. You’ll have a core project which you’ll lead with autonomy, creative freedom, and responsibility. Lots of it. Plus, you’ll get to work with a small, passionate, and experienced team that’ll rely on you to have an impact. By the end of the summer, you’ll walk away with not only a new network of industry and civic leaders, but also with a finished product to point to and say, “I did that.”
+
+The summer program will feature an open government primer modeled off of our <a href="http://codeforamerica.org/the-2011-cfa-institute/">CfA Training</a>, as well as ongoing mentorship from our <a href="http://codeforamerica.org/2011-fellows/">fellows</a>, <a href="http://codeforamerica.org/about">staff</a>, and <a href="http://codeforamerica.org/who-we-are">board</a>. Working out of our San Francisco office, each intern will be given a project to focus on from their preferred track, along the lines of those listed below.
+<div style="float: left; width: 930px; height: 2000px;">
+<div style="float: left; width: 450px; height: 2000px; margin-right: 30px;">
+
+<img class="alignnone size-medium wp-image-4352" title="design" src="http://codeforamerica.org/wp-content/uploads/2011/03/code.png" alt="" width="450" />
+<ul>
+	<li>Open311. What apps would you build to engage citizens with their cities?</li>
+	<li>New Tools for a New Model. CfA is part incubator, part volunteer corps, so we need custom collaboration tools.</li>
+        <li>We accept applications through <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2013">Google Summer of Code</a>.</li>
+</ul>
+<img class="alignnone size-medium wp-image-4352" title="design" src="http://codeforamerica.org/wp-content/uploads/2011/03/design_comms.png" alt="" width="450" />
+<ul>
+	<li>Redesign.gov. We do a lot here. Help us make it look beautiful. And learn from design experts in the process.</li>
+	<li>Communicate. With four programs, 21 staff, and 28 fellows, there's a lot to communicate. Spend the summer with the Comms team and lend your voice, your creativity, your talent to Code for America, and help push forward the Gov 2.0 movement.</li>
+</ul>
+<img class="alignnone size-medium wp-image-4352" title="design" src="http://codeforamerica.org/wp-content/uploads/2011/03/policy.png" alt="" width="450" />
+<ul>
+	<li>Peer Network. Help governments work together by finding opportunities for collaboration.</li>
+	<li>Open Government Guidelines. Citizens are demanding open data and open source from their governments; find out and advocate for new policies.</li>
+</ul>
+<em>Note: The internship is unpaid, and interns will need to work out of San Francisco for the duration of the program. International candidates with the necessary paperwork to intern over the summer are welcome to apply, however, Code for America cannot sponsor work visas at this time. </em>
+
+</div>
+<div style="float: left; width: 450px; height: 2000px;">
+
+<script type="text/javascript">// <![CDATA[
+  var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]></script>
+
+<script type="text/javascript">// <![CDATA[
+  var m7x1x7 = new WufooForm(); m7x1x7.initialize({ 'userName':'codeforamerica',  'formHash':'q7p9s9',  'autoResize':true, 'height':'1989',  'ssl':true}); m7x1x7.display();
+// ]]></script>
+
+</div>
+</div>

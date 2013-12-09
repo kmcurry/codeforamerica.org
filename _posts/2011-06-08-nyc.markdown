@@ -1,0 +1,22 @@
+---
+layout: page
+status: publish
+published: true
+title: '2012 Finalist: New York'
+author: Aditya Pai
+author_login: aditya
+author_email: aditya@codeforamerica.org
+wordpress_id: 6161
+wordpress_url: http://codeforamerica.org/?page_id=6161
+date: 2011-06-08 14:55:13.000000000 +00:00
+categories: []
+tags: []
+---
+<a href="http://codeforamerica.org/wp-content/uploads/2011/06/NYCpic.jpg"><img class="alignleft size-full wp-image-6375" title="NYCpic" src="http://codeforamerica.org/wp-content/uploads/2011/06/NYCpic.jpg" alt="" width="338" height="254" /></a>Great  teachers hone their art and command of the classroom with years of  experience. New York City and Code for America are partnering to support  teachers with new data tools. Technology has enabled some schools to  closely monitor and document student performance, and educators have  leveraged that information to make data-driven instructional decisions,  which have shown significant gains in student performance. This system,  however, requires continual collection and analysis of student  achievement. The New York Department of Education’s current student  reporting system only collects and displays data on student achievement  one or twice a year -- this means New York’s teachers and school leaders  have only one or two opportunities a year to assess what works and  chart a new course around what doesn’t.
+
+New  York i<a href="http://codeforamerica.org/wp-content/uploads/2011/06/NYCseal.png"><img class="alignright size-full wp-image-6340" title="NYCseal" src="http://codeforamerica.org/wp-content/uploads/2011/06/NYCseal.png" alt="" width="154" height="154" /></a>s seeking to partner with Code for America to help teachers more  frequently gauge student achievement. Code for America will develop a  reporting system to capture, store, and display valuable achievement  data collected at the school level. This will enable teachers to easily  input and analyze this data. The tool will give educators and school  leaders the opportunity to proactively diagnose student needs and  identify effective teaching practices.
+</br>
+<h3>The Challenge</h3>
+New  York is a finalist for the 2012 Code for America Fellowship, and if  selected, it’ll be up to a team of CfA Fellows to take on this  challenge. In less than a year, they’ll need to work with the city and  our local partners to go from concept to delivery -- with everything  from research and marketing to development and testing. Up for the  challenge? We’re now accepting applications. <a href="../apply"></a>
+
+<a href="../apply">Apply now to Code for America</a>.

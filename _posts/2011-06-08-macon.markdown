@@ -1,0 +1,67 @@
+---
+layout: page
+status: publish
+published: true
+title: Macon
+author: Jack Madans
+author_login: jmadans
+author_email: jack@codeforamerica.org
+wordpress_id: 6352
+wordpress_url: http://codeforamerica.org/?page_id=6352
+date: 2011-06-08 15:46:22.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/maconseal.jpg" width="144" height="144" /></div>
+<blockquote>“Code for America is not just the creation of a bunch of apps, it’s connecting our citizens with our city.”
+- Amanda Deaton, Assistant Chief Administrative Officer for City of Macon Georgia</blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Macon</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/macon_brigade.png" /></div>
+<h4>The Brigade</h4>
+The City of Macon has already taken great strides towards openness — including a more information rich website, live streams of city council meetings and an updated work order system for service requests. The city does not currently appear to have a local brigade. If you'd like to help start one, check out our list of info for <a href="http://brigade.codeforamerica.org/pages/captain">Brigade Captains</a>.
+<p class="link-block"><a href="http://hackforchange.org/dataset/macon-maps">Macon Open Datasets</a>
+<a href="http://brigade.codeforamerica.org/pages/captain">Code for Macon</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<iframe style="padding: 5px;" src="http://player.vimeo.com/video/53639680" height="165" width="300" allowfullscreen="" frameborder="0" align="left"></iframe>
+Macon's City Contact Amanda Deaton discusses the Code for America Experience
+
+</div>
+<h4>The Fellowship in Macon</h4>
+Funded by the Knight Foundation and led by city contact Amanda Deaton, fellows <a href="http://www.codeforamerica.org/2012-fellows/">Nicholas Doiron, Jessica Lord and Zach Williams</a> began their 2012 fellowship year to further Macon's goals of openness and strengthen the avenues for connection between Macon's citizens and their government.
+
+One project the fellows took on was the visualization of Macon's transit systems. While the city offered public data on bus arrivals for major stops, it did not offer information on all stop arrivals. The fellows built an interactive map complete with these times, color coded bus routes and major landmarks. Still used by the Macon-Bibb County Transit Authority, <a href="http://www.mta-mac.com/map.html">The Systems Map</a> continues to serve the people of Macon.
+
+Fellows also built a budget and project visualization tool called <a href="http://seepennywork.in/">See Penny Work</a> offering city staff a chance to build cleaner and more user-friendly charts and graphs. The tool pulls information from a Google Spreadsheet into a Wordpress page and allows that information to be presented as various charts, maps, tablets, photos and blog posts. The Macon project remains live at <a href="http://splost.herokuapp.com/">Splost.herokuapp.com</a> and is the tool itself is available for download at <a href="http://seepennywork.in/">SeePennyWork.in</a>.
+<p class="link-block"><a href="http://www.mta-mac.com/map.html">The Systems Map</a>
+<a href="http://seepennywork.in/">SeePennyWork.in</a>
+<a href="http://splost.herokuapp.com/">Splost.herokuapp.com</a></p>
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.theatlanticcities.com/technology/2011/10/techies-embed-city-hall/330/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/techiesembedcityhall.png" /></a></div>
+<h4>Techies Embed in City Hall - <a href="http://www.theatlanticcities.com/technology/2011/10/techies-embed-city-hall/330/">Atlantic Cities</a></h4>
+The increasingly wired world has inevitably met the notoriously slow-moving gears of city government. City websites, apps and online tools are becoming an integral part of local government. Or at least they’re starting to.
+
+&nbsp;
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.13wmaz.com/video/default.aspx?bctid=1423751791001"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/maconnew.jpg" /></a></div>
+<h4>Visiting 'Code For America' Tech Team Aims To Make Macon City Hall Easier To Deal With - <a href="http://www.13wmaz.com/video/default.aspx?bctid=1423751791001">13WMAZ</a></h4>
+Mayor Robert Reichert welcomed three technology experts to Macon Monday morning, and gave them a tour around downtown.
+
+"They will be a tremendous help in helping to inform and engage our citizens here in Macon," said Reichert.
+
+</div>

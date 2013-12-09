@@ -1,0 +1,44 @@
+---
+layout: page
+status: publish
+published: true
+title: Desk Rental
+author: Meghan Reilly
+author_login: mreilly
+author_email: meghan@codeforamerica.org
+wordpress_id: 20148
+wordpress_url: http://codeforamerica.org/?page_id=20148
+date: 2013-01-30 17:47:14.000000000 +00:00
+categories: []
+tags: []
+---
+<img class="alignnone" style="padding-left: 20px; padding-right: 10px;" title="storeksmall" src="http://codeforamerica.org/wp-content/uploads/2013/01/storeksmall.jpg" alt="" width="175" /><img class="alignnone " style="padding-left: 10px; padding-right: 10px;" title="2013-01-30_OfficeDesks_1224 (2)" src="http://codeforamerica.org/wp-content/uploads/2013/01/2013-01-30_OfficeDesks_1224-2.jpg" alt="" width="175" /><img class="alignnone" style="padding-left: 10px; padding-right: 10px;" title="photo (16)" src="http://codeforamerica.org/wp-content/uploads/2013/01/Screen-Shot-2013-02-27-at-4.52.14-PM.png" alt="" width="175" />
+
+Need a desk and some office space with wifi, snacks, good people, and the occasional ping pong game? Code for America has desks available to rent.
+
+Code for America is located in the historic Storek building (<a href="https://maps.google.com/maps/ms?msid=201505176110142059443.0004d6bd9094ef3f9f5b9&amp;msa=0&amp;ll=37.775583,-122.413895&amp;spn=0.009735,0.022187">155 9th St</a>) in the fast-growing mid-Market area of San Francisco -- a central location with great access to public transportation and the startup community. We are located just blocks from Twitter and Heroku, and happily include <a href="http://sparked.com/">Sparked</a>, <a href="http://localdata.com/">Amplify Labs</a>, <a href="http://civicindustries.com/">Civic Industries</a>, <a href="http://www.textizen.com/welcome">Textizen</a>, <a href="http://mapbox.com/">MapBox</a>, <a href="https://electnext.com/">ElectNext</a>, <a href="https://recovers.org/">Recovers.org</a> and <a href="http://editorially.com/">Editorially</a> as current tenants.
+
+We're looking for other companies who'd be a great part of our geeky, creative, social community. Beyond our fellows, staff, and other renters, CfA is the "office away from the office" for many civic-minded visitors to the Bay Area.
+
+Desk rental includes:
+<ul>
+	<li>Wireless internet</li>
+	<li>Access to five meeting rooms with AV and phone</li>
+	<li>Shared kitchen including coffee, tea, snacks, etc.</li>
+	<li>Basement (unfinished) with pool table, air hockey, foosball</li>
+	<li>Shared printer, copier, scanner, office supplies -- be reasonable please -- not 1,000 prints of your new brochure :)</li>
+	<li>Bike room (and bathroom w/ shower to clean up!)</li>
+</ul>
+<span style="font-size: small;"><span style="line-height: 24px;">Desk rental is $425 per desk with discounts available to non-profits. If you're interested, please contact meghan[@]codeforamerica.org.</span></span>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

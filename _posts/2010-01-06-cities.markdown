@@ -1,0 +1,64 @@
+---
+layout: page
+status: publish
+published: true
+title: Cities
+author: Jennifer Pahlka
+author_login: jen
+author_email: jen@pahlka.com
+author_url: http://codeforamerica.org
+wordpress_id: 36
+wordpress_url: http://codeforamerica.org/?page_id=36
+date: 2010-01-06 17:06:27.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+<script type="mce-application/javascript" src="/wp-content/uploads/2013/08/cities-wufoo-signup.js"></script>
+
+<form class="sign-up" action="https://codeforamerica.wufoo.com/forms/x7p4s5/#public" autocomplete="off" enctype="multipart/form-data" method="post" novalidate="">
+<p><label for="Field4">Your Name</label> <input id="Field4" type="text" name="Field4" /></p>
+<p><label for="Field17">Your Title</label> <input id="Field17" type="text" name="Field17" /></p>
+<p><label for="Field5">Your Organization</label> <input id="Field5" type="text" name="Field5" /></p>
+<p><label for="Field15">City, State</label> <input id="Field15" type="text" name="Field15" /></p>
+<p><label for="Field3">Your Email</label> <input id="Field3" type="text" name="Field3" /></p>
+<p><button>Join</button> <input id="idstamp" type="hidden" name="idstamp" value="sh5/MTRGERiNsV54IXogmRj5IrbhkUDhfGHwlVPFPss=" /></p>
+</form>
+
+Across America, government employees are accelerating city innovation by sharing their best ideas, collaborating with local civic hackers, and enlisting elite technologists for a year of service.
+
+<h3>Municipal Innovation Listserv: Join the Conversation</h3>
+<p>Join 200+ local officials, startups and NGOs to discuss data standards, current events and civic tech on a focused and moderated email list. Titles of some active members include:</p>
+<p>Chief Innovation Officer, City of KC, Missouri
+Deputy Chief of Staff, City of Houston
+Director of Research and Technology, Urban Strategies Council</p>
+
+<img src="http://www.codeforamerica.org/wp-content/uploads/2010/01/markheadd.jpg" alt="markheadd" width="150" height="150" class="alignleft size-full wp-image-27956" /><em><br>"Code for America provides an ideal forum for discussion on developing standards and municipal data, and members benefit from the efforts taking place across the country to make open data more useful and more powerful."</em><br><br>
+- <b>Mark Headd</b>, Chief Data Officer
+City of Philadelphia
+
+
+<hr />
+
+<a name="brigade"></a><div class="picture-and-text">
+<div class="picture"><a href="http://brigade.codeforamerica.org/brigades"><img alt="" src="/wp-content/uploads/2013/08/build-capacity.jpg" /></a></div>
+<h4>Brigade: Build capacity in your community.</h4>
+<p>Volunteer researchers, designers, developers and city officials are building better civic technology and <a href="/apps">deploying apps</a> in more than 40 cities. See who’s hacking near you or check out an event in your city.</p>
+<p><a href="http://brigade.codeforamerica.org/brigades">Brigades</a>
+<a href="http://brigade.codeforamerica.org/pages/events">Events</a></p>
+</div>
+
+<a name="fellowship"></a><div class="picture-and-text">
+<div class="picture"><a href="/cities/fellowship"><img alt="" src="/wp-content/uploads/2013/08/bring-coders-designers.jpg" /></a></div>
+<h4></a>Fellowship: Bring top coders, designers and researchers to your city.</h4>
+<p>The Code for America Fellowship is an 11-month program where developers, designers, researchers, and product managers work alongside city staff to solve community issues with new technology. Past apps have supported citizen engagement, criminal justice and public health. Contact <a href="mailto:luke@codeforamerica.org">luke@codeforamerica.org</a> to find out more or visit our <a href="/cities/fellowship">FAQ</a>.</p>
+<p><a href="/cities/current/">Current Cities</a> and <a href="/cities/alumni">Alumni Cities</a>
+<a href="/apps">The Apps</a></p>
+</div>
+
+<a name="opendata"></a><div class="picture-and-text">
+<div class="picture"><a href="https://codeforamerica.wufoo.com/forms/w7p6q5/"><img alt="" src="/wp-content/uploads/2013/08/join-standards.jpg" /></a></div>
+<h4>Ready to Level Up? Check Out Our Trainings and Peer Network</h4>
+<p>Code for America's Peer Network provides targeted training, hands-on support and early access to new technology. Recent trainings include <a href="/07-11-2013-jared/">user interface engineering</a> and <a href="/05-13-201/">broadband policy</a>.We're also developing <a href="http://wiki.civiccommons.org/Open_Data_Guidelines">open data best practices</a> and <a href="/civic-data-standards/">standards</a> that cities can adopt for critical categories of data like restaurant and house inspections.</p>
+<p><a href="https://codeforamerica.wufoo.com/forms/w7p6q5/">Request an invite</a></p>
+</div>

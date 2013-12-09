@@ -1,0 +1,21 @@
+---
+layout: page
+status: publish
+published: true
+title: Jobs
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 2450
+wordpress_url: http://codeforamerica.org/
+date: 2010-12-20 08:51:36.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America is a start-up non-profit. Our mission is to help transform local government by bringing them together with the brightest minds of the technology industry. We're passionate, agile, and growing. See below for opportunities currently available, or <a href="mailto:info@codeforamerica.org">contact us</a>.
+
+<iframe id="resumator-job-frame" name="resumator-job-frame" src="http://codeforamerica.theresumator.com/apply/jobs/" frameborder="0" scrolling="no" width="100%" height="240"></iframe><script type="text/javascript">// <![CDATA[
+ function resizeResumatorIframe(height,nojump){if(nojump== 0){window.scrollTo(0,0);}document.getElementById("resumator-job-frame").height = parseInt(height)+20;}
+// ]]></script>
+
+If you're interested in an internship, visit <a href="http://codeforamerica.org/intern">codeforamerica.org/intern</a>.

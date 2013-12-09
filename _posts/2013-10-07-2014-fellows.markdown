@@ -1,0 +1,201 @@
+---
+layout: page
+status: publish
+published: true
+title: 2014 Fellows
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 26651
+wordpress_url: http://www.codeforamerica.org/?page_id=26651
+date: 2013-10-07 20:59:20.000000000 +00:00
+categories: []
+tags: []
+---
+Over 600 people applied to be Code for America fellows for the 2014 program. Candidates came in from across the country and around the world, and they came with backgrounds ranging from back-end development experience to urban design.
+<p style="text-align: right;"><a href="http://codeforamerica.org/fellows/apply">Apply for Next Year's Fellowship &gt;&gt;</a></p>
+
+
+<hr style="color: #ccc;" />
+
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/tiffani_bell.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="bell"></a>Tiffani Bell</strong></div>
+<div class="bio">Tiffani pursues better living through software. She founded Pencil You In, enabling businesses as far away as Australia to operate more efficiently by accepting appointments online. Tiffani is a front and back-end developer working primarily with Ruby on Rails and iOS. Her latest work includes determining how to take full advantage of a Hadoop cluster. Tiffani holds a BS in Computer Science from Howard University. <a href="http://www.linkedin.com/in/tiffani">LinkedIn</a> | <a href="http://www.twitter.com/tiffani">@tiffani</a> | <a href="http://www.github.com/tiffani">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/maya_benari.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="benari"></a>Maya Benari</strong></div>
+<div class="bio">Maya is a web designer and developer from Los Angeles. She is passionate about creating beautiful and functional online spaces that make a positive impact on the world. Recently she's developed the NRDC's Demand Clean Power campaign and led the US &amp; Brazil teams to launch a new web presence for the World Affairs Council of Brazil.
+<a href="http://www.linkedin.com/pub/maya-benari/10/282/67a">LinkedIn</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/becky_boone.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="boone"></a>Becky Boone</strong></div>
+<div class="bio">Becky is a software developer from Anchorage, AK. She enjoys volunteering her technical skills locally. This past year she taught free programming classes to women, as well as managed the city's commuter challenge open source project. Becky stays outside in Alaska year round through biking, hiking, and cross-country skiing.
+<a href="http://www.linkedin.com/in/rebeccaboone/">LinkedIn</a> | <a href="https://twitter.com/boonrs">@boonrs</a> | <a href="https://github.com/boonrs">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/tom_buckley.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="buckley"></a>Tom Buckley</strong></div>
+<div class="bio">Tom is a researcher and developer focused on urban informatics. He worked in urban planning before hacking on data and doing research and at Geocommons. Since then, Tom consulted for the World Bank, directed research at Casey Trees, taught a graduate class at The New School, and studied Geoinformatics.
+<a href="http://de.linkedin.com/pub/tom-buckley/35/970/50b">LinkedIn</a> | <a href="https://twitter.com/buckley_tom">@buckey_tom</a> | <a href="https://github.com/buckleytom">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/tiffany_chu.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="chu"></a>Tiffany Chu</strong></div>
+<div class="bio">Tiffany is a designer, user researcher, and urbanist. Prior to CfA, Tiffany was a product manager at Zipcar and an innovation consultant at Continuum. She's also mapped 100+ street vendors in Vietnam, crafted 3D models at Pixar, and written for Dwell. With a background in architecture and urban planning from MIT, Tiffany is passionate about helping people and organizations become better and happier through design. <a href="http://www.linkedin.com/in/tiffanychu">LinkedIn</a> | <a href="http://twitter.com/tchu88">@tchu88</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/Jason_denizen.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="denizac"></a>Jason Denizac</strong></div>
+<div class="bio">
+
+Jason is a software developer and open source community organizer. He has worked building web and mobile software for healthcare, and has interests in distributed systems and network citizenship. Jason holds a BA in Public Policy from Boise State University which he attended as a National Merit Scholar.
+
+<a href="http://www.linkedin.com/in/jasondenizac">LinkedIn</a> | <a href="http://www.twitter.com/_jden">@_jden</a> | <a href="https://www.github.com/jden">GitHub</a>
+
+</div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/lyzi_diamond.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="diamond"></a>Lyzi Diamond</strong></div>
+<div class="bio">Lyzi is a GIS analyst and technical writer with an interest in tech education beyond the classroom. Most recently, she worked on FEMA flood mapping projects at the Oregon Department of Geology and Mineral Industries and started a meetup for geospatial hackers in Portland called MaptimePDX. In addition to geography, Lyzi loves bikes, facilitating community building, college football, and playing handbells.<a href="http://www.linkedin.com/pub/lyzi-diamond/32/aab/10">LinkedIn</a> | <a href="http://www.twitter.com/lyzidiamond">@lyzidiamond</a> | <a href="http://www.github.com/lyzidiamond">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/andrew_douglas.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="douglass"></a>Andrew Douglass</strong></div>
+<div class="bio">Andrew is a web developer and designer from Houston, Texas, where he worked as a web developer for the University of Houston and assisted in operations at RED Labs, the university's startup accelerator. He enjoys exploring problems related to transportation and human equality. He holds a BBA in Management Information Systems from the University of Houston.
+<a href="http://www.linkedin.com/in/ardouglass">LinkedIn</a> | <a href="http://www.twitter.com/ardouglass">@ardouglass</a> | <a href="http://www.github.com/ardouglass">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/wendy_fong.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="fong"></a>Wendy Fong</strong></div>
+<div class="bio">Wendy is a designer and educator. Recently, she was in Haiti working on a women's crisis call center platform. She's passionate about providing design solutions for non-profits and has collaborated with family services agencies, solar projects in rural Africa, and inner city youth programs. In her spare time, she can be found at civic hackathons, designing for good not evil.
+<a href="http://www.linkedin.com/in/wendymfong">LinkedIn</a> | <a href="http://www.twitter.com/wfong_sf">@wfong_sf</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/rhys_fureigh.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="fureigh"></a>Rhys Fureigh</strong></div>
+<div class="bio">Rhys is a web developer and online strategist who believes technology should be kind to humans. Recent projects have included Friendfactor, SXSW Interactive People's Choice winner Americans Elect, and organizing Drupal skill-building meetups in New York. Rhys studied sociology at Reed College, toured internationally as a rock guitarist, and loves cargo bikes.
+<a href="http://www.linkedin.com/in/fureigh">LinkedIn</a> | <a href="http://www.twitter.com/fureigh">@fureigh</a> | <a href="https://github.com/fureigh/">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/dan_getelman.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="getelman"></a>Daniel Getelman</strong></div>
+<div class="bio">Dan is a software developer and entrepreneur from New York City. He dropped out of school to co-found Lore, an education startup that sought to turn classrooms into online communities. He's a recent grad from the Management and Technology Program at the University of Pennsylvania, where he studied Computer Science and Managerial Analytics.
+<a href="http://www.linkedin.com/in/dangetelman/">LinkedIn</a> | <a href="http://www.twitter.com/dget">@dget</a> | <a href="http://www.github.com/dget">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/clara_gonzalez.jpg" /></div>
+<div class="name"><strong><a name="gonzalez"></a>Clara Gonzalez Sueyro</strong></div>
+<div class="bio">Clara is a design researcher with a degree in Social Anthropology from The University of Buenos Aires, Argentina. Recently Clara led a project to help foster care youth to better transition into adult life through peer-to-peer networking. She led two web startups as product manager and launched her own non-profit. Never lacking energy her most recent project ProudCitizen.org aims to build community through storytelling. <a href="http://www.linkedin.com/in/claragonzalezsueyro/en">LinkedIn</a> | <a href="https://twitter.com/chefsurfing">@chefsurfing</a> | <a href="https://github.com/clarita1980">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/andrea_hansen.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="hansen"></a>Andrea Hansen</strong></div>
+<div class="bio">Andrea is an optimistic urbanist, data visualizer, and cartography devotee. Her practice, Fluxscape, focuses on data-driven landscapes in post-industrial cities, and she also runs Visualizing Systems, an online catalog that investigates how we map data to understand complex networks. She teaches these concepts in the landscape architecture program at Harvard University’s Graduate School of Design, where she was the 2011-2012 Daniel Urban Kiley Fellow. <a href="http://www.linkedin.com/in/andrealmhansen">LinkedIn</a> | <a href="https://twitter.com/vis_sys">@vis_sys</a></div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/kavi_harshawat.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="harshawat"></a>Kavi Harshawat</strong></div>
+<div class="bio">Kavi is a user experience researcher and designer. Most recently, he has sought to improve civic engagement and bring better user experiences to government through his project GoodCTZN. Previously, Kavi worked at Aardvark and Google, as an early member of the Google+ team. His interests include food, friends, movies, and travel.
+<a href="http://www.linkedin.com/in/kavih/">LinkedIn</a> | <a href="https://twitter.com/KaviH">@KaviH</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/sam_hashemi.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="hashemi"></a>Sam Hashemi</strong></div>
+<div class="bio">Sam is a user experience researcher and designer, most recently with NASA where he led an effort to redesign the 1990s era systems aboard the International Space Station with modern iPad and iPhone apps. Previously, he worked to create Palm's webOS and TouchPad tablet. He holds a Masters in Human-Computer Interaction from Carnegie Mellon, and can recite several Dr. Seuss books by heart. <a href="http://www.linkedin.com/in/samhashemi">LinkedIn</a> | <a href="http://www.twitter.com/oksamuel">@oksamuel</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/jeremia_kimelman.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="kimelman"></a>Jeremia Kimelman</strong></div>
+<div class="bio">Jeremia is passionate about the intersection of technology and policy. At Tout, he managed the design and development of video product that brought breaking news stories to life for a worldwide audience. Jeremia is a community organizer for Mobile Monday, and has traveled the world promoting technological solutions to real-world problems.
+<a href="http://www.linkedin.com/in/jeremiak">LinkedIn</a> | <a href="http://www.twitter.com/jeremiak">@jeremiak</a> | <a href="http://www.twitter.com/jeremiak">GitHub</a></div>
+</div>
+
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/david_leonard.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="leonard"></a>David Leonard</strong></div>
+<div class="bio">David is an ace designer. He recently worked as Digital Design Coordinator for Gannett's Louisville Design studio. He focused on helping Gannett newspapers lead the charge into a digital future with tablet-only publications. He also crafted front pages for the Cincinnati Enquirer, Indianapolis Star and other major newspapers.
+<a href="http://www.twitter.com/davidleonardii">@davidleonardii</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/jeff_maher.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="maher"></a>Jeff Maher</strong></div>
+<div class="bio">
+
+Jeff is from Philadelphia and develops software to improve quality of life. Before joining Code for America, Jeff helped create a web platform for diabetes data at Johnson &amp; Johnson, Reclaim Philly, and a bike parking locator. Jeff enjoys biking and hiking. He studied computer science and journalism at RIT.
+
+<a href="http://www.linkedin.com/in/jeffmaher">LinkedIn</a> | <a href="https://twitter.com/plusjeff">@plusjeff</a> | <a href="https://twitter.com/plusjeff">GitHub</a>
+
+</div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/andrew_maier.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="maier"></a>Andrew Maier</strong></div>
+<div class="bio">A lifelong student of the design community, Andrew co-founded the design publication UX Booth in 2008 to share his journey. He currently serves as its Editor-in-Chief. When he's not heading user-centered design initiatives for startups and corporations, Andrew enjoys reading and writing about design and media theory. He likes coffee, too.
+<a href="http://www.linkedin.com/profile/view?id=121006013">LinkedIn</a> | <a href="https://github.com/andrewmaier">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/molly_mcleod.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="mcleod"></a>Molly McLeod</strong></div>
+<div class="bio">Molly is a graphic designer and media artist who has worked on board games, documentary films, and community murals. Most recently, she designed print and digital projects for federal public health agencies at CommunicateHealth. At Hampshire College, she designed an interdisciplinary concentration in typography, urban planning, and community-based art. Molly's mission is to empower people improve their communities through design. <a href="http://www.linkedin.com/pub/molly-mcleod/22/b25/506/">LinkedIn</a> | <a href="http://www.twitter.com/mollyampersand">@Mollyampersand</a> | <a href="https://github.com/mollymcleod">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/amy_mok.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="mok"></a>Amy Mok</strong></div>
+<div class="bio">Amy is a software engineer with a passion for space and social impact. Most recently, she led a team to identify and implement common designs in flight software to improve productivity in Lockheed Martin. She holds a BA in Computer Science from UC Berkeley and a MS in Software Engineering from Carnegie Mellon University. In her spare time, she likes to volunteer and travel.
+<a href="http://www.linkedin.com/in/amymok">LinkedIn</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/annemarie_panalilo.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="panlilio"></a>Anna-Marie Panlilio</strong></div>
+<div class="bio">Anna-Marie is a full stack web developer who loves fleshing out vague concepts and turning them into elegant and simple interface designs. When she's not coding you can find her paddling on the San Francisco Bay or capturing dancers in mid-air with her camera. She studied journalism and urban studies at Northwestern University.
+<a href="http://www.linkedin.com/in/ampanlilio">LinkedIn</a> | <a href="http://twitter.com/codesliced">@codesliced</a> | <a href="https://github.com/codesliced">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/maksim_pecherskly.png" width="150" height="150" /></div>
+<div class="name"><strong><a name="/#pecherskiy"></a>Maksim Pecherskiy</strong></div>
+<div class="bio">Maksim is a backend and mobile developer/architect who loves designing and building RESTful web services, complex integrations and apps that use them. Beyond the computer, he loves to travel with his girlfriend, Amy, and their zoo of two dogs and two cats. Maksim holds a B.S. in Information Systems from Chicago's DePaul University and a B.S. in International Business Administration from Linköping University, Sweden. <a href="http://www.linkedin.com/in/maxpecherskiy">LinkedIn</a> | <a href="http://www.twitter.com/MrMaksimize">@MrMaksimize</a> | <a href="http://github.com/MrMaksimize">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/erik_schwartz.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="schwartz"></a>Erik Schwartz</strong></div>
+<div class="bio">Erik Schwartz is a long-time developer and partner at Table XI and a musician of the past, present and future. To keep things interesting, he spent the last two years traveling the globe crafting wonderful software from picturesque locations. When it comes right down to it Erik aspires to be both a free wielding inventor and consummate teammate in the pursuit of socially-meaningful projects. <a href="http://www.linkedin.com/in/eeeschwartz">LinkedIn</a> | <a href="http://www.twitter.com/eeeschwartz">@eeeschwartz</a> | <a href="http://www.github.com/eeeschwartz">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/giselle_sperber.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="sperber"></a>Giselle Sperber</strong></div>
+<div class="bio">Giselle is a user experience designer. Over the past eight years she's worked on technology for classrooms and students, most recently at Amplify in New York. Passionate about healthy communities and good food, she co-founded the Greene Hill Food Co-op, a member owned grocery story in Brooklyn. Giselle holds a B. Arch from Rice University.
+<a href="http://www.linkedin.com/pub/giselle-sperber/34/5b9/38b">LinkedIn</a> | <a href="https://twitter.com/gisellesperber">@gisellesperber</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/ainsley_wagoner.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="wagoner"></a>Ainsley Wagoner</strong></div>
+<div class="bio">Ainsley is a visual and user experience designer from Lexington, Kentucky. She has a degree in Architecture from the University of Kentucky where she studied installation architecture and methods for the display of contemporary art. She is interested in how design thinking affects the end user, color, pattern, Appalachian instruments, Boston Terriers, and randonneuring.
+<a href="http://www.linkedin.com/pub/ainsley-wagoner/37/883/947">LinkedIn</a> | <a href="https://twitter.com/ainsleywagon">@ainsleywagon</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/peter_welte.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="welte"></a>Peter Welte</strong></div>
+<div class="bio">Peter is a hacker and organizer from Portland, OR dedicated to advancing environmental and community causes through the use of technology. Often committing time to political causes, nonprofits, and advocacy campaigns, Peter specializes in front-end design and back-end development using Drupal. When not working, Peter enjoys cross country bicycle touring.
+<a href="http://www.linkedin.com/in/thepeterw">LinkedIn</a> | <a href="http://www.twitter.com/techieshark">@techieshark</a> | <a href="http://www.github.com/techieshark">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/danny_whalen.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="whalen"></a>Danny Whalen</strong></div>
+<div class="bio">Danny is a web developer from Phoenix, AZ. His passion is building communities around open source software. He maintains and contributes to a variety of open source projects and helped run his local Ruby user group. Most recently, he crafted web applications at Integrallis Software. Danny studied finance at Ithaca College and computer engineering at Arizona State University. <a href="http://www.linkedin.com/pub/danny-whalen/77/192/ba8">LinkedIn</a> | <a href="https://twitter.com/invisiblefunnel">@invisiblefunnel</a> | <a href="https://github.com/invisiblefunnel/">GitHub</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/drew_wilson.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="wilson"></a>Drew Wilson</strong></div>
+<div class="bio">Drew Wilson is a developer, researcher and passionate vegetarian with a love of tech and an interest in using his technical skills to improve communities. Based in Worcester, Massachusetts, Drew comes to the fellowship as the CTO of Compassion Over Killing -- an organization dedicated to exposing cruelty to farm animals. Prior to this position, Drew has worked in youth empowerment and IT services to support refugees and victims of human trafficking. <a href="http://www.linkedin.com/profile/view?id=55266427">LinkedIn</a> | <a href="http://www.twitter.com/drewsaysgoveg">@drewsaysgoveg</a></div>
+</div>
+<div class="2014fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/livien_yin.jpg" width="150" height="150" /></div>
+<div class="name"><strong><a name="yin"></a>Livien Yin</strong></div>
+<div class="bio">Livien is a front-end developer and web designer. Most recently, she apprenticed at Taulia as a user interface engineer. Her passion lies in interactive art, data visualization, and environmental empathy. Livien graduated from Reed College where she made oil paintings and wrote her thesis on urban design in Portland, OR.
+<a href="http://www.linkedin.com/pub/livien-yin/58/b00/14a/">LinkedIn</a> | <a href="http://www.twitter.com/livienyin">@livienyin</a> | <a href="http://www.github.com/livienyin">GitHub</a></div>
+</div>
+</div>

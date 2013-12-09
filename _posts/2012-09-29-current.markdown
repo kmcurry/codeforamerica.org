@@ -1,0 +1,42 @@
+---
+layout: page
+status: publish
+published: true
+title: Current
+author: Joel Mahoney
+author_login: joel
+author_email: joel@codeforamerica.org
+wordpress_id: 16856
+wordpress_url: http://codeforamerica.org/?page_id=16856
+date: 2012-09-29 16:27:34.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America works with cities and counties across the county through its fellowship program, community brigades and network of civic innovators. While we offer a number of programs, the following list of governments are participating in our 2013 fellowship year.
+<h2>Meet Our 2013 Government Partners</h2>
+<div id="alumnicities">
+<table style="text-align: center;" cellpadding="10">
+<tbody style="text-align: center;" align="center">
+<tr style="text-align: center; margin-bottom: 10px;">
+<td><a href="http://codeforamerica.org/2013-partners/kansas-city/"><img title="Kansas City, KS" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/unified-district-seal1.png" height="100" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/kansas-city/"><img title="Kansas City, MO" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/10/kc.jpg" height="80" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/las-vegas/"><img class="size-full wp-image-6404" title="Las Vegas" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/lasvegas1.jpg" height="100" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/louisville/"><img title="Louisville" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/louisville_kentucky_seal1.png" height="100" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/new-york-city/"><img title="New York" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/new-york-city-seal1.png" height="100" /></a></td>
+</tr>
+<tr>
+<td><a href="http://codeforamerica.org/2013-partners/oakland/"><img title="Oakland" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/oakland-seal.jpeg" height="100" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/san-francisco/"><img title="San Francisco" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/san-francisco1-150x150.gif" height="100" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/san-mateo-county/"><img title="San Mateo" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/SanMateoCounty_Seal.gif" height="100" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/south-bend/"><img title="South Bend" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/south-bend-seal-150x150.png" height="100" /></a></td>
+<td><a href="http://codeforamerica.org/2013-partners/summit-county/"><img title="Summit County" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/summit-county-seal1-150x150.jpg" height="100" /></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+&nbsp;
+<h2>Interested in a Specific Program?</h2>
+Meet Your <a href="http://codeforamerica.org/cities/#brigade">Brigade</a> | Enlist the <a href="http://codeforamerica.org/cities/#fellowship">Fellows</a> | Embrace <a href="http://codeforamerica.org/cities/#opendata">Open Data</a>

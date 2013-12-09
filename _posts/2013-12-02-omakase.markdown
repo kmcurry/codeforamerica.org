@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: CFA + Omakase
+author: Theresa Preston-Werner
+author_login: Theresa Preston Werner
+author_email: tprestonwerner@gmail.com
+wordpress_id: 27991
+wordpress_url: http://www.codeforamerica.org/?p=27991
+date: 2013-12-02 17:55:30.000000000 +00:00
+categories:
+- News
+- Donor
+tags: []
+---
+<i><a href="http://www.codeforamerica.org/wp-content/uploads/2013/12/theresa-preston-werner-6e3dff2015766aceb0683770e416f695.jpg"><img class="alignleft size-medium wp-image-27992" alt="theresa-preston-werner-6e3dff2015766aceb0683770e416f695" src="http://www.codeforamerica.org/wp-content/uploads/2013/12/theresa-preston-werner-6e3dff2015766aceb0683770e416f695-225x300.jpg" width="225" height="300" /></a>Code for America is thrilled to be one of the first non-profits featured by <a href="https://omakasecharity.org">Omakase</a>, a new organization making charitable giving easy. Today Theresa Preston-Werner, founder of Omakase, posts about her strategy to encourage the tech community to give back.  </i>
+
+From the moment I began floating around the idea of creating a company that connected the tech community with nonprofits in need of support, one organization was mentioned often in conversation &mdash; Code for America. Code for America represents the very best of what can happen when smart, hardworking people take a moment to give back to their communities. Immediately I knew I wanted to see if I could help support their work.
+
+For the past four months, I have been building a nonprofit (Omakase) aimed at making charitable giving more appealing to tech folks. We’re not just donating to nonprofits that speak directly to the work interests of techies. From GSM cell phones used to network rural health workers to sheet-metal cookstoves that reduce carbon emissions &mdash; we’re also working with nonprofits that incorporate other technologies into their programs. Moreover, I want to get people in tech excited at the opportunity to invest their donations in nonprofits that see themselves as startups. Donors not only give to great causes, but they also determine the growth of the companies.
+
+Recently I was pleased to announce the beta launch of Omakase and our movement to position the tech community as a leader in the field of philanthropy. We connect members of the tech community to innovative, startup nonprofits, like Code for America, through recurring monthly donations.
+
+Our research shows that 75 percent of those in the tech community do not give regularly to charity. Conducting due diligence on charities just takes too long for busy professionals who have extremely high performance standards. Omakase, means “chef’s choice,” and we research, select, and interact with charities for you. Users sign up through their GitHub accounts (or with email) and donate $10, $25, or $50 a month.
+
+Each quarter, Omakase partners with five new nonprofits, so users learn about and support a wide variety of rotating charities. At the end of the quarter, users will receive detailed reports tracking their donations and discover how their social investment has helped different small nonprofits grow. We’re thrilled to partner with Code for America as one of our first five organizations, and we look forward to watching how Code for America grows, in part, because of the generous donations from our users.
+
+<i>Check out <i><a href="https://omakasecharity.org">Omakase</a> or watch <a href="http://techcrunch.com/2013/11/27/omakase-charity-tech-industry/">Preston-Werner's recent interview at TechCrunch</a>.</i> </i><i>And, this season, please consider making a gift to Code for America at <a href="http://codeforamerica.org/donate" target="_blank">codeforamerica.org/donate</a>. </i>
+
+&nbsp;
+
+<hr />
+
+Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.

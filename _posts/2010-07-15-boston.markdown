@@ -1,0 +1,72 @@
+---
+layout: page
+status: publish
+published: true
+title: Boston
+author: Alissa Black
+author_login: alissa
+author_email: alissa@codeforamerica.org
+wordpress_id: 1020
+wordpress_url: http://codeforamerica.org/?page_id=1020
+date: 2010-07-15 22:47:53.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/08/boston_logo.jpg" width="144" height="144" /></div>
+<blockquote><em>"Finding little wins that you can discover along the way, moments when people can come together and solve some small issue — that’s critical to the experience of innovation."</em>
+- <strong><em>Nigel Jacob, Co-Director <a href="http://www.newurbanmechanics.org/">Boston's Office of New Urban Mechanics</a></em></strong></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Boston</h3>
+<div class="text-and-picture">
+<div class="picture"><a href="http://www.meetup.com/Code-for-Boston/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2010/07/codeforboston.png" /></a></div>
+<h4>The Brigade</h4>
+Boston has been a techie city for a very long time. The city established the nation's first <a href="http://www.cityofboston.gov/newurbanmechanics">Mayor’s Office of New Urban Mechanics</a> (MONUM) and the department’s co-chairs were named Governing Magazine’s <a href="http://www.governing.com/poy/nigel-jacob-chris-osgood.html">Public Officials of the Year</a>. With forward-thinking leaders at the helm, Boston is paving the way for civic innovation. The city has an active Code for America Brigade -- a group of local volunteers who meet regularly to attend events, collaborate on new projects and stand up existing apps. For details visit <a href="http://www.meetup.com/Code-for-Boston/">Code for Boston.</a>
+<p class="link-block"><a href="http://www.meetup.com/Code-for-Boston/">Code for Boston</a>
+<a href="https://data.cityofboston.gov/">Open Data Portal</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<iframe src="//www.youtube.com/embed/FXS4wytm_I0" height="165" width="300" allowfullscreen="" frameborder="0"></iframe>
+Boston's Co-founder of the Mayor's Office of New Urban Mechanics Nigel Jacob takes the stage at the Code for America Summit to discusses structures of innovation
+
+</div>
+<h4>The 2012 Fellowship in Boston</h4>
+In 2011, The City of Boston applied for the fellowship program with Microsoft as their community partners. Given a strong Office of New Urban Mechanics, the <a href="http://www.codeforamerica.org/2011-fellows/">2011 fellows</a> Joel Mahoney, Karla Macedo and Talin Salway knew they were dealing with powerful allies. That being said, when the city requested “backpack apps” (an education API and developer platform) -- they received so much more.
+
+Apps created during that fellowship year help <a href="http://classtalk.org/welcome, http://codeforamerica.org/?cfa_project=classtalk">teachers send students text reminders</a>, <a href="http://codeforamerica.org/?cfa_app=where%E2%80%99s-my-school-bus">help parents track the school bus in realtime</a> and <a href="http://codeforamerica.org/?cfa_app=discover-bps">help students and parents assess their school eligibility</a>.
+
+The <a href="http://codeforamerica.org/?cfa_app=discover-bps">DiscoverBPS</a> app has been heralded by the <a href="http://articles.washingtonpost.com/2011-12-18/national/35287071_1_code-cities-private-sector&quot;">Washington Post</a> as a true feat. Fellows built the still popular application in only 2 months with the bulk of the work falling on the shoulders of developer Joel Mahoney. The app has since been taken over by the City of Boston's IT department.
+
+Just two years later, half the parents in Boston are using this platform to identify the right school for their child. Seven percent of visitors are viewing the site in a language other than English.
+
+Some of the other apps built that year include a <a href="http://commons.codeforamerica.org/apps/data-works">developer collaboration platform</a>, <a href="http://commons.codeforamerica.org/apps/datacouch">tool that turns spreadsheets into APIs</a>, mobile app that locates <a href="http://commons.codeforamerica.org/apps/techno-finder">wifi points</a> and a tool that looks a bit like Foursquare for snow-covered fire hydrants called <a href="http://codeforamerica.org/?cfa_app=adopt-a-hydrant-2">Adopt-a-hydrant</a>.  While "Adopt-a" may seem specific to Boston, it's since been redeployed to storm drains in Seattle and tsunami sirens in Honolulu.
+<p class="link-block"><a href="http://codeforamerica.org/?cfa_app=discover-bps">DiscoverBPS</a>
+<a href="http://codeforamerica.org/?cfa_app=where%E2%80%99s-my-school-bus">Where's My School Bus?</a>
+<a href="http://classtalk.org">Classtalk</a>
+<a href="http://commons.codeforamerica.org/apps/techno-finder">Techno Finder</a>
+<a href="http://codeforamerica.org/?cfa_app=adopt-a-hydrant-2">Adopt-a-hydrant</a>
+<a href="http://commons.codeforamerica.org/apps/data-works">Data Works</a>
+<a href="http://commons.codeforamerica.org/apps/datacouch">Data Couch</a></p>
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://articles.washingtonpost.com/2011-12-18/national/35287071_1_code-cities-private-sector&amp;quot"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2010/07/boston_wapo.png" /></a></div>
+<h4>Code for America: An elegant solution for government IT problems - <a href="http://articles.washingtonpost.com/2011-12-18/national/35287071_1_code-cities-private-sector&amp;quot">Washington Post</a></h4>
+Parents in Boston complained bitterly about the needlessly complex enrollment process for public schools. To sign up their children for school, parents were forced to navigate a Byzantine 28-page pamphlet seemingly designed to confuse.
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.boston.com/business/technology/articles/2011/03/01/technology_team_developing_smart_solutions_to_everyday_city_problems/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2010/07/bostonglobe.jpg" /></a></div>
+<h4>Technology team is developing smart solutions to everyday city problems - <a href="http://www.boston.com/business/technology/articles/2011/03/01/technology_team_developing_smart_solutions_to_everyday_city_problems/">The Boston Globe</a></h4>
+On a Friday in the middle of February, Michael Hughes, director of the Boston Public Schools Transportation Department, met with seven visiting fellows from Code for America, a new nonprofit organization that matches teams of young technologists with city governments for 11 months at a time.
+
+</div>

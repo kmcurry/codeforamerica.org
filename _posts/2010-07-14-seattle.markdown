@@ -1,0 +1,61 @@
+---
+layout: page
+status: publish
+published: true
+title: Seattle
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 955
+wordpress_url: http://codeforamerica.org/?page_id=955
+date: 2010-07-14 17:19:24.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/08/seattle_logo.jpg" width="144" height="144" /></div>
+<blockquote>"Seattle's Iconathon was modest but fruitful with a handful of participants creating a wide range of symbols focused on community."
+- <strong><em>Karla Macedo, 2011 Code for America Fellow</em></strong></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Seattle</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/09/seattle_brigade.jpg" /></div>
+<h4>The Brigade</h4>
+The City of Seattle has an <a href="https://data.seattle.gov/">open data portal</a> and an active Brigade with 282 members who organize via <a href="http://www.meetup.com/Code-for-Seattle/">Meetup</a>. This city is home to an active and thriving tech community and Microsoft is just minutes away in nearby Redmond. To connect with the Brigade tweet at the handle <a href="https://twitter.com/code4seattle&quot;">@code4seattle</a> or email <a href="mailto:info@codeforseattle.org">info@codeforseattle.org</a>.
+<p class="link-block"><a href="https://data.seattle.gov/">Open Data Portal</a>
+<a href="http://www.meetup.com/Code-for-Seattle/">Code for Seattle</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/09/seattlefellows.jpg" />Seattle CTO Bill Schrier speaks at Seattle Datacamp alongside 2011 fellow Chacha Sikes
+
+</div>
+<h4>The 2011 Fellowship in Seattle</h4>
+Led by city contacts Amy Hirotaka, Bill Schrier, Bruce Blood and Julie O'Brien, 2011 fellows <a href="http://www.codeforamerica.org/2011-fellows/">Alan Palazzolo, Anna Bloom, Chacha Sikes</a> were asked to make it easier for the city to communicate with a variety of civic leaders including block watch captains and neighborhood council leaders. After a month of research, the fellows built a map interface offering info on local community groups while also deploying <a href="http://codeforamerica.org/2011/09/07/change-by-us-seattle-user-no-1/">Change by Us</a> - an online marketplace for community projects to encourage volunteerism. While the app launched initially in New York, Change By Us continues to be deployed and receive updates from a <a href="http://codeforamerica.org/2011/09/01/change-by-us/&quot;">variety of supporters</a>.
+
+This team's most successful project was perhaps <a href="http://iconathon.org/">Iconathon</a>. Iconathon is an event series where community members create a set of graphic symbols for public domain that communicate concepts in civic design. Now supported by the Noun Project, Iconathons have created public domain symbols for concepts like  “human rights”, “food bank”, “electric car”, and “sustainable energy” across the nation. To check out those icons visit <a href="http://thenounproject.com/Iconathon1/#"> The Noun Project website</a>.
+<p class="link-block"><a href="http://codeforamerica.org/2011/09/07/change-by-us-seattle-user-no-1/">Change By Us</a>
+<a href="http://iconathon.org">Iconathon</a>
+<a href="https://vimeo.com/31446858">City Groups</a></p>
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><iframe src="//player.vimeo.com/video/31446858" width="300" height="165" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+<h4>City Groups Civic Apps Demo</h4>
+Code for America fellow Chacha Sikes presents City Groups at the Code for America Summit. 
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.codeforamerica.org/2011/09/07/change-by-us-seattle-user-no-1/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/09/Changebyus.jpg" /></a></div>
+<h4>Change By Us - <a href="http://www.codeforamerica.org/2011/09/07/change-by-us-seattle-user-no-1/">CfA Blog</a></h4>
+Change by Us is an online marketplace for community projects. The idea behind Change by Us is to empower neighbors in Seattle to coordinate offline efforts to make their city better — from building a skate park to cleaning up their street to hosting a block party. 
+
+</div>

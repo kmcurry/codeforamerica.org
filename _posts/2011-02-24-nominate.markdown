@@ -1,0 +1,20 @@
+---
+layout: page
+status: publish
+published: true
+title: Nominate A Future CfA Fellow
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 3983
+wordpress_url: http://codeforamerica.org/
+date: 2011-02-24 22:38:46.000000000 +00:00
+categories: []
+tags: []
+---
+Know someone who is passionate, talented, and eager to make a difference? Nominate them for the Code for America Fellowship. Your recommendation not only can encourage them to apply, but will also be considered during our competitive review process. Please use the form below to submit your nomination. If you have any questions or concerns, please <a href="mailto:info@codeforamerica.org">contact us</a>.
+
+<h2>Code for America Fellow Nomination Form</h2> 
+Nominations are currently closed, and will reopen in early 2012 for the 2013 fellowship.
+
+<style> textarea {width: 580px; height: 150px;} input[type="submit"] {width: 580px; height: 40px; font-weight: bold;}</style>

@@ -1,0 +1,17 @@
+---
+layout: page
+status: publish
+published: true
+title: June 27, 2013 Brigade Hangout
+author: Hannah Young
+author_login: Hannah Young
+author_email: hannah@codeforamerica.org
+wordpress_id: 23446
+wordpress_url: http://codeforamerica.org/?page_id=23446
+date: 2013-06-27 12:49:36.000000000 +00:00
+categories: []
+tags: []
+---
+<iframe src="http://www.youtube.com/embed/ge6AQVG36mQ" frameborder="0" width="940" height="450"></iframe>
+
+The livestream for this broadcast starts at 8 pm Eastern/5 pm Pacific. Questions for the speakers? Add them to <a href="https://docs.google.com/a/codeforamerica.org/document/d/1hMn0-468S7j5Rd5En6Sk2IazvdmorBYSdJGB3dfR52I/edit" target="_blank">this doc</a> and we'll try to make sure we get them all answered!

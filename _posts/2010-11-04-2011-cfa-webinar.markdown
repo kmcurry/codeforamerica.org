@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: 2011 CfA Projects Overview Webinar
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+excerpt: "<em>\"Ok, so what are you actually building?\"</em>\r\n\r\nThat's a question
+  we run into more often than we care to admit, and understandably so. The Code for
+  America process may seem short -- <em>just</em> a year-long fellowship -- but for
+  that process to work, we have to spend a lot of time with our cities beforehand,
+  understanding their challenges, determining their needs, and gathering a sense what
+  we want our fellows to build. Our products will only be as strong as our partnerships
+  and our preparation. After months of brainstorming and development, we are excited
+  to share with you our vision for what these applications will be and how they can
+  help cities become more efficient, participatory and open."
+wordpress_id: 1966
+wordpress_url: http://codeforamerica.org/?p=1966
+date: 2010-11-04 10:18:44.000000000 +00:00
+categories:
+- News
+tags: []
+---
+<em>"Ok, so what are you actually building?"</em>
+
+That's a question we run into more often than we care to admit, and understandably so. The Code for America process may seem short -- <em>just</em> a year-long fellowship -- but for that process to work, we have to spend a lot of time with our cities beforehand, understanding their challenges, determining their needs, and gathering a sense what we want our fellows to build. Our products will only be as strong as our partnerships and our preparation. After months of brainstorming and development, we are excited to share with you our vision for what these applications will be and how they can help cities become more efficient, participatory and open.<a id="more"></a><a id="more-1966"></a>
+<p style="text-align: center;"><a href="http://bit.ly/cfa-web11"><img class="aligncenter" src="http://action.codeforamerica.org/page/-/rsvp-now.jpg" alt="" width="200" height="83" align="center" /></a></p>
+<strong>We invite you to <a href="http://bit.ly/cfa-web11">join us for our projects announcement</a></strong><strong> on Tuesday, November 16, 2010, at 1pm pacific.</strong> In our short webinar, we will go over each project, including some use cases and key features, and then open it up to questions from the attendees. If you've been wondering what kind of work we will be doing, this is your opportunity to find out. <strong><a href="http://bit.ly/cfa-web11">Register now.</a></strong>
+
+<em><strong>Topics to be covered:</strong></em>
+<ul>
+	<li>What is the Code for America Program?</li>
+	<li>What projects will be developed in each of the cities?
+<ul>
+	<li>Boston, Philadelphia, Seattle, and Washington DC</li>
+</ul>
+</li>
+	<li>How can I get involved?</li>
+	<li>How can I bring Code for America to my city?</li>
+</ul>
+More information is <a href="http://codeforamerica.org/2011-webinar">available here</a>. The webinar is being generously hosted by O'Reilly Media, and registrations are being processed using their platform. If you have any questions about the event, please do not hesitate to contact us at webinar@codeforamerica.org.

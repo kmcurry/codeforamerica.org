@@ -1,0 +1,63 @@
+---
+layout: page
+status: publish
+published: true
+title: Mesa
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 26294
+wordpress_url: http://www.codeforamerica.org/?page_id=26294
+date: 2013-10-08 11:55:52.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/mesa_logo1.jpg" width="144" height="144" /></div>
+<blockquote><em>"Cities are the new centers of innovation and Mesa is a leader in developing programs that engage our community through the use of technology. </em>
+
+<em>We are excited to take this next step and partner with Code for America and Arizona State University to develop ideas and applications that better serve our residents."</em>
+
+<strong>--Mayor Scott Smith, City of Mesa
+</strong></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Mesa</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/mesa_brigade.jpg" /></div>
+<h4>The Community</h4>
+Located in Maricopa County and just 15 miles east of Phoenix, Mesa covers 132 square miles and is the third largest city in Arizona and the 38th largest city in the nation.
+
+The City provides the advantages of a thriving metropolis while maintaining the feel of a suburban environment. With dynamic recreational, educational and business opportunities, Mesa enjoys the best in a variety of amenities including parks within easy walking distance from home, a variety of sports facilities that cater to athletes young and old, highly rated golf courses for every skill level, a diversity of special events and community festivals, and Mesa's ever-popular Chicago Cubs Spring Training baseball.
+<p class="link-block"><a href="http://brigade.codeforamerica.org/">Organize a Brigade</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/mesa_fellowship.jpg" /></div>
+<h4>The 2014 Fellowship in Mesa</h4>
+For its 2014 fellowship year, Mesa is excited to have the opportunity to partner with Arizona State University, the first partnership of its kind in the fellowship program.
+
+<b>Arizona State University – Polytechnic Campus – College of Technology and Innovation (CTI)</b>
+
+ASU’s Polytechnic campus is home to more than 6,000 students exploring ASU’s professional and technological programs. Thousands of square feet of laboratory space make way for project-based learning.
+
+At ASU's College of Technology and Innovation (CTI) they make things. They make things that matter. They make positive change. They make leaders. But most of all, they make ideas happen.
+
+<b>City Team Leads</b>: Scott Butler, Director of Gov Relations, Ian Linssen, City Council Liaison
+
+<b>Community Partners</b>: Arizona State University
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://dobsonranch.azcentral.com/news/commentary/162521-code-america-announces-mesa-2014-government-partner" /><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/mesa_press.jpg" /></a></div>
+<h4>Code for America Announces Mesa as a 2014 Government Partner - <a href="http://dobsonranch.azcentral.com/news/commentary/162521-code-america-announces-mesa-2014-government-partner"</a>AZCentral</a></h4>
+Code for America (CfA) announced the ten governments and 30 Fellows that will be participating in its 2014 program. The official announcement came earlier today at the Code for America Summit.
+
+"We are thrilled to officially announce that Mesa, in partnership with Arizona State University, will participate in our 2014 Fellowship program," said Code for America Co-Executive Director Bob Sofman. "Mesa has a remarkable commitment to innovation and is supported by forward-thinking and dedicated staff. This top-notch combination ensures a productive year.”
+
+</div>

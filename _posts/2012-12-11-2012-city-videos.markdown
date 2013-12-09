@@ -1,0 +1,157 @@
+---
+layout: page
+status: publish
+published: true
+title: Hear from our 2012 City Partners
+author: Lauren Dyson
+author_login: lauren
+author_email: lauren@codeforamerica.org
+wordpress_id: 19074
+wordpress_url: http://codeforamerica.org/?page_id=19074
+date: 2012-12-11 14:59:45.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="col"><span class="title">In their own words</span><p>Code for America is made possible through the hard work of the forward-thinking local government leaders in our partner cities. This year, the 
+<a href="http://codeforamerica.org/2012-fellows/">26 fellows</a> partnered with eight cities — big and small — from across the country. We sat down with our city contacts to talk about what their Code
+ for America experience was like. Watch the interviews below to find out 
+what Code for America means to them, both personally and professionally.</p>
+</div>
+<div class="col"><span class="title">2014 Fellowship: Is your city next?</span><p>Code for America's <a href="http://codeforamerica.org/cities/">fellowship program</a> partners passionate technologists and designers with innovative and forward-looking local government leaders to demonstrate the possibilities when technology is used to make cities work better. If you're interested in finding out how your city or county can work with Code for America in 2014, you can <a href="http://codeforamerica.org/cities/">learn more</a> or <a href="http://codeforamerica.org/cities/apply-now/">apply</a> today.
+<a href="http://codeforamerica.org/cities/apply-now/" class="more" text-align="right">APPLY NOW</a></p>
+</div>
+<div class="line">  </div>
+<div class="col"><iframe src="http://player.vimeo.com/video/53640839?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" frameborder="0" width="450" height="253" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<span class="title">Allen Square <span class="byline"> City of New Orleans</span></span>
+<br>
+<span class="quote">"When you bring in a group of Code for America Fellows, I would put them on the hardest problem you got."</span>
+<div class="meta">
+<span class="prefix">Position:</span> Chief Information Officer
+<span class="prefix">City Population:</span> 360,740
+<span class="prefix">City Website:</span> <a href="http://new.nola.gov/home/">nola.gov</a>
+</div>
+</div>
+<div class="col"><iframe src="http://player.vimeo.com/video/53639679?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="450" height="253" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<span class="title">Story Bellows & Jeff Friedman <span class="byline"> City of Philadelphia</span></span>
+<br>
+<span class="quote">"Code for America has transformed the way I think about getting things accomplished in the public space."</span>
+<div class="meta"><span class="prefix">Position:</span> Co-Directors, Mayor's Office of New Urban Mechanics
+<span class="prefix">City Population:</span> 1,536,471
+<span class="prefix">City Website:</span> <a href="http://www.phila.gov/">phila.gov</a>
+</div>
+</div>
+&nbsp;
+<div class="col"><iframe src="http://player.vimeo.com/video/53639680?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="450" height="253" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></iframe>
+<span class="title">Amanda Deaton <span class="byline"> City of Macon, Ga.</span></span>
+<br>
+<span class="quote">"Code for America is not just the creation of a bunch of apps, it's connecting our citizens with our city."</span>
+<div class="meta"><span class="prefix">Position:</span> Assistant Chief Administrative Officer
+<span class="prefix">City Population:</span> 91,856
+<span class="prefix">City Website:</span> <a href="http://www.cityofmacon.net/">cityofmacon.net</a>
+</div>
+</div>
+<div class="col"><iframe src="http://player.vimeo.com/video/53639681?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="450" height="253" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<span class="title">Peter Koht <span class="byline"> City of Santa Cruz, Calif.</span></span>
+<br>
+<span class="quote">"The best thing about Code for America is that the fellows don't know that what they're doing is impossible — so they continue to deliver."</span>
+<div class="meta"><span class="prefix">Position:</span> Economic Development Coordinator
+<span class="prefix">City Population:</span> 60,342
+<span class="prefix">City Website:</span> <a href="http://cityofsantacruz.com">cityofsantacruz.com</a>
+</div>
+</div>
+&nbsp;
+<div class="col"><iframe src="http://player.vimeo.com/video/53629461?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="450" height="253" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<span class="title">Forest Frizzell <span class="byline"> City &amp; County of Honolulu</span></span>
+<br>
+<span class="quote">"The Code for America fellows came into Honolulu and hit the ground running… The results in my community have been profound."</span>
+<div class="meta"><span class="prefix">Position:</span>  Deputy Director of the Department of Information Technology
+<span class="prefix">City Population:</span> 374,658
+<span class="prefix">City Website:</span> <a href="http://honolulu.gov">honolulu.gov</a>
+</div>
+</div>
+<div class="col"><iframe src="http://player.vimeo.com/video/53371088?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="450" height="253" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<span class="title">John Tolva <span class="byline"> City of Chicago</span></span>
+<br>
+<span class="quote">"Code for America is about inserting a model of innovating into a culture that's bound by a lot of rules. It's a culture virus for innovation in government."</span>
+<div class="meta"><span class="prefix">Position:</span> Chief Technology Officer
+<span class="prefix">City Population:</span> 2,707,120
+<span class="prefix">City Website:</span> <a href="http://cityofchicago.org/">cityofchicago.org</a>
+</div>
+</div>
+&nbsp;
+<div class="col"><iframe src="http://player.vimeo.com/video/53370545?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="450" height="253" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<span class="title">Karla Henderson <span class="byline"> City of Detroit</span></span>
+<br>
+<span class="quote">"The projects the fellows developed are transforming thousands of Detroiters lives right now. This has been one of the most incredible experiences in my professional career."</span>
+<div class="meta"><span class="prefix">Position:</span> Group Executive of Planning &amp; Facilities
+<span class="prefix">City Population:</span> 706,585
+<span class="prefix">City Website:</span> <a href="http://detroitmi.gov/">detroitmi.gov</a>
+</div>
+</div>
+<div class="col"><iframe src="http://player.vimeo.com/video/53370440?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="450" height="253" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<span class="title">Mateo Esquibel <span class="byline"> City of Austin, Texas</span></span>
+<br>
+<span class="quote">"I refer to it as the Code for America effect: When the fellows spend the time in the city, you see everyone awaken to the possibilities."</span>
+<div class="meta"><span class="prefix">Position:</span> Web Services Supervisor
+<span class="prefix">City Population:</span> 820,611
+<span class="prefix">City Website:</span> <a href="http://austintexas.gov">austintexas.gov</a>
+</div>
+</div>
+<style>
+.col {
+width:49%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+}
+.gutter{
+width: 2%;
+	float:left;
+}
+iframe{
+	border:1px solid #eeeeee;
+	margin-bottom: 4px;
+}
+.title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #191919;
+	text-transform: uppercase;
+}
+.byline {
+	color: #999999;
+}
+.meta {
+        font-size:13px;
+        line-height:1.3em;
+}
+.prefix{
+        font-weight:bold;
+}
+.quote {
+       font-style:italic;
+}
+#maincontent ul {
+        padding:0 0 0 25px;
+        list-style-type: disc;
+}
+#maincontent li {
+        line-height:1.3em;
+        padding:0;
+        background:none;
+}
+#maincontent .ttl {
+        font-family: Oswald;
+        font-weight: normal;
+        font-size: 40px;
+        border-bottom: 3px solid #CCC;
+        background: none;
+}
+.line {
+        border-top: 3px solid #CCC;
+        width: 100%;
+        display: block;
+        clear: both;
+        margin-bottom: 5px;
+}
+</style>

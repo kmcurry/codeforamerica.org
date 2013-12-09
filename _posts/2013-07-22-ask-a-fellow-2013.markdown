@@ -1,0 +1,99 @@
+---
+layout: page
+status: publish
+published: true
+title: Got questions? Ask a fellow!
+author: Lauren Dyson
+author_login: lauren
+author_email: lauren@codeforamerica.org
+wordpress_id: 24045
+wordpress_url: http://codeforamerica.org/?page_id=24045
+date: 2013-07-22 16:38:40.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="hangout">
+<iframe width="940" height="450" src="http://www.youtube.com/embed/x19z4ELz98E" frameborder="0" allowfullscreen></iframe>
+</div>
+<span class="line"></span>
+<div id="participants">
+<div class="title">Participants</div>
+<div class="four"><img src="http://codeforamerica.org/wp-content/uploads/2012/10/Ezra_Spier-150x150.jpg" alt="" title="Ezra Spier" width="150" height="150" size-thumbnail" /></a>
+<h3>Ezra Spier (host)</h3>
+2013 Fellow, New York City
+<em>Code for America</em>
+<a href="https://twitter.com/ahhrrr">@ahhrrr</a>
+</div>
+<div class="four"><img title="Ariel Kennan" src="http://codeforamerica.org/wp-content/uploads/2012/10/Ariel_Kennan-150x150.jpg" alt="" width="150" height="150" />
+<h3>Ariel Kennan</h3>
+2013 Fellow, Kansas City
+<em>Code for America</em>
+<a href="https://twitter.com/arielmai">@arielmai</a>
+</div>
+<div class="four"><img title="Lou Huang" src="http://codeforamerica.org/wp-content/uploads/2012/10/louhuang_headshot2-150x150.jpg" alt="" width="150" height="150" />
+<h3>Lou Huang</h3>
+2013 Fellow, Las Vegas
+<em>Code for America</em>
+<a href="https://twitter.com/saikofish">@saikofish</a>
+</div>
+<div class="four"><img src="http://codeforamerica.org/wp-content/uploads/2012/10/jsolomon_headshot-150x150.jpg" alt="" title="Jake Solomon" width="150" height="150" size-thumbnail" /></a>
+<h3>Jake Solomon</h3>
+2013 Fellow, San Francisco
+<em>Code for America</em>
+<a href="https://twitter.com/lipytak">@lippytak</a>
+</div>
+<span class="line"></span>
+<div class="title">About</div>
+
+<p>Considering applying for the Code for America <a href="http://codeforamerica.org/fellows">fellowship</a>, but have some questions you’d like answered? Lingering doubts? Things you’d like clarified? Fret no more: the fellows are here to help!
+
+We held a live Google Hangout with current CfA fellows on Tuesday, July 23. Fellows were available to speak about our experiences, and answer any questions about the program and application process.
+
+And don't forget to <a href="http://codeforamerica.org/fellows/apply/">apply by July 31!</a>
+
+<style>
+.four {
+width:24.5%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+text-align:center;
+}
+.four p{
+margin:5px 0px;
+line-height:1em;
+}
+.five {
+width:20%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+text-align:center;
+}
+.five p{
+margin:5px 0px;
+line-height:1em;
+}
+.gutter{
+width: 2%;
+	float:left;
+}
+.title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 24px;
+	color: #191919;
+	text-transform: uppercase;
+        padding:20px 0px
+}
+.line {
+        border-top: 3px solid #CCC;
+        width: 100%;
+        display: block;
+        clear: both;
+        margin-bottom: 5px;
+}
+.hangout{
+  padding:20px 0px;
+
+}
+</style>

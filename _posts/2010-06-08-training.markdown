@@ -1,0 +1,28 @@
+---
+layout: page
+status: publish
+published: true
+title: Instruction and Training
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 372
+wordpress_url: http://codeforamerica.org/?page_id=372
+date: 2010-06-08 13:57:53.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+The Code for America Fellowship is as much about benefiting the fellows themselves as it is about helping the cities. We hope to give the fellows tools to develop their careers, expand their skillset, and advance the Gov 2.0 movement long beyond their 11-month fellowship.
+
+The selected fellows come together at the Bay Area headquarters for a month of training, team building, working on internal tools, and project research. A key element of this portion of the program is the guest speaker series; leaders in both government and the web industry provide inspiration and build the corps' networks. The fellows are divided into teams, each team assigned to a host city and that city's project.
+
+Highlights include:
+<ul>
+	<li><strong>Hybrid Curriculum</strong>: With support from leaders in both technology and public administration, Code for America has put together a crash course in innovating through abureaucracy, which will serve fellows not only within their assigned cities, but also in the future in any organization.</li>
+	<li><strong>Guest Lectures</strong>: We have lined up Gov 2.0 heroes to come visit CfA headquarters during the month to share their experiences and their insights on the next steps in the movement.</li>
+	<li><strong>Networking Dinners</strong>: Throughout the month, fellows will be invited to various dinners and events around San Francisco and in Silicon Valley to get to know and connect with industry insiders and key players.</li>
+	<li><strong>Company Visits/Tours: </strong> Eager to take part in this important process, several leading internet companies have arranged on-site days for fellows to tour their facilities, meet their staff, and share ideas on how to make the cities' web applications as successful as possible.</li>
+</ul>
+<strong>Faculty and Staff
+</strong>During January, fellows will learn from leaders in the both government and the web industry, including -- among others -- members of Code for America's <a href="http://codeforamerica.org/who-we-are/">Board of Advisors, City Steering Committee, and staff</a>.

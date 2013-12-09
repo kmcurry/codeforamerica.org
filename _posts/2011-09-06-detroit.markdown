@@ -1,0 +1,46 @@
+---
+layout: page
+status: publish
+published: true
+title: '2012 City Partner: Detroit'
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 8413
+wordpress_url: http://codeforamerica.org/?page_id=8413
+date: 2011-09-06 18:18:46.000000000 +00:00
+categories: []
+tags: []
+---
+This past February, Code for America’s Detroit Team spent five weeks immersed in Detroit’s political and cultural landscape — developing a network of over 170 individuals, technologists, city staff, foundation officers, non-profit and community group leaders.
+<h2>Focus Areas</h2>
+Through interviews and group planning sessions, we have identified several strategic areas to inform the development of future CfA projects including apps, websites and digital solutions for the City of Detroit:
+<h4 style="margin-bottom: 0;">Community Engagement &amp; Increasing Capacity of Community Groups</h4>
+Detroit’s landscape of engaged and organized citizen groups is impressive. Community leaders and citizens alike are extremely active in the civic space — from volunteerism and direct service provision to independent data analysis — Detroit is rich in DIY spirit. We hope to catalyze and support the existing work of community-based organizations and residents’ ability to capture and visualize neighborhood-level data, meaningfully engage with city government, and meet the needs of Detroiters.
+<h4>Access to Transportation Information</h4>
+There is currently no way to track real-time bus arrival and departure time in Detroit. This is a critical need for residents who rely on the bus in Detroit. We are actively working with the Department of Transportation to open up bus information and provide an easy-to-use, accessible interface to get accurate information to riders.
+<h4>City-owned Property Sales &amp; Information</h4>
+The City of Detroit currently faces a massive surplus of City-owned property. Currently, it is not easy to understand how to buy property or even know where city-owned property is for sale online. By exploring digital solutions with the City’s Planning and Development Department, we are working toward a more transparent, streamlined and friendly customer experience for city residents and city staff.
+<h2>Our Partners</h2>
+We’ve met an amazing number of leaders in Detroit. Here’s an ever-growing list of the partners we will be working with over the next year:
+<h4>City Leadership &amp; Sponsors</h4>
+Our primary city contact is Karla Henderson, Planning and Facilities Group Executive in the Office of the Mayor. The Knight Foundation and the Kellogg Foundation have funded Code for America’s work in Detroit.
+<h4>City of Detroit:<span style="font-size: 16px;"> </span></h4>
+<a href="http://www.detroitmi.gov/DepartmentsandAgencies/PlanningDevelopmentDepartment.aspx" target="_blank">Planning and Development Department</a>
+<a href="http://www.ci.detroit.mi.us/Departments/DetroitDepartmentofTransportation/tabid/80/default.aspx" target="_blank">Detroit Department of Transportation</a>
+<a href="http://www.detroitmi.gov/Departments/Finance/PurchasingDivision/tabid/96/Default.aspx" target="_blank">Purchasing Division</a>
+
+<h4>Non-Governmental:</hr>
+<a href="http://datadrivendetroit.org/" target="_blank">Data Driven Detroit
+</a><a href="http://makeloveland.com/" target="_blank">Loveland Technologies</a>
+<a href="http://www.clronline.org/" target="_blank">Michigan Community Resources</a>
+<a href="http://wdetfm.org/" target="_blank">WDET</a>
+<a href="http://cdad-online.org/" target="_blank">CDAD</a>
+<a href="http://www.knightfoundation.org/communities/detroit/" target="_blank">Knight Foundation</a>
+<h2>Team Detroit</h2>
+Meet <a href="http://twitter.com/#!/arouault" target="_blank">Alicia Rouault</a>, <a href="http://twitter.com/#!/matth" target="_blank">Matt Hampel</a> and <a href="http://twitter.com/#!/prashtx" target="_blank">Prashant Singh</a>: Code for America's Detroit Fellows.
+<p style="overflow: hidden;"><img class="alignnone size-full wp-image-11684" style="float: left; margin-right: 20px;" title="AliciaRouault" src="http://codeforamerica.org/wp-content/uploads/2011/10/AliciaRouault-e1331489676566.jpg" alt="" width="150" height="150" /><img style="float: left; margin-right: 20px;" src="http://codeforamerica.org/wp-content/uploads/2011/10/Matt.jpg" alt="" /><img style="float: left;" src="http://codeforamerica.org/wp-content/uploads/2011/10/Prashant.jpg" alt="" /></p>
+&nbsp;
+<h2>End of Year Report</h2>
+<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/22304147" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="479" height="511"></iframe>
+<div style="margin-bottom: 5px;"><strong> <a title="2012_Detroit End of Year Report" href="http://www.slideshare.net/codeforamerica/detroit-end-of-year-report-2012" target="_blank">2012_Detroit End of Year Report</a> </strong> from <strong><a href="http://www.slideshare.net/codeforamerica" target="_blank">Code for America</a></strong></div>

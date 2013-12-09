@@ -1,0 +1,74 @@
+---
+layout: page
+status: publish
+published: true
+title: Oakland
+author: Joel Mahoney
+author_login: joel
+author_email: joel@codeforamerica.org
+wordpress_id: 16864
+wordpress_url: http://codeforamerica.org/?page_id=16864
+date: 2012-10-01 12:49:21.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/oakland-logo.png" width="300" height="165" /></div>
+<blockquote><em>"In building this app, the fellows have applied methods gleaned from the technology sector. Working with lean processes, delivering the minimum viable product and iterating based on user experience and community feedback are all valuable ideas that are now being incorporated into the City’s other business processes, effectively changing the culture within City Hall."</em> -- <strong>City Administrator Deanna J. Santana</strong></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Oakland</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/10/oakland_brigade.jpg" width="300" height="165" /></div>
+<h4>The Brigade</h4>
+In January 2013 the City of Oakland launched its <a href="https://data.oaklandnet.com/">open data portal</a> along with the Public Ethics Commission's <a href="http://www2.oaklandnet.com/Government/o/CityAdministration/d/PublicEthics/OAK041329">Transparency Project</a>. Both launches aim to facilitate openness and transparency in order to ensure fairness, openness, honesty, and integrity in Oakland's City government. Since then, City Council also voted to require that both candidate and committee finances be published online and accessible to taxpayers. The <a href="http://openoakland.org/">Open Oakland</a> Code for America Brigade is extremely active and the group meets regularly within city hall. To connect with co-captains Eddie Tejeda and Steve Spiker email <a href="mailto:openoakland@googlegroups.com">openoakland@googlegroups.com</a>.
+<p class="link-block"><a href="http://openoakland.org/">Open Oakland Brigade</a> <a href="https://data.oaklandnet.com/">Open Data Portal</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<a href="http://content.time.com/time/magazine/article/0,9171,2140202-1,00.html"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/10/oakland_press3.jpg" width="300" height="165" /></a> The Oakland fellows in a <a href="http://content.time.com/time/magazine/article/0,9171,2140202-1,00.html">Time Magazine feature</a>.
+
+<iframe src="//www.youtube.com/embed/F4XP9DJ-htg" height="165" width="300" allowfullscreen="" frameborder="0"></iframe>Oakland City Spotlight at Code for America's Summit
+
+</div>
+<h4>The 2013 Fellowship in Oakland</h4>
+In 2013, the City of Oakland recognized the need to digitize and improve its public records program. At the time, requests were not well tracked, city staff were often unable to navigate the system and the information that was already available was buried in a difficult-to-use website. In essence, the system itself was a bit of a black hole and the public was left wondering where their requests were going and whether they'd be fulfilled. It's for this reason that 2013 fellowship team Richa Agarwal, Cris Cristina and Sheila Dugan met with stakeholders from various Oakland departments to improve citywide public records requests.
+
+Working alongside city contacts Nicole Neditch (Online Communications Officer) and Karen Boyd (Director of Communications) -- the group began work with the Office of the City Administrator. After holding weekly office hours and interviewing members and city staff members, the team decided to build a new <a href="http://records.oaklandnet.com">RecordTrac</a>.
+
+The app allows city employees to upload links or documents, triage requests to other departments, ask questions of a requester, explain whether or not the request's fulfillment is in paper format or online and track the request timing / fulfillment. The app's purpose is to make it easier for citizens to submit requests and easier for city staff to manage the fulfillment of those. Additionally, it will provide a shared view of current and past requests and expose data that can potentially be used to further improve processes.
+
+To date RecordTrac is widely used across departments with the Oakland Police Department as the final department to come onboard later in the year. This group in particular hosted a number of events to facilitate better relationships between the community and city. They co-hosted the Open Data Day hackathon that produced this <a href="http://openoakland.github.io/EarlyOakland/">early childhood service app</a> and helped anchor the <a href="http://hackforchange.org/rewrite-oakland">Rewrite Oakland</a> content writing event that eventually powered the launch of <a href="http://answers.oaklandnet.com/">Oakland Answers</a>.
+
+<a href="http://records.oaklandnet.com">RecordTrac</a>
+
+Created Alongside the Brigade:
+<a href="http://openoakland.github.io/EarlyOakland/">Early Oakland</a>
+<a href="http://answers.oaklandnet.com/">Oakland Answers</a>
+
+<b>Community Partners</b>:
+Akonadi Foundation
+Accela
+Kapor Center for Social Impact
+William H. Donner Foundation
+Pandora Media
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://oaklandnorth.net/2013/10/02/oakland-code-for-america-unveil-public-records-program/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/10/oakland_press4.jpg" width="300" height="165" /></a></div>
+<h4>Oakland, Code for America unveil public records program - <a href="http://oaklandnorth.net/2013/10/02/oakland-code-for-america-unveil-public-records-program/">OaklandNorth</a></h4>
+In a push to improve government transparency, Oakland city officials on Tuesday launched RecordTrac, a new program designed by Code for America that allows users to request public records online.
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><iframe src="//www.youtube.com/embed/hVw-JiDmfj0" height="165" width="300" allowfullscreen="" frameborder="0"></iframe></div>
+<h4>Code for America Redeploys Honolulu Answers in Oakland - <a href="http://youtu.be/hVw-JiDmfj0">BlueHost</a></h4>
+Code for America strives to improve government through open source projects. Bluehost is a proud supporter of Code for America.
+
+</div>

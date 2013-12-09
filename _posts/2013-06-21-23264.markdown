@@ -1,0 +1,14 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Mick Thompson
+author_login: mick
+author_email: mick@codeforamerica.org
+wordpress_id: 23264
+wordpress_url: http://codeforamerica.org/?p=23264
+date: 2013-06-21 12:50:26.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America is a start-up non-profit. Our mission is to help transform local government by bringing them together with the brightest minds of the technology industry. We’re passionate, agile, and growing. See below for opportunities currently available, or contact us. function resizeResumatorIframe(height,nojump){if(nojump== 0){window.scrollTo(0,0);}document.getElementById(“resumator-job-frame”).height = parseInt(height)+20;} #search_bar {display: none;}

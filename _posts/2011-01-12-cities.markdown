@@ -1,0 +1,14 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 2940
+wordpress_url: http://c4a.me/?p=2940
+date: 2011-01-12 14:59:16.000000000 +00:00
+categories: []
+tags: []
+---
+The Need & OpportunityWhy Cities? Cities are under greater pressure than ever, struggling with budget cuts and outdated technology. Code for America believes that instead of cutting services or raising taxes, cities can leverage the power of the web to become more efficient, transparent, and participatory. And we want to help them do it. what can we do for your city Benefits of Participation We recruit fellows who demonstrate a networked, web-centric, and open approach to problem-solving. Attaching the fellows to the city for the year and helping them build relationships with a wide variety of city workers is an effective way to introduce this kind of thinking and help it spread. Solve complex issues in your city with custom-built tech. Encourage experimentation with a new tool set. Collaborate with other innovative cities. who are we looking for what we ask from cities We are looking for applicant cities that demonstrate strong leadership that can maneuver through or overcome bureaucratic obstacles, funding to support the project, and have identified a project that has real cost-savings for the city, and promotes transparency and public participation. Additionally, we are interested in building solutions that can widely be reused by other local governments.

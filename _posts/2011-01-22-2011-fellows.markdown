@@ -1,0 +1,124 @@
+---
+layout: page
+status: publish
+published: true
+title: 2011 Code for America Fellows
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 3211
+wordpress_url: http://codeforamerica.org/
+date: 2011-01-22 18:11:45.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America's inaugural fellowship class brought a number of amazing candidates to the organization.  Candidates came in from across the country and around the world, and they came with backgrounds ranging from back-end development experience to urban design. From that tremendous applicant pool, we worked with our selection committee of leading technologists, city officials, and thought leaders to identify the top for next year. Below are short biographies for those selected for the 2011 Code for America Fellows.
+<p style="text-align: right;"><a href="http://codeforamerica.org/fellows/apply">Apply for Next Year's Fellowship &gt;&gt;</a></p>
+
+
+<hr style="color: #ccc;" />
+
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/karla-macedo.png"><img class="alignleft size-full wp-image-23598" title="karla-macedo" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/karla-macedo.png" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Karla Macedo</strong></span></div>
+<div class="bio">Karla Macedo is a graphic designer with a deep interest in design that helps create positive social impact. Karla is looking to refine her skills as she transitions to web work. During her time at Code for America she helped organize the Iconathon, a series of events that helped create the first-ever civic symbol suite. As a native Spanish speaker she understands the importance of bridging communication barriers through design. Karla also helped redesign and conceptualize the branding for Bostonavigator, Discover BPS, Wheres My School Bus, Building Boston, Boston Public Schools, and Boston Public Works. She hopes to continue to use design to bring communities together, tell stories, and inform. <a href="http://linkedin.com/pub/karla-macedo/12/a57/95a">LinkedIn</a> | <a href="http://twitter.com/kmimagine">@kmimagine</a> | <a href="http://codeforamerica.org/author/karla/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/ryan-resella.jpeg"><img class="alignleft size-full wp-image-23657" title="ryan-resella" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/ryan-resella.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Ryan Resella</strong></span></div>
+<div class="bio">Ryan began working in local government in 2005 at the City of Santa Clarita in Southern California. As a Senior IT Analyst at Santa Clarita he was responsible for managing the Application Development group in the Technology Services Division. Previously, he was the project manager and lead engineer on eGraffiti which is a web based graffiti tracking and prevention application, which won the League of California Cities Grand Prize Helen Putnam Award. He also has done extensive work with GIS using Esri products. Ryan was part of the 2011 Inaugural class of Code for America Fellows. As a photographer, Ryan continues to capture great moments at Code for America. He holds a Masters Degree in Public Administration and Bachelors of Science in Computer Science from California State University, Northridge.  <a href="http://linkedin.com/in/ryanresella">LinkedIn</a> | <a href="http://twitter.com/RyanResella">@RyanResella</a> | <a href="http://codeforamerica.org/author/ryan/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/scott-silverman.jpeg"><img class="alignleft size-full wp-image-23703" title="scott-silverman" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/scott-silverman.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Scott Silverman</strong></span></div>
+<div class="bio">Scott is a designer and product guy with a passion for perfection. He’s worked alongside engineers writing code, prototyping interfaces, and launching products. Prior to Code for America, Scott held product internships with Apple, The New York Times, and Arnold Worldwide. When not making software, he's usually backpacking, taking pictures, or skiing. See some of Scott's work at scottsil.com or dribbble.com/scottsil.  <a href="http://linkedin.com/in/scottsil">LinkedIn</a> | <a href="http://twitter.com/scottsil">@scottsil</a> | <a href="http://codeforamerica.org/author/scott/">Fellows Blog</a></div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/jeremy-canfield.jpeg"><img class="alignleft size-full wp-image-23593" title="jeremy-canfield" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/jeremy-canfield.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Jeremy Canfield</strong></span></div>
+<div class="bio">Jeremy Canfield is a web developer, interaction designer, and entrepreneur. As a co-founder of Phonagle, he designed, developed, and launched a location-based mobile game, funded by winning a venture capital competition. Before his start-up, he worked for the Government Accountability Office, leveraging open source software to increase transparency and collaboration. He earned a Masters of Science in Information at the University of Michigan. <a href="http://linkedin.com/in/jeremycanfield">LinkedIn</a> | <a href="http://twitter.com/cdjeremy">@cdjeremy</a> | <a href="http://codeforamerica.org/author/jeremy/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="name"><span style="color: #000000;"><strong><a href="http://codeforamerica.org/wp-content/uploads/2013/07/joel-mahoney.jpeg"><img class="alignleft size-full wp-image-23596" title="joel-mahoney" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/joel-mahoney.jpeg" width="120" height="120" /></a>Joel Mahoney</strong></span></div>
+<div class="bio">Joel Mahoney has been developing web applications since 1999, and has served as the COO and CTO of multiple start-up companies. Recently, he was the lead architect of Pandoxa.com, a citizen-engagement platform for the 2010 California Special Election. He holds a BA from Bates College in Lewiston, ME, and a MA from St. John’s College in Santa Fe, NM. <a href="http://linkedin.com/in/joelmahoney">LinkedIn</a> | <a href="http://linkedin.com/in/joelmahoney">@joelmahoney</a> | <a href="http://linkedin.com/in/joelmahoney">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="name"><span style="color: #000000;"><strong> <a href="http://codeforamerica.org/wp-content/uploads/2013/07/john-mertens.jpeg"><img class="size-full wp-image-23597 alignleft" title="john-mertens" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/john-mertens.jpeg" width="120" height="120" /></a>John Mertens</strong></span></div>
+<div class="bio">John is a full stack developer with an emphasis on rapid prototyping and data wrangling. During his fellowship, John was involved in 9 different CfA projects, won multiple coding contests, and liberated thousands of data points. Before Code for America, he was a web developer at Alientation Digital, one of the top digital agencies in Scotland, where he built over 50 unique websites per year on open source software. In addition to traditional websites &amp; e-commerce sites, he also built a civic app for self-evaluation of all Scottish Social Service workers. He earned a BS in Computer Science with a minor in Mathematics from Iowa State University. <a href="http://linkedin.com/in/johnmertens">LinkedIn</a> | <a href="http://twitter.com/mertonium">@mertonium</a> | <a href="http://codeforamerica.org/author/john/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot">
+
+<a href="http://codeforamerica.org/wp-content/uploads/2013/07/matt-lewis.jpeg"><img class="alignleft size-full wp-image-23611" title="matt-lewis" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/matt-lewis.jpeg" width="120" height="120" /></a>
+<div class="name"><span style="color: #000000;"><strong>Matt Lewis</strong></span></div>
+<div class="bio">Matt Lewis is a government and tech geek who wants to help leverage technology to make the public sphere more open and efficient. He has spent much of his fellowship year working with the federal government on a Veteran specific career platform, in addition to working with the City of Philadelphia to build tools that make civic engagement easier for busy citizens. Matt has a wide array of experience in politics, business, and technology. He's worked as a marketing analyst for a digital ad agency in San Francisco, helped craft grassroots organizing strategies for the Newsom for Progress campaign, and has worked as an equity analyst for a boutique financial analysis firm. Matt graduated from Claremont McKenna College in 2009 with a degree in Politics, Philosophy, and Economics (PPE). <a href="http://linkedin.com/pub/matt-lewis/1b/861/a84">LinkedIn</a> | <a href="http://twitter.com/mattlewissf">@mattlewissf</a> | <a href="http://codeforamerica.org/author/matt/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot">
+
+<a href="http://codeforamerica.org/wp-content/uploads/2013/07/max-ogden.png"><img class="alignleft size-full wp-image-23612" title="max-ogden" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/max-ogden.png" width="130" height="130" /></a>
+<div class="name"><span style="color: #000000;"><strong>Max Ogden</strong></span></div>
+<div class="bio">Max Ogden develops client applications, developer tools, and APIs, currently living in Portland, OR, and working as a developer at a market research company. In his spare time, he develops open source civic applications, including a hosted data service for geographic information about Portland, OR, called PDX API. In a 2010 apps competition hosted by the City of Portland, his work on PDX API was awarded, “Best use of public data.”  <a href="http://twitter.com/maxogden">@maxogden</a> | <a href="http://codeforamerica.org/author/max/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/michael-lawrence-evans1.jpeg"><img class="alignleft size-full wp-image-23627" title="michael-lawrence-evans" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/michael-lawrence-evans1.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Michael Lawrence Evans</strong></span></div>
+<div class="bio">Michael Lawrence Evans is a web developer from Mountain View, CA. As a self-taught open source programmer, he has focused on data visualization and GIS systems with projects such as NYC Graffiti Snapshot, which helps users explore graffiti trends with interactive maps and charts, and SF Crime Snapshot, a combination of heat maps and street maps illustrating crime density in San Francisco. He earned a BS in Physical Chemistry from UCLA in 2005.  <a href="http://linkedin.com/in/mlevans">LinkedIn</a> | <a href="http://twitter.com/evansml">@evansml</a> | <a href="http://codeforamerica.org/author/michael/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/michelle-koeth.jpeg"><img class="alignleft size-full wp-image-23615" title="michelle-koeth" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/michelle-koeth.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Michelle Koeth</strong></span></div>
+<div class="bio">Michelle is a patent lawyer and web developer. As a 2011 Code for America fellow she gathered user experience research and drafted the Legal and Procurement Issues Guide for Civic Commons. Further, she attended several codeathons and was a co-developer for three civic minded applications, including SnapFresh, an Apps for Good prize winner. She holds a BS in Computer Engineering from Rutgers University and a JD from the Chicago-Kent College of Law.   <a href="http://linkedin.com/in/mkoeth">LinkedIn</a> | <a href="http://twitter.com/michellekoeth">@michellekoeth</a> | <a href="http://codeforamerica.org/author/michelle/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/mjumbe-poe.jpeg"><img class="alignleft size-full wp-image-23648" title="mjumbe-poe" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/mjumbe-poe.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Mjumbe Poe</strong></span></div>
+<div class="bio">Mjumbe Wa Watu Poe has worked for the last five years developing software tools for researchers at the University of Pennsylvania for modelling and simulating social phenomena. Recently, he has been building a set of applications called “Phillyware” to help people better use and affect their city and consulting for a firm developing a collaboration tool for high school educators. He graduated in 2005 with a BS in Computer Science from Harvey Mudd College.  <a href="http://linkedin.com/in/mjumbewu">LinkedIn</a> | <a href="http://twitter.com/mjumbewu">@mjumbewu</a> | <a href="http://codeforamerica.org/author/mjumbe/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/peter-fecteau.jpeg"><img class="alignleft size-full wp-image-23653" title="peter-fecteau" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/peter-fecteau.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Peter Fecteau</strong></span></div>
+<div class="bio">Pete Fecteau works mainly in the interactive design and development field creating and administrating websites for small and large organizations alike. He has experience designing numerous social networks, apps, and templates using open source software. He also works on developing effective online strategies and streamlining process through technologies. You can think of Pete as an experience engineer. Pete also spends his free time as an artist with a history in graffiti and street arts. He's been making a transition into experimental media. His latest side project involved creating a mosaic of Dr. Martin Luther King using 4,242 Rubik’s Cubes.  <a href="http://linkedin.com/in/petefecteau">LinkedIn</a> | <a href="http://twitter.com/peterfecteau">@peterfecteau</a> | <a href="http://codeforamerica.org/author/peter/">Fellows Blog</a></div>
+</div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/talin-salway.png"><img class="alignleft size-full wp-image-23661" title="talin-salway" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/talin-salway.png" width="130" height="130" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Talin Salway</strong></span></div>
+<div class="bio">Talin Salway graduated from UNLV with a degree in Computer Science in 2009, and has developed web applications since then, including the co-founding of social location site peerCompass.com, which aggregates multiple social feeds — Facebook, Twitter, Gowalla, Foursquare — into user-friendly desktop and mobile apps. He was awarded the rank of Eagle Scout, and was part of a team which placed in the 2009 DefCon badge hacking contest.  <a href="http://linkedin.com/pub/talin-salway/25/717/1a4">LinkedIn</a> | <a href="http://twitter.com/YenTheFirst">@YenTheFirst</a> | <a href="http://codeforamerica.org/author/talin/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/tyler-stadler.png"><img class="alignleft size-full wp-image-23663" title="tyler-stadler" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/tyler-stadler.png" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Tyler Stalder</strong></span></div>
+<div class="bio">Tyler Stalder is a web developer, specializing in internal application development and design. Tyler received his bachelor’s degree in Information, Networking, and Telecommunications from Fort Hays State University, while also co-founding two web companies, including an election forecasting service and a technology consulting firm. He currently volunteers with Youth Entrepreneurs of Kansas, helping students develop business skills and entrepreneurial thinking. <a href="http://linkedin.com/in/tylerstalder">LinkedIn</a> | <a href="http://twitter.com/tylerstalder">@tylerstalder</a> | <a href="http://codeforamerica.org/author/tyler/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/michael_bernstein.jpg"><img class="alignleft size-full wp-image-23670" title="michael_bernstein" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/michael_bernstein.jpg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Michael Bernstein</strong></span></div>
+<div class="bio">Michael Bernstein is a web designer, developer, writer, and veteran living in Albuquerque, New Mexico. He has been the lead developer on software projects such as a system to consolidate voter registration records, and an emergency notification system. Drawing on his early participation in that community, he co-authored the Zope Bible, a "comprehensive Bible… on the leading Open Source Web Application Platform," published by Wiley Press in 2002. <a href="http://www.linkedin.com/in/michaelbernstein">LinkedIn</a> | <a href="http://codeforamerica.org/author/michaelb/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/aaron-ogle.jpeg"><img class="alignleft size-full wp-image-23673" title="aaron-ogle" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/aaron-ogle.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Aaron Ogle</strong></span></div>
+<div class="bio">Aaron believes that software can be used to build for a better world, and he loves designing applications to make cities more livable, beautiful, and just. While a fellow at Code for America, he partnered with the City of Philadelphia to build solutions to help foster civic engagement. He specializes in JavaScript and GIS development and has contributed to such applications as reroute.it, septa.mobi, changeby.us, walkshed.org, and phillystormwater.org. He is now a senior developer at OpenPlans. Besides a tech geek, Aaron is an outdoorsman, an urbanist, and a devoted husband and father. <a href="http://linkedin.com/in/aaronogle">LinkedIn</a> | <a href="http://twitter.com/atogle">@atogle</a> | <a href="hhttp://codeforamerica.org/author/aaron/">Fellows Blog</a></div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/alan-palazzolo.jpeg"><img class="alignleft size-full wp-image-23675" title="alan-palazzolo" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/alan-palazzolo.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Alan Palazzolo</strong></span></div>
+<div class="bio">Alan Palazzolo is a web architect, focusing on open source software, data visualization, and mapping. He works in the non-profit and NGO sectors, having worked for multiple organizations at home and abroad. He is an active contributor to the Drupal community and other open source projects, and he is a firm believer that open source is more than just a software methodology. Specifically, he is one of the lead developers of the Drupal OpenLayers module, which is a robust solution for web mapping in Drupal. He received his BS in Computer Information Systems from Appalachian State University. As a 2011 Code for America Fellow, he worked primarily on Change by Us, both as a front and back end developer, as well as managing the server administration; he also was a lead on open sourcing the code. <a href="http://linkedin.com/in/alanpalazzolo">LinkedIn</a> | <a href="http://twitter.com/zzolo">@zzolo</a> | <a href="http://codeforamerica.org/author/alan/">Fellows Blog</a></div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/anna-bloom.jpeg"><img class="alignleft size-full wp-image-23677" title="anna-bloom" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/anna-bloom.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Anna Bloom</strong></span></div>
+<div class="bio">Anna Bloom has worked as a reporter and researcher for news organizations ranging from local newspapers to national websites. After graduating from UC Berkeley’s Graduate School of Journalism in 2010, she worked for YouTube to launch an innovative news project documenting the Bay Area with user-generated video. Prior to that, she regularly contributed to The New York Times Bay Area Blog and co-founded a hyper-local news site for Oakland in 2008, OaklandNorth.net. <a href="http://linkedin.com/pub/anna-bloom/14/984/40">LinkedIn</a> | <a href="http://twitter.com/annabloom">@annabloom</a> | <a href="http://codeforamerica.org/author/anna/">Fellows Blog</a></div>
+</div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/chach-sikes.jpeg"><img class="alignleft size-full wp-image-23679" title="chacha-sikes" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/chach-sikes.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Chacha Sikes</strong></span></div>
+<div class="bio">Chacha Sikes is an experienced developer who builds organizational websites and participatory educational experiences. She was a core developer for the state of Missouri’s Department of Conservation website. She also founded the Drupal Open Garden Project, a collaborative learning project that brings technologists and community gardeners together to work on open source technology for local food systems. She holds a BA in History and Anthropology from Bard College. <a href="http://linkedin.com/in/chachasikes">LinkedIn</a> | <a href="http://twitter.com/chachasikes">@chachasikes</a> | <a href="http://codeforamerica.org/author/chacha/">Fellows Blog</a></div>
+<div class="2011fellow">
+<div class="headshot"><a href="http://codeforamerica.org/wp-content/uploads/2013/07/erik-michaels-ober1.jpeg"><img class="alignleft size-full wp-image-23702" title="erik-michaels-ober" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/erik-michaels-ober1.jpeg" width="120" height="120" /></a></div>
+<div class="name"><span style="color: #000000;"><strong>Erik Michaels-Ober</strong></span></div>
+<div class="bio">Erik Michaels-Ober is a software developer and entrepreneur in San Francisco, California. Since graduating from Carnegie Mellon University in 2005, he has been a founder and CTO of startups that have raised more than $4.5 million in venture capital. He contributes to various open-source software projects and just wrapped up the summer as a Ruby Summer of Code mentor. <a href="http://linkedin.com/in/sferik">LinkedIn</a> | <a href="http://twitter.com/sferik">@sferik</a> | <a href="http://codeforamerica.org/author/erik/">Fellows Blog</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

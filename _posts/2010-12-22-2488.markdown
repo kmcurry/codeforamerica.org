@@ -1,0 +1,15 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Team
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 2488
+wordpress_url: http://50.16.221.90/cfa_wordpress/?p=2488
+date: 2010-12-22 02:24:18.000000000 +00:00
+categories: []
+tags: []
+---
+Staff Jennifer Pahlka (Founder and Executive Director) has spent the past 15 years in the company of the technology elite. After graduating cum laude from Yale University, she went to work in the non-profit sector, but soon found herself in the business-to-business technology media world, running the Game Developers Conference. She spent eight years at CMP Media where she led the Game Group, overseeing GDC, Game Developer magazine, and Gamasutra.com; there she also launched the Independent Games Festival and served as Executive Director of the International Game Developers Association. Recently, she ran the Web 2.0 and Gov 2.0 events for TechWeb, in conjunction with O’Reilly Media, and co-chaired the successful Web 2.0 Expo. Leonard Lin (Co-founder and Chief Technical Officer) is a technologist specializing in the social web and a happy dilettante in hardware hacking, data visualization, participatory politics and other such geekery. He co-founded Upcoming.org (acquired by Yahoo! in 2005), and subsequently ran Yahoo!’s Hack Day program. Most recently, he worked on web technology and social software for the Obama campaign. Prolific and highly parallel, he’s written code for Lawrence Lessig, WordPress, Metafilter, Downhill Battle, and deployed mobile location and sensor network applications for the Web 2.0 Expo and…

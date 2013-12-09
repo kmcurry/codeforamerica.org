@@ -1,0 +1,24 @@
+---
+layout: page
+status: publish
+published: true
+title: Incubator 2013
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 28066
+wordpress_url: http://www.codeforamerica.org/?page_id=28066
+date: 2013-12-03 16:17:26.000000000 +00:00
+categories: []
+tags: []
+---
+The incubator program began in 2013 and works with former fellows to take their apps from prototype to product market fit.
+
+<hr style="color: #ccc;" />
+
+<a href="http://golocaldata.com/">Local Data</a> is building a digital toolkit for communities to collect and manage place-based data. Nonprofits, cities, and community groups use data to support environmental and political campaigns, mapping local assets, fundraising, and more. LocalData empowers communities to collect data with new tools. Smartphone and paper-based surveys, simple online management and instant visualization will let you use data without an expert.
+
+<a href="http://www.civicinsight.com/">Civic Insight</a> (formerly BlightStatus) is a publicly accessible website that makes it easy for citizens to understand what’s happening with vacant or underutilized spaces in their community. By connecting to internal government data systems and making information about these properties easy to navigate and understand, Civic Insight helps government staff, motivated citizens, and local organizations work together to improve the quality and value of their neighborhoods.
+
+<a href="http://www.textizen.com/&quot;">Textizen</a> is an easy system to enable cities and organizations to ask questions on posters in public places, then collect citizen feedback via text message. Anyone with a minute and an opinion can reply. The tool collects quantitative data for decision-making and empowers more representative voices.

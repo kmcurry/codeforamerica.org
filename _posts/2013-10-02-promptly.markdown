@@ -1,0 +1,22 @@
+---
+layout: cfa_app
+status: publish
+published: true
+title: Promptly
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+excerpt: Promptly text messages San Francisco Human Services Agency clients with important
+  information to keep them enrolled in services.
+wordpress_id: 26484
+wordpress_url: http://www.codeforamerica.org/?post_type=cfa_app&#038;p=26484
+date: 2013-10-02 16:48:34.000000000 +00:00
+categories: []
+tags: []
+---
+<a href="http://www.promptly.io/"><img class="alignleft" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/promptly_screenshot3.jpg" width="150" height="256" /></a>Many CalFresh (Food Stamps) recipients in San Francisco  discover that they’ve been disenrolled from benefits while trying to pay for their groceries. It’s a stressful and embarrassing moment. What’s worse, some of these same people have to reapply for services from scratch. Promptly stops this from happening by sending a text message to recipients before they’re disenrolled.
+
+Promptly was built for the San Francisco Human Service Agency by 2013 fellows in collaboration with the Human Service Agency and the Mayor’s Office of Civic Innovation. Although Promptly was first used to keep people enrolled in CalFresh, the app is also a flexible tool to help schedule, monitor, and send text message notifications for any reason.
+
+Interested in using Promptly? Check it out at <a href="http://www.promptly.io/">promptly.io</a>, <a href="https://github.com/codeforamerica/promptly">fork it on GitHub</a> or <a href="https://codeforamerica.wufoo.com/forms/app-inquiry-form/">contact us</a> for info.

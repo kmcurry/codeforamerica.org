@@ -1,0 +1,63 @@
+---
+layout: page
+status: publish
+published: true
+title: Bring CfA to your city
+author: Alissa Black
+author_login: alissa
+author_email: alissa@codeforamerica.org
+wordpress_id: 10469
+wordpress_url: http://codeforamerica.org/?page_id=10469
+date: 2012-01-05 15:16:21.000000000 +00:00
+categories: []
+tags: []
+---
+<strong>We are no longer accepting applications from municipal governments for this year.</strong> The next application period opens in January. For more info email <a href="mailto:luke@codeforamerica.org">luke@codeforamerica.org
+</a>
+<h1>Prep for Next Year's Application</h1>
+There are a number of things you can do to prep for next year's application period. You can continue reading about the <a href="http://codeforamerica.org/cities/fellowship">Fellowship Program</a> or check out the fellowship <a href="http://codeforamerica.org/cities/faqs-cities-applying-to-program/">FAQ</a>.
+<h1>Timing</h1>
+<div class="cityDates left-col">
+<table border="1" cellspacing="0" cellpadding="5">
+<tbody>
+<tr class="odd">
+<td>March 31</td>
+<td>City Application Deadline</td>
+</tr>
+<tr>
+<td>Jun</td>
+<td>City Finalists Notified</td>
+</tr>
+<tr class="odd">
+<td>Aug</td>
+<td>CfA and Cities Securing Matching Funding</td>
+</tr>
+<tr>
+<td>Oct</td>
+<td>Press Release: Cities Announced</td>
+</tr>
+<tr class="odd">
+<td>Jan</td>
+<td>Fellows Begin Training in SF</td>
+</tr>
+<tr class="odd">
+<td>Feb</td>
+<td>Fellows Begin Residency</td>
+</tr>
+<tr class="odd">
+<td>Mar-Aug</td>
+<td>Fellows Return to SF for app development. (City contact ongoing)</td>
+</tr>
+<tr class="odd">
+<td>Sept-Oct</td>
+<td>Apps Launch</td>
+</tr>
+<tr class="odd">
+<td>Nov</td>
+<td>App Sustainability Plan Finalized. App Hand Off.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h1>Outcomes</h1>
+Our most recent <a href="http://annual.codeforamerica.org">Annual Report</a> offers insight into project outcomes while our <a href="http://codeforamerica.org/apps/">app page</a> offers a taste of what our fellows have built in past years. You can also check out a list of <a href="http://www.codeforamerica.org/city-alumni">Alumni cities</a> for more info.

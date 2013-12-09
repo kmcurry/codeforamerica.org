@@ -1,0 +1,85 @@
+---
+layout: page
+status: publish
+published: true
+title: Code for America Projects Webinar Invite
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 1926
+wordpress_url: http://codeforamerica.org/
+date: 2010-11-03 19:21:29.000000000 +00:00
+categories: []
+tags: []
+---
+<table style="border-color:#CCCCCC; border-style:solid; border-width:1px" border="0" cellspacing="0" cellpadding="0" width="600" align="center">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" cellspacing="0" cellpadding="0" width="600">
+<tbody>
+<tr>
+<td><a href="http://codeforamerica.org"><img title="Please join us..." src="http://codeforamerica.org/wp-content/uploads/2010/11/cfa-cities-banner3.png" alt="" /></a></td>
+</tr>
+<tr>
+<td>
+<table style="font-family: Georgia, 'Times New Roman', Times, serif; font-size:13px; color: #333; line-height:20px;" border="0" cellspacing="0" cellpadding="12" width="520" align="center">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<p align="center"><span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:14px; color: #333; line-height:28px; font-style:italic; align: center;"><strong>Code for America 2011 Projects Overview Webinar</strong>
+Tuesday, November 16, 2010, 1pm PT</span>
+
+<hr style="color:#CCCCCC;" /><a href="http://bit.ly/cfa-web11"><img style="margin: 5px 0 5px 10px;" src="http://action.codeforamerica.org/page/-/rsvp-now.jpg" alt="" align="right" /></a>Code for America's fellowship program connects civic-minded technologists with local governments to build web apps that make cities work better. In our inaugural year, we have partnered with four cities ‚Äì Boston, Philadelphia, Seattle, and Washington DC ‚Äì to address local problems our fellows can solve with innovative and reusable technology. After months of brainstorming and development, we are excited to share with you our vision for what those applications will be and how they can help cities become more efficient, participatory and open.
+
+We invite you to <a href="http://bit.ly/cfa-web11">join us</a> for our Code for America 2011 Projects Overview on Tuesday, November 16, 2010, at 1pm PT. In a brief webinar, we will go over the program and each project, including some use cases and key features, and then we will answer questions from the audience. If you've been wondering what kind of work we will be doing or how to get involved, this is your opportunity to find out.
+
+<p align="center"><em><strong><a style="color:333; font-size: 18px;" href="http://bit.ly/cfa-web11">Register now.</a></strong></em>
+
+<em><strong> </strong></em>
+
+<hr style="color:#CCCCCC;" /><em><strong>Topics to be covered:</strong></em>
+<ul>
+	<li>What is the Code for America Program?
+</li>
+	<li>What projects will be developed in each of the cities?
+</li>
+<ul>
+	<li>Boston, Philadelphia, Seattle, and Washington DC
+</li>
+</ul>
+	<li>How can I get involved?
+</li>
+	<li>How can I bring Code for America to my city?</li>
+</ul>
+
+
+<hr style="color:#CCCCCC;" /><em><strong>Speakers:</strong></em>
+
+<ul>
+	<li><strong>Jennifer Pahlka</strong>, Founder and Executive Director
+</li>
+	<li><strong>Alissa Black</strong>, City Program Director
+</li>
+	<li><strong>Dan Melton</strong>, Technical Director
+</li>
+	<li><strong>Meghan Reilly</strong>, Operations Director
+</li>
+	<li><strong>Abhi Nemani</strong>, Strategy and Communications Director</li>
+</ul>
+
+<hr style="color:#CCCCCC;" /><em><strong>Questions?</strong></em>
+
+If you have any questions about the event, please do not hesitate to contact us at webinar@codeforamerica.org. Please note that the webinar is being generously hosted by O'Reilly Media, so participants will register using their services.
+
+<hr style="color:#CCCCCC;" />
+<p align="center"><a href="http://codeforamerica.org"><img src="http://codeforamerica.org/seattle-invite/logo.jpg" alt="" width="170" height="81" /></a>
+<a href="http://www.facebook.com/pages/Code-for-America/75218034959"><img style="margin-right: 10px;" src="http://codeforamerica.org/wp-content/themes/codeforamerica/images/facebook.png" alt="" vspace="10" /></a><a href="http://twitter.com/codeforamerica"><img src="http://codeforamerica.org/wp-content/themes/codeforamerica/images/twitter.png" alt="" vspace="10" /></a></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>

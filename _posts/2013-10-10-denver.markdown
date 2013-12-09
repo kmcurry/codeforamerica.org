@@ -1,0 +1,46 @@
+---
+layout: page
+status: publish
+published: true
+title: Denver
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 26905
+wordpress_url: http://www.codeforamerica.org/?page_id=26905
+date: 2013-10-10 12:39:49.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/denver_logo3.jpg" width="144" height="144" /></div>
+<blockquote><em>The City of Denver recently enlisted the 2014 Code for America fellows to work alongside city staff and shape government services.</em></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Denver</h3>
+<div class="text-and-picture">
+<div class="picture"><a href="http://www.meetup.com/cfabrigade/Denver-CO/past/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/denver_brigade.jpg" /></a></div>
+<h4>The Brigade</h4>
+Denver is the largest city and the capital of Colorado. Known for its 5,280 feet elevation and set against the backdrop of the Rocky Mountains, the Mile High City is known for its picturesque setting. The City is the home to tech companies like Pivotal Labs, SendGrid and McAffe, as well as early-stage incubators like Galvanize. Denver’s Code for America Brigade brings together 37 members of the community (many from these major tech companies) to engage in regular hackathons and discussions. For more info <a href="http://www.meetup.com/cfabrigade/Denver-CO/past/">attend one of their meetups</a>.
+<p class="link-block"><a href="http://www.meetup.com/cfabrigade/Denver-CO/past/">Denver Brigade</a>
+<a href="http://data.denvergov.org/">Open Data Portal</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/denver_fellowship.jpg" />
+
+</div>
+<h4>The 2014 Fellowship in Denver</h4>
+The 2014 fellowship in Denver is currently in progress. Look for more details as the team dives into community needs assessment.
+
+<b>Team Leads</b>: David Edinger, Chief Performance Officer; Frank Daidone, Chief Information Officer and Scotty Martin, Manager of Analytics
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">Coming Soon...</div>

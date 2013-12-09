@@ -1,0 +1,61 @@
+---
+layout: page
+status: publish
+published: true
+title: Become a Fellow
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 344
+wordpress_url: http://codeforamerica.org/?page_id=344
+date: 2010-06-08 12:28:25.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+Every year, 600+ developers, designers and researchers compete for a chance to build apps and tackle some of our countries toughest problems. Interested in the program?
+
+<a href="https://codeforamerica.wufoo.com/forms/z83uuct199rktr/">Contact Us</a>.
+
+<hr />
+
+<div class="name">
+
+<a name="fellowship"></a>
+<div class="name">
+
+<a name="program"></a>
+<div class="name"></div>
+<div class="picture-and-text">
+<div class="picture"><iframe src="//player.vimeo.com/video/71280045?title=0&amp;byline=0&amp;portrait=0" height="165" width="300" allowfullscreen="" frameborder="0"></iframe></div>
+<h3>The Fellowship Program</h3>
+The Fellowship is an 11-month program where cities collaborate with a team of talented researchers, designers and developers to build <a href="http://codeforamerica.org/apps">apps</a>, inspire citizen engagement and increase capacity for city staff. Past apps have addressed economic development, healthcare, criminal justice, citizen engagement, transportation and more. Check out the fellowship experience:
+
+<a href="http://www.codeforamerica.org/fellows/2013-fellows/">Current Fellows</a> and <a href="/fellows/alumni-fellows">Alumni Fellows</a>
+<a href="http://www.codeforamerica.org/fellows/2014-fellows/">Upcoming 2014 Fellows</a>
+
+</div>
+</div>
+<div class="name"></div>
+<div class="picture-and-text">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2010/06/class_photosml.jpg" width="300" height="165" /></div>
+<h3>Apps and Outcomes</h3>
+<a href="/apps">Apps</a> are just the beginning. Fellows have helped cities release <a href="http://brigade.codeforamerica.org/pages/opendata">1000+ open data sets</a>, encouraged the creation of <a href="http://brigade.codeforamerica.org/">local brigades</a> and found new ways to engage citizens and staff. Said 2011 fellow Jeremy Canfield, "It marked me indelibly. I don't think I'll ever love a job as much as this one."
+
+<a href="/apps">The Apps</a> and <a href="http://www.codeforamerica.org/press/">Recent Press</a>
+<a href="http://www.codeforamerica.org/fellows/training/">Training</a>
+<a href="http://annual.codeforamerica.org">Annual Report</a>
+
+</div>
+<a name="selection"></a>
+<div class="name"></div>
+<div class="picture-and-text">
+<div class="picture"><iframe src="//player.vimeo.com/video/44537196?title=0&amp;byline=0&amp;portrait=0" height="165" width="300" allowfullscreen="" frameborder="0"></iframe></div>
+<h3>Selection and Application</h3>
+Applications open in the Spring and close on July 31. We are building small project teams, so we're looking for people from a variety of disciplines. We need researchers to determine the city's needs, project managers to translate those needs into features, designers to fashion those features into a usable application, developers and programmers to build and code the applications and business analysts to integrate that application into a sustainable system.
+
+<a href="http://www.codeforamerica.org/fellows/selection/">Selection Questions</a> and <a href="http://www.codeforamerica.org/fellowship-program-timeline/">Program Timeline</a>
+<a href="https://codeforamerica.wufoo.com/forms/z83uuct199rktr/">Contact Us</a>
+
+</div>
+</div>

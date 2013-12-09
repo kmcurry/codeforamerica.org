@@ -1,0 +1,69 @@
+---
+layout: page
+status: publish
+published: true
+title: Chicago
+author: Aditya Pai
+author_login: aditya
+author_email: aditya@codeforamerica.org
+wordpress_id: 6203
+wordpress_url: http://codeforamerica.org/?page_id=6203
+date: 2011-06-08 15:43:08.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/ChicagoSeal.jpg" width="144" height="144" /></div>
+<blockquote>"The spirit of Code for America is really what is transformational about the work they do... it's about a model of working and innovating in a culture that's bound by a lot of rules.It's kind of a culture virus for innovation in government.
+
+- <strong><em>John Tolva, CTO of the City of Chicago</em></strong></blockquote>
+&nbsp;
+
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Chicago</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/chicagoimg.png" /></div>
+<h4>The Brigade</h4>
+Chicago was an early adopter of <a href="http://www.cityofchicago.org/city/en/depts/311.html">311</a> -- a system connecting residents with the local government for non-emergency needs. Originally their system was phone-based and closed to digital mediums, but CfA and a number of community groups including the local Brigade and <a href="http://opencityapps.org/">OpenCity</a> and <a href="http://www.smartchicagocollaborative.org/">Smart Chicago Collaborative</a> have done a ton to shore up the digital divide. For more on Chicago's history of hacking, check out local Brigade Captain <a href="http://codeforamerica.org/2012/10/11/brigade-spotlight-chicago/">Chris Whittaker's post</a> or for <a href="mailto:cwhitaker@codeforamerica.org">email him</a> to connect.
+<p class="link-block"><a href="http://brigade.codeforamerica.org/brigades/43">Code for Chicago</a>
+<a href="https://data.cityofchicago.org/">Open Data Portal</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<iframe style="padding: 5px;" src="http://player.vimeo.com/video/53371088" height="165" width="300" allowfullscreen="" frameborder="0" align="left"></iframe>
+Chicago's City Contact John Tolva discusses the Code for America experience.
+
+</div>
+<h4>The 2012 Fellowship in Chicago</h4>
+In traditional government public service inquiries, it's easy for citizens to feel like their requests are unheard. Most systems offer little insight into whether a request has been received, whether it's being worked on and the timing of that work. The City of Chicago already had the data standard to help build a better system, but CTO John Tolva and Executive Director of Smart Chicago Collaborative Dan X. O'Neill enlisted  <a href="http://www.codeforamerica.org/2012-fellows/">2012 fellows Angel Kittyachavalit, Ben Sheldon, Jesse Bounds, and Rob Brackett</a> for help.
+
+Upon arrival to their 2012 residency, the fellows joined local brigade member Veronica Ludwig to co-host <a href="http://www.codeforamerica.org/2012/07/06/5-tips-on-organzing-a-hackathon/">Chicago's IdeaHack</a> event. It was at this event that Chicago CTO John Tolva offered his presentation, "<a href="http://www.youtube.com/watch?v=T08_O8q3V6w">The City is a Platform</a>". With the momentum of the event and the words of their city contact, the fellows embarked on a journey that would lay a foundation far beyond the borders of their fellowship city.
+
+After doing more than 70 interviews with city partners, community leaders and educators, the fellows consulted the city's database of service requests for insight into improving the 311 process. Armed with all this data they produced a suite of services that included a <a href="http://www.311.fm">311.fm</a> visualization tool for service requests, the framework for a <a href="http://dailybrief.311labs.org/baltimore">map-based daily service tool</a> and a Fedex-style tracker aptly named <a href="http://servicetracker.cityofchicago.org/">Service Tracker</a>.
+
+While these tools might seem customized to Chicago's unique needs, they were in fact solving the same problems faced by a number of cities. In July 2012, the 311 work done during the Chicago fellowship was spun out into a national effort dubbed <a href="http://codeforamerica.org/2012/07/12/hello-311-labs/">Open311 Labs</a>. Today, several cities continue to adopt and improve upon these tools.
+<p class="link-block"><a href="http://www.311.fm">311.fm</a>
+<a href="http://dailybrief.311labs.org/baltimore">DailyBrief</a>
+<a href="http://servicetracker.cityofchicago.org/">Service Tracker</a>
+<a href="http://codeforamerica.org/2012/07/12/hello-311-labs/">Open311 Labs</a></p>
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.smartchicagocollaborative.org/smart-chicago-sponsors-the-city-of-chicagos-2012-code-for-america-project/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/smartchicago.png" /></a></div>
+<h4>Smart Chicago Sponsors the City of Chicago's 2012 Code for America Project - <a href="http://www.smartchicagocollaborative.org/smart-chicago-sponsors-the-city-of-chicagos-2012-code-for-america-project/">Smart Chicago</a></h4>
+Smart Chicago is proud to help fund the City of Chicago’s Code for America project, which will allow the City to conform with the Open311 standard and help citizens and government officials collaborate to solve problems and make the city better.
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.huffingtonpost.com/2012/01/31/code-for-america-chicago-open311_n_1231867.html"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/chicagohuffpo.png" /></a></div>
+<h4>Code For America In Chicago: Open311 Will Be City's Next Big Tech Move (VIDEO) - <a href="http://www.huffingtonpost.com/2012/01/31/code-for-america-chicago-open311_n_1231867.html">Huffington Post</a></h4>
+CHICAGO -- On Monday, a team of web developers and designers descended upon Chicago with an ambitious goal: to make city government more efficient, transparent and connected with the city it serves.
+
+</div>

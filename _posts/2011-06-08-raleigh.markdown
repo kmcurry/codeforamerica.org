@@ -1,0 +1,29 @@
+---
+layout: page
+status: publish
+published: true
+title: '2012 Finalist: Raleigh'
+author: Jack Madans
+author_login: jmadans
+author_email: jack@codeforamerica.org
+wordpress_id: 6283
+wordpress_url: http://codeforamerica.org/?page_id=6283
+date: 2011-06-08 15:46:47.000000000 +00:00
+categories: []
+tags: []
+---
+<a href="http://codeforamerica.org/wp-content/uploads/2011/06/raleigh.jpg"><img class="aligncenter size-full wp-image-6347" title="raleigh" src="http://codeforamerica.org/wp-content/uploads/2011/06/raleigh.jpg" alt="" width="630" height="200" /></a><a href="http://codeforamerica.org/wp-content/uploads/2011/06/Raleighseal.png"><img class="alignright size-medium wp-image-6350" title="Raleighseal" src="http://codeforamerica.org/wp-content/uploads/2011/06/Raleighseal-300x292.png" alt="" width="151" height="147" /></a>
+<blockquote><em>“Fostering innovative ways in which to bridge the gap between citizen access and city resources supports our efforts to make living in Raleigh a quality of life experience”</em>
+
+- Gail Roper, Chief Information and Community Relations Officer for the City of Raleigh
+
+&nbsp;</blockquote>
+Over  the past few years, Raleigh has been creatively leveraging technology  to improve access to government services. Citizens can submit local  issues, find information online, and engage with the city. However, the  communication methods currently tend to be one-way, with either the  government issuing statements or the citizens reporting concerns.  Moreover, the focus has been on government to citizen interaction and  not citizen-to-citizen. There are missed opportunities for effective  collaboration.
+
+Raleigh  is seeking to partner with Code for America to create a platform for a  new, collaborative model of citizen and government interaction, taking  advantage of the work being done across the country on 311 -- that is,  constituent request -- data. Governments are increasingly adopting a  common standard for 311 reporting, Open311, which allows apps built on  311 data anywhere to be used everywhere.  By deploying this Open311 standard in Raleigh, Code for America fellows  would open up access to the dozens of web and mobile applications  empowering citizens to report problems and track their status, as well  as enabling government officials to monitor requests and make better  decisions.
+
+In  particular, the Raleigh project would emphasize citizen participation  through online forums allowing for two-way communication between city  officials and citizens and civic engagement not just in the reporting of  issues, but also their resolution, organizing amongst themselves to  take care of their communities. Such a tool will allow the city to  better leverage and utilize their resources, and also the resources of  our communities and residents.
+<h3>The Challenge</h3>
+Raleigh  is a finalist for the 2012 Code for America Fellowship, and if  selected, it’ll be up to a team of CfA Fellows to take on this  challenge. In less than a year, they’ll need to work with the city and  our local partners to go from concept to delivery -- with everything  from research and marketing to development and testing. Up for the  challenge? We’re now accepting applications.
+
+<a href="../apply">Apply now to Code for America</a>.

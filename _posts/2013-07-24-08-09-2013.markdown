@@ -1,0 +1,70 @@
+---
+layout: page
+status: publish
+published: true
+title: Citizen Engagement with IFTF [Live]
+author: Lauren Dyson
+author_login: lauren
+author_email: lauren@codeforamerica.org
+wordpress_id: 24251
+wordpress_url: http://codeforamerica.org/?page_id=24251
+date: 2013-07-24 19:51:18.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="hangout" align="center">
+<img src="http://codeforamerica.org/wp-content/uploads/2013/03/cfa_peer_network_logo.jpg" width="300">
+<h2>You've arrived too early for this event!</h2>
+<h2>The livestream will begin August 9, 2013 at 11am Pacific.</h2>
+</div>
+
+
+<style>
+.four {
+width:24.5%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+text-align:center;
+}
+.four p{
+margin:5px 0px;
+line-height:1em;
+}
+.five {
+width:20%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+text-align:center;
+}
+.five p{
+margin:5px 0px;
+line-height:1em;
+}
+.gutter{
+width: 2%;
+	float:left;
+}
+.title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 24px;
+	color: #191919;
+	text-transform: uppercase;
+        padding:20px 0px
+}
+.line {
+        border-top: 3px solid #CCC;
+        width: 100%;
+        display: block;
+        clear: both;
+        margin-bottom: 5px;
+}
+.hangout{
+  padding:20px 0px;
+
+}
+</style>
+<head>
+<script src="https://www.google.com/moderator/static/moderator-embed-api.js" type="text/javascript"></script>
+</head>

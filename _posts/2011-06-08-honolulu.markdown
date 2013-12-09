@@ -1,0 +1,71 @@
+---
+layout: page
+status: publish
+published: true
+title: Honolulu
+author: Tim Yoon
+author_login: timy
+author_email: timy@codeforamerica.org
+wordpress_id: 6143
+wordpress_url: http://codeforamerica.org/?page_id=6143
+date: 2011-06-08 15:43:48.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/honolulu.png" width="144" height="144" /></div>
+<blockquote><em>“By partnering with Code for America, we can move forward with plans to provide an innovative web application that will help make our City more efficient, transparent and participatory.”</em>
+
+- <strong><em>Mayor Peter Carlisle</em></strong></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Honolulu</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/honolulu1.png" /></div>
+<h4>The Brigade</h4>
+Honolulu’s Brigade is led by community member Burt Lum and is dubbed Code for Hawaii. The group not only serves the City of Honolulu, but the entire state as 75 percent of the State of Hawaii’s residents call Honolulu home.
+<p class="link-block"><a href="https://data.honolulu.gov/">Open Data Portal</a>
+<a href="http://brigade.codeforamerica.org/brigades/68">Honolulu Brigade</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture">
+
+<iframe style="padding: 5px;" src="http://player.vimeo.com/video/53629461?title=0&amp;byline=0&amp;portrait=0" height="165" width="300" allowfullscreen="" frameborder="0" align="left"></iframe>
+Honolulu's City Contact Forrest Frizzel discusses the Code for America experience.
+
+</div>
+<h4>The 2012 Fellowship in Honolulu</h4>
+In 2012, the City and County of Honolulu and city contact Forest Frizzell enlisted fellows <a href="http://www.codeforamerica.org/2012-fellows/">Mick Thompson, Diana Tran and Sheba Najmi</a> to fix the city's public service site and present it in a more digestible format. The challenge was that with 75 percent of the state was being served by an outdated website. Rather than forcing this info into a traditional brochure-style site design, the fellows decided on a simpler solution.
+
+Using community interviews and <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a> to find what locals had been searching for on the original Honolulu.gov website. After engaging in remote user testing, they built a Google-like search site called <a href="http://answers.honolulu.com/" target="_blank">Honolulu Answers</a>. There was just one problem, they still didn't have quality content.
+
+It was then that the fellows planned a volunteer <a href="http://codeforamerica.org/2012/08/13/honolulu-answers/" target="_blank">Write-a-thon</a> where locals from the government and community spent the afternoon writing answers to popular questions related to the government.
+
+Today, Honolulu Answers continues to thrive while being redeployed as <a href="http://answers.oaklandnet.com/" target="_blank">Oakland Answers</a> and Western Michigan's <a href="http://www.wmgreenguide.com/" target="_blank">Green Guide</a>.
+
+Other apps created during the Honolulu fellowship year include a <a href="http://routeview.honolulu.gov/">traffic route app</a> and a <a href="http://thesocialcity.org/">social media guidebook</a>. Additionally the team found a way to reuse the work done by team Boston on <a href="http://adoptahydrant.org">Adopt-a-hydrant</a> by deploying it for the purpose of adopting tsunami sirens as <a href="http://sirens.honolulu.gov/">Adopt-a-Siren</a>.
+<p class="link-block"><a href="http://answers.honolulu.com/">Honolulu Answers</a>
+<a href="http://routeview.honolulu.gov/">Routeview</a>
+<a href="http://thesocialcity.org/">The Social City</a>
+<a href="http://sirens.honolulu.gov/">Adopt-a-Siren</a></p>
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.hawaiireporter.com/citys-honolulu-answers-site-wins-interaction-award/123"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/hawaiireporter.png" width="300" height="165" /></a></div>
+<h4>City's Honolulu Answers Site Wins Interaction Award - <a href="http://www.hawaiireporter.com/citys-honolulu-answers-site-wins-interaction-award/123">Hawaii Reporter</a></h4>
+Mayor Peter Carlisle today congratulated the City’s Department of Information Technology and its Code forAmerica partners for winning a 2013 Interaction Award in recognition of the Honolulu Answers website.
+
+&nbsp;
+
+</div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://mashable.com/2012/10/17/code-for-america-tech-government/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2011/06/mashable_honolulu.png" /></a></div>
+<h4>How Code for America is Reinventing Government - <a href="http://mashable.com/2012/10/17/code-for-america-tech-government/">Mashable</a></h4>
+By 2030, it's estimated that more than 5 billion people will live in urban settings. Therefore, it's imperative for cities to integrate technology into their infrastructure so that metropolian areas can sustain this rapid growth in population.
+
+</div>

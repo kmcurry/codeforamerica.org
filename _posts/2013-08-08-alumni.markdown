@@ -1,0 +1,80 @@
+---
+layout: page
+status: publish
+published: true
+title: Alumni
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 24818
+wordpress_url: http://www.codeforamerica.org/?page_id=24818
+date: 2013-08-08 13:21:37.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America works with cities and counties across the county through its fellowship program, community brigades and network of civic innovators.
+<h3>Interested in a Specific Program?</h3>
+Meet Your <a href="http://codeforamerica.org/cities/#brigade">Brigade</a> | Enlist the <a href="http://codeforamerica.org/cities/#fellowship">Fellows</a> | Embrace <a href="http://codeforamerica.org/cities/#opendata">Open Data</a>
+<div id="alumnicities">
+<table style="text-align: center;" cellpadding="10">
+<tbody style="text-align: center;" align="center">
+<tr style="text-align: center; margin-bottom: 10px;">
+<td><a href="http://codeforamerica.org/cities/austin"><img class="citylogo" title="Austin" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/Austinseal1-300x300.jpg" width="100" height="100" />
+Austin</a></td>
+<td><a href="http://www.codeforamerica.org/cities/boston"><img title="Boston" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/08/boston_logo.jpg" height="100" />
+Boston</a></td>
+<td><a href="http://codeforamerica.org/cities/chicago"><img class="size-full wp-image-6404" title="Chicago" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/ChicagoSeal.jpg" width="100px" />
+Chicago</a></td>
+<td><a href="http://codeforamerica.org/cities/detroit"><img class="size-full wp-image-6404" title="Detroit" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/detroitseal.jpg" height="100" />
+Detroit</a></td>
+<td><a href="http://codeforamerica.org/cities/honolulu"><img title="Honolulu" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/honolulu.png" height="100" />
+Honolulu</a></td>
+</tr>
+</tbody>
+<tbody style="text-align: center;" align="center">
+<tr style="text-align: center; margin-bottom: 10px;">
+<td><a href="http://codeforamerica.org/cities/kansascity"><img title="KCK" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/unified-district-seal1.png" height="100" />
+Kansas City,
+Kansas</a></td>
+<td><a href="http://codeforamerica.org/cities/kansascity"><img title="KCMO" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2012/10/kc.jpg" height="80" />
+Kansas City,
+Missouri</a></td>
+<td><a href="http://codeforamerica.org/cities/lasvegas"><img title="LasVegas" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/lasvegas1.jpg" height="100" />
+Las Vegas</a></td>
+<td><a href="http://codeforamerica.org/cities/louisville"><img title="Louisville" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/louisville_kentucky_seal1.png" height="100" />
+Louisville</a></td>
+<td><a href="http://codeforamerica.org/cities/macon"><img title="Macon" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/maconseal.jpg" height="100" />
+Macon</a></td>
+</tr>
+</tbody>
+<tbody style="text-align: center;" align="center">
+<tr style="text-align: center; margin-bottom: 10px;">
+<td><a href="http://codeforamerica.org/cities/neworleans"><img title="NOLA" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/NewOrleansSeal.jpg" height="100" />
+New Orleans</a></td>
+<td><a href="http://codeforamerica.org/cities/newyork"><img title="New York" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/new-york-city-seal1.png" height="100" />
+New York</a></td>
+<td><a href="http://codeforamerica.org/cities/oakland"><img title="Oakland" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/10/oakland-seal.jpeg" height="100" />
+Oakland</a></td>
+<td><a href="http://codeforamerica.org/cities/philadelphia"><img title="Philadelphia" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/philseal.jpg" height="100" />
+Philadelphia</a></td>
+<td><a href="http://codeforamerica.org/cities/sanfrancisco"><img title="San Francisco" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/san-francisco1-150x150.gif" height="100" />
+San Francisco</a></td>
+</tr>
+</tbody>
+<tbody style="text-align: center;" align="center">
+<tr style="text-align: center; margin-bottom: 10px;">
+<td><a href="http://codeforamerica.org/cities/sanmateo"><img title="San Mateo" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/SanMateoCounty_Seal.gif" height="100" />
+San Mateo County</a></td>
+<td><a href="http://codeforamerica.org/cities/santacruz"><img title="Santa Cruz" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/06/Seal_of_the_City_of_Santa_Cruz.jpg" height="100" />
+Santa Cruz</a></td>
+<td><a href="http://www.codeforamerica.org/cities/seattle/"><img title="Seattle" alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/08/seattle_logo.jpg" height="100" />
+Seattle</a></td>
+<td><a href="http://www.codeforamerica.org/cities/southbend/"><img title="SouthBend" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/south-bend-seal-150x150.png" height="100" />
+South Bend</a></td>
+<td><a href="http://codeforamerica.org/cities/summitcounty"><img title="SummitCounty" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/09/summit-county-seal1-150x150.jpg" height="100" />
+Summit County</a></td>
+</tr>
+</tbody>
+</table>
+</div>

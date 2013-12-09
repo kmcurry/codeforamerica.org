@@ -1,0 +1,27 @@
+---
+layout: page
+status: publish
+published: true
+title: '2012 City Partner: Austin'
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 9347
+wordpress_url: http://codeforamerica.org/?page_id=9347
+date: 2011-10-12 16:12:01.000000000 +00:00
+categories: []
+tags: []
+---
+<p id="internal-source-marker_0.628739543234031"><a href="http://codeforamerica.org/wp-content/uploads/2011/06/austinv3.jpeg"><img class="aligncenter size-full wp-image-6290" title="austinv3" src="http://codeforamerica.org/wp-content/uploads/2011/06/austinv3.jpeg" alt="" width="630" height="180" /></a></p>
+
+<blockquote>“I think it would be good if Austin could work with Code for America fellows and create new applications for our community... I know Austin’s tech community will be very interested in the Fellowship program – it’s a great opportunity.”
+
+- Mayor Lee Leffingwell</blockquote>
+The goals of transparency and openness are becoming standard expectations in nearly every level of government. Often government agencies struggle to achieve these goals and meet the demands of the communities they serve due to a lack of technological resources that make common information and services available.  The City of Austin was challenged with keeping up with their motivated and engaged community. City leaders are committed to closing the gap between typical city government issues and the best impulses of the community it represents.
+
+<a href="http://codeforamerica.org/wp-content/uploads/2011/06/Austinseal1.jpg"><img class="alignright size-medium wp-image-6293" title="Austinseal" src="http://codeforamerica.org/wp-content/uploads/2011/06/Austinseal1-300x300.jpg" alt="" width="168" height="168" /></a>Austin partnered with Code for America to produce lightweight creative technology that empowers the city to become a platform for community engagement. The project extended access to government to allow city agencies to easily and effectively deliver information and services. Instead of a citizen government relationship limited to request and response, such a system allows for more dynamic collection of feedback, issue management, email notification, discussion and event management.
+
+Austin was selected as a partner for the 2012 Code for America Fellowship, so starting in January 2012, a team of CfA Fellows came on board to take on this challenge. To do so, they relied on community involvement and support.
+
+<h3>End of Year Report</h3>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/22305294" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

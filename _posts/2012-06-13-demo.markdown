@@ -1,0 +1,150 @@
+---
+layout: page
+status: publish
+published: true
+title: Demo Across America, Episode 1
+author: Michelle Lee
+author_login: mlee
+author_email: mlee@codeforamerica.org
+wordpress_id: 13960
+wordpress_url: http://codeforamerica.org/?page_id=13960
+date: 2012-06-13 23:11:39.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="col"><span class="title">Get these projects in your city</span><p>Our 26 fellows are partnering with 8 cities this year, but the impact of their apps can scale far beyond that. We're excited to present Demo Across America, Episode 1 — short tastes of six of this year's projects. Some are ready to deploy in other cities now, others will be ready in the next few weeks and months. See something that might work for your city? Please get in touch.</p>
+</div>
+<div class="col"><span class="title">2014 Fellowship: Is your city next?</span><p>Code for America's <a href="http://codeforamerica.org/cities/">fellowship program</a> partners passionate technologists, designers, and project managers, with innovative and forward-looking city leaders to demonstrate the possibilities when technology is used to make cities work better. If you're interested in finding out more about how your city can work with Code for America in 2014, you can <a href="http://codeforamerica.org/cities/apply-now/">get started now</a>.</p>
+</div>
+<div class="line">  </div>
+<div class="col"><iframe src="http://player.vimeo.com/video/43632898?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="450" height="253"></iframe>
+<span class="title">Honolulu Answers <span class="byline"> Find government info, better</span></span>
+<div class="meta"><span class="prefix">Birthplace:</span> Honolulu, HI
+<span class="prefix">Github:</span> <a href="https://github.com/codeforamerica/honolulu_answers">codeforamerica/honolulu_answers</a>
+<span class="prefix">Email:</span> <a href="mailto:honolulu@codeforamerica.org">honolulu@codeforamerica.org</a>
+<span class="prefix">Want it for your city? You'll provide:</span>
+<ul>
+	<li>a content administrator</li>
+	<li>a Rails maintainer</li>
+</ul>
+</div>
+</div>
+<div class="col"><iframe src="http://player.vimeo.com/video/44008088?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="450" height="253"></iframe>
+<span class="title">OpenCounter <span class="byline"> Make sense of small business permits</span></span>
+<div class="meta"><span class="prefix">Birthplace:</span> Santa Cruz, CA
+<span class="prefix">Website:</span> <a href="http://www.opencounter.org/santacruz/">opencounter.org</a>
+<span class="prefix">Github:</span> <a href="https://github.com/codeforamerica/opencounter">codeforamerica/opencounter</a>
+<span class="prefix">Email:</span> <a href="mailto:santacruz@codeforamerica.org">santacruz@codeforamerica.org</a>
+<span class="prefix">Want it for your city? You'll provide:</span>
+<ul>
+	<li>permitting expert from your city's business or zoning department</li>
+</ul>
+</div>
+</div>
+&nbsp;
+<div class="col"><iframe src="http://player.vimeo.com/video/43448446?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="450" height="253"></iframe>
+<span class="title">Textizen <span class="byline"> Citizen feedback for the digital age</span></span>
+<div class="meta"><span class="prefix">Birthplace:</span> Philadelphia, PA
+<span class="prefix">Website:</span> <a href="http://www.textizen.com/">textizen.com</a>
+<span class="prefix">Github:</span> <a href="https://github.com/codeforamerica/textizen">codeforamerica/textizen</a>
+<span class="prefix">Email:</span> <a href="mailto:textizen@codeforamerica.org">textizen@codeforamerica.org</a>
+<span class="prefix">Want it for your city? You'll provide:</span>
+<ul>
+	<li>questions you want to ask &amp; distribution plans</li>
+</ul>
+</div>
+</div>
+<div class="col"><iframe src="http://player.vimeo.com/video/44008140?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="450" height="253"></iframe>
+<span class="title">Prepared.ly <span class="byline"> Be prepared for wildfires</span></span>
+<div class="meta"><span class="prefix">Birthplace:</span> Austin, TX
+<span class="prefix">Website:</span> <a href="http://www.prepared.ly/">prepared.ly</a>
+<span class="prefix">Github:</span> <a href="https://github.com/codeforamerica/prepared.ly">codeforamerica/prepared.ly</a>
+<span class="prefix">Email:</span> <a href="mailto:austin@codeforamerica.org">austin@codeforamerica.org</a>
+<span class="prefix">Want it for your city? You'll provide:</span>
+<ul>
+	<li>fire safety liaison</li>
+</ul>
+</div>
+</div>
+&nbsp;
+<div class="col"><iframe src="http://player.vimeo.com/video/44016871?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="450" height="253"></iframe>
+<span class="title">LocalData <span class="byline"> collect place-based info on mobile &amp; paper</span></span>
+<div class="meta"><span class="prefix">Birthplace:</span> Detroit, MI
+<span class="prefix">Website:</span> <a href="http://golocaldata.com/">golocaldata.com</a>
+<span class="prefix">Github:</span> <a href="https://github.com/codeforamerica/nsb-mobile">codeforamerica/nsb-mobile</a>
+<span class="prefix">Email:</span> <a href="mailto:detroit@codeforamerica.org">detroit@codeforamerica.org</a>
+<span class="prefix">Want it for your city? You'll provide:</span>
+<ul>
+	<li>community partners to use survey tools</li>
+	<li>parcel-level shapefile for your city</li>
+</ul>
+</div>
+</div>
+<div class="col"><a href="http://bit.ly/maconmta"><img class="alignnone size-full wp-image-14210" title="transitmap" src="http://codeforamerica.org/wp-content/uploads/2012/06/maconmap1.png" alt="" width="450" height="253" /></a>
+<span class="title">Transit Map <span class="byline"> Beautiful, online transit map</span></span>
+<div class="meta"><span class="prefix">Birthplace:</span> Macon, GA
+<span class="prefix">Website:</span> <a href="http://bit.ly/maconmta">bit.ly/maconmta</a>
+<span class="prefix">Github:</span> <a href="https://github.com/codeforamerica/Transit-Map-in-TileMill">codeforamerica/Transit-Map-in-TileMill</a>
+<span class="prefix">Email:</span> <a href="mailto:macon@codeforamerica.org">macon@codeforamerica.org</a>
+<span class="prefix">Want it for your city? You'll provide:</span>
+<ul>
+	<li>transit line shapefiles</li>
+</ul>
+</div>
+</div>
+&nbsp;
+<style>
+.col {
+width:49%;
+float:left;
+margin-top:6px;
+margin-bottom:28px;
+}
+.gutter{
+width: 2%;
+	float:left;
+}
+iframe{
+	border:1px solid #eeeeee;
+	margin-bottom: 4px;
+}
+.title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	color: #191919;
+	text-transform: uppercase;
+}
+.byline {
+	color: #999999;
+}
+.meta {
+        font-size:13px;
+        line-height:1.3em;
+}
+.prefix{
+        font-weight:bold;
+}
+#maincontent ul {
+        padding:0 0 0 25px;
+        list-style-type: disc;
+}
+#maincontent li {
+        line-height:1.3em;
+        padding:0;
+        background:none;
+}
+#maincontent .ttl {
+        font-family: Oswald;
+        font-weight: normal;
+        font-size: 40px;
+        border-bottom: 3px solid #CCC;
+        background: none;
+}
+.line {
+        border-top: 3px solid #CCC;
+        width: 100%;
+        display: block;
+        clear: both;
+        margin-bottom: 5px;
+}
+</style>

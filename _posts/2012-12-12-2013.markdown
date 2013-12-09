@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: '2013'
+author: Ashley Meyers
+author_login: ashley
+author_email: ashley@codeforamerica.org
+wordpress_id: 19195
+wordpress_url: http://codeforamerica.org/?p=19195
+date: 2012-12-12 15:34:53.000000000 +00:00
+categories:
+- News
+tags: []
+---
+<table style="margin-top: 10px; margin-bottom: 30px; border-bottom: 3px solid #ccc; border-top: 0px solid #ccc;" width="100%" border="0" cellspacing="0" cellpadding="20">
+<tbody>
+<tr style="text-align: left; background-color: #ffffff;">
+<td><strong>Check out this note from Jen recapping the highlights of 2012 and looking forward to 2013 - and please consider <a href="http://www.codeforamerica.org/donate" target="_blank">making a contribution</a> to support CfA's work before the end of the year!</strong></td>
+</tr>
+</tbody>
+</table>
+<span style="font-size: small;">Friends,</span>
+
+<span style="font-size: small;"><strong>It's been an amazing year at Code for America. </strong>We set out to show that when committed public servants and talented, passionate technologists and designers come together, government can work for us the way it should in the 21st century. We did show that, and much more.</span>
+
+<span style="font-size: small;">Now we're asking for your help so that we can keep transforming government, and see the Code for America effect in many more cities in 2013. Will you help by </span><a href="https://secure.codeforamerica.org/page/contribute/annual-campaign" target="_blank">contributing to the annual giving campaign</a><span style="font-size: small;">?</span>
+<p style="text-align: center;"><span style="font-size: small;"><a href="https://secure.codeforamerica.org/page/contribute/annual-campaign" target="_blank"><img class="aligncenter" style="width: 150px; height: 50px; border: 0; line-height: 100%; outline: none; text-decoration: none; display: inline;" src="http://gallery.mailchimp.com/d9acf2a4c694efbd76a48936f/images/donate_simple.png" alt="" width="150" height="50" align="none" /></a></span></p>
+<span style="font-size: small;">I want to give you a sense of what we’ve accomplished this year:</span>
+<ul style="margin-top: 0pt; margin-bottom: 0pt;">
+	<li><strong style="font-size: small;">Fellows have built more than 30 new apps that citizens are using </strong><span style="font-size: small;">to do things like fight neighborhood blight, talk with City Hall by text message, and choose where new parks and transit will be built.</span></li>
+	<li><strong style="font-size: small;">More importantly, we’re raising the bar for government technology</strong><span style="font-family: arial, helvetica, sans-serif; font-size: small;"> When the CIO of New Orleans tells an audience of his peers that the CfA Fellows built in six weeks what his vendors told him would take several years and millions of dollars, we know he’ll be pushing for greater value for New Orleans taxpayers from now on.</span></li>
+	<li><strong style="font-size: small;">We’re revitalizing the vendor ecosystem to make government more effective and efficient. </strong><span style="font-size: small;">Captricity, one of the seven startups in the CfA Accelerator, is already saving several of our city partners tens of thousands of dollars in manual data entry.</span></li>
+	<li><strong style="font-size: small;">We’re inspiring structural shifts that keep the momentum going: </strong><span style="font-size: small;">open data, training city staff on modern technologies, hiring Chief Innovation Officers, and committing to open-source solutions.</span></li>
+	<li><strong style="font-size: small;">We’re building a network that spreads these changes.</strong><span style="font-size: small;"> When you support CfA, it’s a leveraged dollar - by investing in a network of change agents, this movement spreads virally.</span></li>
+</ul>
+<span style="font-size: small;"><strong>With your help we will do even more next year.</strong> In 2013, we are working with dozens of new local governments across the country with the fellowship and Brigade, incubating three more startups that have launched out of this year’s fellowship class, and creating a network to connect and support innovators inside government.</span>
+
+<span style="font-size: small;">I’m happy to share that we kicked off this annual campaign with a generous $50,000 matching grant from an anonymous donor, <strong>so every dollar that you give this month will have double the leverage.</strong> Whether it’s <a href="https://secure.codeforamerica.org/page/contribute/annual-campaign" target="_blank">$20 or $2,000 - whatever you can give</a> – every contribution is meaningful.</span>
+<p style="text-align: center;"><span style="font-size: small;"><a href="https://secure.codeforamerica.org/page/contribute/annual-campaign" target="_blank"><img style="width: 150px; height: 50px; border: 0; line-height: 100%; outline: none; text-decoration: none; display: inline;" src="http://gallery.mailchimp.com/d9acf2a4c694efbd76a48936f/images/donate_simple.png" alt="" width="150" height="50" align="none" /></a></span></p>
+<span style="font-size: small;">By donating to CfA, you're supporting the amazing fellows who give a year of their lives to this cause, and you're investing in the future of our country by making your government more open, efficient, and responsive. It's a powerful time: together, we can truly reinvent the relationship between citizens and government for the 21st century.</span>
+
+<span style="font-size: small;">Gratefully,</span>
+
+<span style="font-size: small;">Jen Pahlka and the CfA Team</span>
+
+&nbsp;
+
+Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica">@codeforamerica</a>.

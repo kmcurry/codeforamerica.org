@@ -1,0 +1,42 @@
+---
+layout: page
+status: publish
+published: true
+title: Current and Alumni Startups
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 28016
+wordpress_url: http://www.codeforamerica.org/?page_id=28016
+date: 2013-12-03 13:57:30.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America's startups have helped the organization iterate on its programs, built amazing services for citizens and inspired innovation in local governments across the country. We're proud to present our Alumni Classes.
+
+<hr />
+
+<div class="name"><a name="fellowship"></a>
+<div class="name"><a name="2013"></a>
+<div class="name"></div>
+<div class="picture-and-text">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/12/2013startups.jpg" /></a></div>
+<h3>The 2013 Startups</h3>
+From social media archiving, to blight tracking, to real-time data for police officers -- the 2013 startups found new and interesting ways to serve government and build better citizen services.
+
+<a href="http://www.codeforamerica.org/startups/accelerator-2013">2013 Accelerator</a> and <a href="http://www.codeforamerica.org/startups/incubator-2013">2013 Incubator</a>
+
+</div>
+</div>
+<div class="2012"></div>
+<div class="picture-and-text">
+<div class="picture"><a href="http://civicaccelerator.us/"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/12/2012startups.jpg" width="300" height="165" /></a></div>
+<h3>The 2012 Startups</h3>
+In its inaugural year, the Code for America startup program taught us the value of innovation in government and the need for startup to disrupt this legacy market. From digitizing paper forms, to creating interoperable school data, to producing compelling citizen engagement tools -- the 2011 startup class produces real and sustainable solutions while also providing value for tax dollar.
+
+<a href="http://www.codeforamerica.org/startups/accelerator-2012">2012 Accelerator</a>
+<div class="2011"></div>
+<div class="picture-and-text"></div>
+</div>
+</div>

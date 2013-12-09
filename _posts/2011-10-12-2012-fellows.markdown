@@ -1,0 +1,176 @@
+---
+layout: page
+status: publish
+published: true
+title: 2012 Code for America Fellows
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 9210
+wordpress_url: http://codeforamerica.org/?page_id=9210
+date: 2011-10-12 14:14:36.000000000 +00:00
+categories: []
+tags: []
+---
+Over 550 people applied to be a Code for America fellow for the 2012 program. Candidates came in from across the country and around the world, and they came with backgrounds ranging from back-end development experience to urban design. From that tremendous applicant pool, we worked with our selection committee of leading technologists, city officials, and thought leaders to identify the top for next year. Below are short biographies for those selected, who are 2012 Code for America Fellows.
+<p style="text-align: right;"><a href="http://codeforamerica.org/fellows/apply">Apply for Next Year's Fellowship &gt;&gt;</a></p>
+
+
+<hr style="color: #ccc;" />
+
+<div class="2012fellow">
+<div class="headshot"><a href="/aurelio-tinio/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Aurelio.jpg" /></a></div>
+<div class="name"><strong>Aurelio Tinio</strong><a href="/aurelio-tinio/" name="Aurelio"></a></div>
+<div class="bio"><a href="http://codeforamerica.org/austin/">Austin Team</a>
+Aurelio Tinio is a web developer with more than ten years of experience. Aurelio previously worked as the Lead Software Engineer at The Bay Citizen. He received his Computer Science degree at UCLA while supporting himself through work at the NASA Jet Propulsion Laboratory. After continuing his interest in the space industry at the X PRIZE Foundation, he decided to move to San Francisco and explore opportunities that the vibrant Bay Area community had to offer. Prior to joining The Bay Citizen, Aurelio worked at Tippit as a Senior Software Engineer, designing, implementing and managing the Focus.com property. <a href="/aurelio-tinio/">Video</a> | <a href="http://linkedin.com/in/tinio">LinkedIn</a> | <a href="http://twitter.com/tinio">@tinio</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Angel.jpg" /></div>
+<div class="name"><a name="Angel Kittiyachavalit"></a><strong>Angel Kittiyachavalit</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/chicago/">Chicago Team</a>
+Angel Kittiyachavalit is a visual and user experience designer. After graduating from UC Berkeley, she worked for ReadyMade magazine. Most recently, she was a user experience designer at a startup, where she launched their user testing program and was in charge of designing everything from web to print. She also loves learning different languages and speaks English, Thai, Spanish, and some Mandarin. <a href="http://linkedin.com/in/angelkittiyachavalit">LinkedIn</a> | <a href="http://twitter.com/angelk">@angelk</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Amir.jpg" /></div>
+<div class="name"><a name="Amir Reavis-Bey"></a><strong>Amir Reavis-Bey</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/nola/">New Orleans Team</a>
+Amir Reavis-Bey is a software engineer focused on developing networks promoting social good for efforts such as Haiti relief and social enterprise. Amir earned a BS in Computer Science from North Carolina State University and has spent more than seven years working as an investment banking technologist in New York City, developing an expertise in systems integration. In his spare time, Amir enjoys training and playing capoeira. <a href="http://linkedin.com/in/amirbey">LinkedIn</a> | <a href="http://twitter.com/Maromba">@Maromba</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Eddie.jpg" /></div>
+<div class="name"><a name="Eddie A Tejeda"></a><strong>Eddie A Tejeda</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/nola/">New Orleans Team</a>Eddie A. Tejeda, software engineer, is the creator of Digress.it, a paragraph-level commenting system, and was Lead Developer of Regulation Room, a Cornell University project aimed at increasing public participation in federal rulemaking. Previously, he worked at the Institute for the Future of the Book, a small publishing think-tank, and LittleSis.org, a free database detailing the connections between powerful people and organizations. He earned his BA from Hampshire College with a focus on the digital divide and wrote his senior thesis on power efficient microprocessors. <a href="http://linkedin.com/in/eddietejeda">LinkedIn</a> | <a href="http://twitter.com/eddietejeda">@eddietejeda</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/nick-doiron/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Nicholas.jpg" /></a></div>
+<div class="name"><a href="/nick-doiron/" name="Nicholas Doiron"></a><strong>Nicholas Doiron</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/macon/">Macon Team</a>
+Nick Doiron is a developer focusing on web maps, interactive media, and environmental sensors. Nick has developed and taught open source programs with One Laptop per Child in Uganda, Uruguay, and Haiti. Working with open data, he has produced innovative maps for the Humanitarian OpenStreetMap Team in Port-au-Prince, the Cherokee Nation, the City of Pittsburgh, a water research group at Carnegie Mellon University, and a Mongolian offroad travel agency. He was recently a GIS intern at Esri's Applications Prototype Lab and a student in the Knight-Mozilla News Learning Lab. <a href="/nick-doiron/">Video</a> | <a href="http://linkedin.com/in/nickdoiron">LinkedIn</a> | <a href="http://twitter.com/mapmeld">@mapmeld</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/emily-wright/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Emily.jpg" /></a></div>
+<div class="name"><a href="/emily-wright/" name="Emily Wright"></a><strong>Emily Wright</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/austin/">Austin Team</a>
+Emily Wright is a designer and graphic artist focused on usability and visual storytelling. Emily has worked for several Bay Area groups including Banned by the Bay, Red Ink Studios, and Intersection for the Arts, where she researched and co-designed Golden Rules as part of the Prison Project. In 2006, she completed her BFA in Illustration at the California College of Arts. <a href="/emily-wright/">Video</a> | <a href="http://linkedin.com/in/emilyville">LinkedIn</a> | <a href="http:/twitter.com/emilyville">@emilyville</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Tamara.jpg" /></div>
+<div class="name"><a name="Tamara Shopsin"></a><strong>Tamara Shopsin</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-city-finalists/santa-cruz/">Santa Cruz Team</a>
+Tamara Shopsin is a graphic designer specializing in problem solving and conceptual illustration. Tamara's work has been featured in <em>The New York Times</em>, <em>Good</em>, <em>Time</em>, <em>Wired</em>, and <em>Newsweek</em>. She has designed book jackets for authors including Jorge Luis Borges, Charles Lindbergh and Vladimir Nabokov. Two volumes of her drawings have been published under the titles <em>C’est le Pied!</em> and <em>C’est le Pied II</em>. In her spare time she creates and sells novelties and cracks eggs at her family’s restaurant. <a href="http://twitter.com/crazy1eye">@crazy1eye</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/alex-pandel/"><img class="size-full wp-image-9264 alignleft" title="alex" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Alex_Pandel.jpg" width="150" height="150" /></a></div>
+<div class="name"><a name="Alex Pandel"></a><strong>Alex Pandel</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/nola/">New Orleans Team</a>
+Alex Pandel is a graphic designer, writer, problem-solver, communicator, urban explorer, and internet-lover. Alex thrives on collaboration and lives to craft creative and beautiful solutions to problems big and small. Alex graduated from the University of Southern California with a degree in Studio Art, and since then, she has been busy designing pretty things on paper and the web, including projects for New York Magazine and Avon. Most recently, she led a print campaign for The Future Project, an organization that seeks to reignite a passion for learning within American public schools. <a href="/alex-pandel/">Video</a> | <a href="http://linkedin.com/in/alexpandel">LinkedIn</a> | <a href="http://twitter.com/alexpandel">@alexpandel</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/alicia-rouault/"><img class="size-full wp-image-11684 alignleft" title="AliciaRouault" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/AliciaRouault-e1331489676566.jpg" width="150" height="150" /></a></div>
+<div class="name"><strong><a href="/alicia-rouault/" name="Alicia Rouault"></a>Alicia Rouault</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/detroit/">Detroit Team</a>
+Alicia is a proud 2012 Code for America Fellow working with the City of Detroit. Before coming to CfA, Alicia worked in economic development and urban planning, most recently as a Research Fellow with the San Francisco Office of Economic and Workforce Development and SFMade on the development of a national urban manufacturing toolkit for cities. Back on the East coast, Alicia worked as Assistant Editor of Urban Omnibus, where she wrote and curated content showcasing the work of urban planners, citizens, designers and technologists on city systems. Alicia holds a dual B.A. in Political Science and Ethics, Society and Law from the University of Toronto. <a href="/alicia-rouault/">Video</a> | <a href="http://linkedin.com/pub/alicia-rouault/21/738/a17">LinkedIn</a> | <a href="http://twitter.com/arouault">@arouault</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Matt.jpg" /></div>
+<div class="name"><a name="Matt Hampel"></a><strong>Matt Hampel</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/detroit/">Detroit Team</a>
+Matt Hampel is a web developer and student of civic information. Matt has worked with nonprofits, newspapers, universities, and other organizations to build tools for the public good. Most recently, he worked as a technology project manager at the University of Michigan. He has developed multiple open data web apps, including <a href="http://DetroitLedger.com">DetroitLedger.com</a> for Detroit-related civic information and <a href="http://A2Docs.org">A2Docs.org</a> for collecting public documents from Ann Arbor, MI. <a href="http://linkedin.com/in/matthampel">LinkedIn</a> | <a href="http://twitter.com/MattH">@MattH</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Mick.jpg" /></div>
+<div class="name"><a name="Mick Thompson"></a><strong>Mick Thompson</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/honolulu/">Honolulu Team</a>
+Mick Thompson is a developer who has been using open source tools for ten years. Mick has worked almost exclusively for startups where building applications on new and innovative technologies is the norm. As location has become more available on mobile devices in the past few years, he has focused his work on integrating location into existing projects. He is the author of a digital book for O’Reilly Media on the use of public location data. He is passionate about open source software, web applications, API design, and open data. <a href="http://linkedin.com/in/davidmichaelthompson">LinkedIn</a> | <a href="http://twitter.com/dthompson">@dthompson</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/joe-merante/ "><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Joe.jpg" /></a></div>
+<div class="name"><a href="/joe-merante/" name="Joe Merante"></a><strong>Joe Merante</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/austin/">Austin Team</a>
+Joe Merante is an Internet lawyer, web developer, and musician. Joe co-founded a business networking company and worked at a music publishing agency prior to attending law school. During his research fellowship at the Institute for Information Law &amp; Policy, he contributed to Peer to Patent and open government research and completed legal internships at Creative Commons and eMusic. Since passing the New York bar exam, he has built websites for healthcare practitioners and nonprofits. Joe holds a BA from Berklee College of Music and a JD from New York Law School. <a href="/joe-merante/">Video</a> | <a href="http://linkedin.com/in/joemerante">LinkedIn</a> | <a href="http://twitter.com/joemerante">@joemerante</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/ben-sheldon/" name="Ben Sheldon"></a><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Ben.jpg" /></div>
+<div class="name"><a href="/ben-sheldon/" name="Ben Sheldon"></a><strong>Ben Sheldon</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/chicago/">Chicago Team</a>
+Ben Sheldon is a web developer and community organizer. Ben directed the Digital Arts Service Corps, a national AmeriCorps*VISTA program, improving the capacity of community organizations to employ media arts and technology. A longtime resident of Boston, he developed online tools to facilitate education, economic development, and bicycle safety. Ben is a graduate of UC Santa Barbara and the Institute for Nonprofit Management and Leadership at Boston University. <a href="/ben-sheldon/">More</a> | <a href="http://linkedin.com/in/bensheldon">LinkedIn</a> | <a href="http://twitter.com/bensheldon">@bensheldon</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/jesse-bounds/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Jesse.jpg" /></a></div>
+<div class="name"><a href="/jesse-bounds/" name="Jesse Bounds"></a><strong>Jesse Bounds</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/chicago/">Chicago Team</a>
+Jesse Bounds is a software engineer who has most recently lived in Cambridge, Mass. Jesse is fascinated by the challenges and opportunities that cities present to society. After receiving his MS in Telecommunications Engineering from the University of Colorado, he worked on building scalable systems in the financial and mobile industries. He is also a web developer working for several nonprofit organizations around the world. Most recently, he was the lead developer on Fluent, the first highly optimized news aggregator and reader for the iPhone. <a href="/jesse-bounds/">Video</a> | <a href="http://linkedin.com/in/jessebounds">LinkedIn</a> | <a href="http://twitter.com/jessebounds">@jessebounds</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Diana.jpg" /></div>
+<div class="name"><a name="Diana Tran"></a><strong>Diana Tran</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/honolulu/">Honolulu Team</a>
+Diana Tran is a graphic designer, veteran, and a recent graduate of the University of Texas, where she earned her BFA in visual communication. After hight school Diana enlisted in the United States Marine Corps, and spent six years in the reserves. In 2006 she deployed in support of Operation Iraqi Freedom. Diana is currently pursuing a MFA in graphic design at Savannah College of Art and Design. <a href="http://linkedin.com/in/dianavtran">LinkedIn</a> | <a href="http://twitter.com/dianavtran">@dianavtran</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/elizabeth-hunt/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Liz.jpg" /></a></div>
+<div class="name"><a href="/elizabeth-hunt/" name="Elizabeth Hunt"></a><strong>Elizabeth Hunt</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/philadelphia/">Philadelphia Team</a>
+Elizabeth Hunt is a user experience strategist and designer. After graduating from the University of New Mexico with a Ph.D. in English Literature, she began working in the technology industry. Over the past ten years, she’s worked as a web designer, instructional designer, user experience designer, and creative director. During that time, she’s designed applications and online experiences, as well as a travel program, for clients such as American Express Travel, Target, and Microsoft. <a href="/elizabeth-hunt/">Video</a> | <a href="http://linkedin.com/in/ezoehunt">LinkedIn</a> | <a href="http://www...linkedin.com/in/ezoehunt">@ezoehunt</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/rob-brackett/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Rob.jpg" /></a></div>
+<div class="name"><a href="/rob-brackett/" name="Rob Brackett"></a><strong>Rob Brackett</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/chicago/">Chicago Team</a>
+Rob Brackett is a user interface designer and frontend developer with an expertise in javascript. He has worked on Desktop, web, and iOS software design at Apple, helped design developer sites, tools, APIs for Appcelerator, and worked with various design firms to prototype new software ideas. <a href="/rob-brackett/">Video</a> | <a href="http://linkedin.com/pub/rob-brackett/1/b91/139">LinkedIn</a> | <a href="http://twitter.com/Mr0grog">@Mr0grog</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/serena-wales/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Serena.jpg" /></a></div>
+<div class="name"><a href="/serena-wales/" name="Serena Wales"></a><strong>Serena Wales</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/nola/">New Orleans Team</a>
+Serena Wales is a web developer from New York. Serena has worked at Purpose building campaigning tools and web, applications for nonprofits and corporations. Previously, she worked with museums and nonprofits to bring technology into new areas, developing interactive projects for the High Museum of Art and the Davis Museum. Serena graduated from Wellesley College in 2009, where she majored in Media Arts &amp; Sciences and History. <a href="/serena-wales/">Video</a> | <a href="http://linkedin.com/in/serenawales">LinkedIn</a> | <a href="http://twitter.com/gangleton">@gangleton</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/jessica-lord/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Jessica.jpg" /></a></div>
+<div class="name"><a href="/jessica-lord/" name="Jessica Lord"></a><strong>Jessica Lord</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/macon/">Macon Team</a>
+Jessica Lord is a designer/front-end developer who focuses on the visualization of built form and on engaging citizens. Jessica received her BS in architecture from Georgia Tech, and went on to work as an intern architect before joining the Urban Design Technology Group at the Boston Redevelopment Authority. At the City of Boston she worked with the Planning and Economic Development departments as well as the Mayor's Office, on projects ranging from sustainable urban design and planning to print and web design. Jessica is a LEED-accredited professional in Building Design and Construction and Neighborhood Development. <a href="/jessica-lord/">Video</a> | <a href="http://twitter.com/jllord">@jlord</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Ruthie.jpg" /></div>
+<div class="name"><strong><a href="/ruthie-bendor/" name="Ruthie BenDor"></a>Ruthie BenDor</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-city-finalists/santa-cruz/">Santa Cruz Team</a>
+Ruthie BenDor is a web developer and designer with a special interest in content management system integration. Ruthie has worked at the nonprofit organizations, GLAD and MassEquality, has consulted for a variety of companies and agencies, and contributes to several open source projects. Ruthie just wrapped up her summer 2011 CyclingCoder.com project, where she rode her bicycle from Boston to San Francisco and, along the way, interviewed people who work where government and technology converge. <a href="/ruthie-bendor/">Video</a> | <a href="http://linkedin.com/in/ruthiebendor">LinkedIn</a> | <a href="http://twitter.com/unruthless">@unruthless</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/jim-craner/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Jim.jpg" /></a></div>
+<div class="name"><a href="/jim-craner/" name="Jim Craner"></a><strong>Jim Craner</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-city-finalists/santa-cruz/">Santa Cruz Team</a>
+Jim Craner is a website and application developer and consultant with a decade of experience helping nonprofit organizations use technology to fulfill their missions. Jim is an Illinois native (and lifelong Cubs fan) who co-founded the Chicago Technology Cooperative and continued to manage the organization for five years. Jim has spoken at nonprofit technology conferences on topics including community-based electronics recycling, digital access and equality, and the use of open source geographic information systems and online mapping in community contexts. <a href="/jim-craner/">Video</a> | <a href="http://linkedin.com/pub/jim-craner/5/a9/533">LinkedIn</a> | <a href="http://twitter.com/jimcraner">@jimcraner</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/sheba-najmi/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Sheba.jpg" /></a></div>
+<div class="name"><strong><a href="/sheba-najmi/" name="Sheba Najmi"></a>Sheba Najmi</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/honolulu/">Honolulu Team</a>
+Sheba Najmi is a user experience designer and product strategist. At Yahoo! she was a lead designer for Yahoo! Mail, the company’s flagship service with over 260 million users. Most recently, Sheba co-founded a startup focused on the oft-overlooked baby boomer and senior citizen audiences. She has also worked as a television news anchor in Pakistan, interviewing and reporting from both the streets and the studio. Sheba earned MS and BS degrees in Symbolic Systems from Stanford University, where she investigated the language, thought, and interaction of humans and computers. As a <a href="http://codeforamerica.org/sheba-najmi/">CfA fellow</a>, she's the Project Lead on <a href="http://answers.honolulu.gov">Honolulu Answers</a>. She wants to change the world, together. <a href="/sheba-najmi/">Video</a> | <a href="http://linkedin.com/in/snajmi">LinkedIn</a> | <a href="http://twitter.com/snajmi">@snajmi</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Michelle.jpg" /></div>
+<div class="name"><a name="Michelle Lee"></a><strong>Michelle Lee</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/philadelphia/">Philadelphia Team</a>
+Michelle Lee is a product designer from Philadelphia and New York City. Michelle has worked at Google since 2005 leading projects to aid in understanding and improving user experiences in Maps, Flu Trends, and Docs. Michelle started Forms under Google's 20% time policy, and it is now the fasting growing form of Google Doc online. Previously, she designed online trust and safety tools for eBay, cars for baby boomers, and studied human-computer interaction at Stanford University's Symbolic Systems Program. <a href="http://linkedin.com/in/michellelee3">LinkedIn</a> | <a href="http://twitter.com/mishmosh">@mishmosh</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/prashant-singh/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Prashant.jpg" /></a></div>
+<div class="name"><strong><a href="/prashant-singh/" name="Prashant Singh"></a>Prashant Singh</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/detroit/">Detroit Team</a>
+Prashant Singh is a software developer, working most recently for Microsoft on television products for the Xbox, phones, and set-top boxes. Prashant likes to make, tinker, and dirty his hands with software, bicycles, furniture, and whatever else will fit in his apartment. Before working on consumer technology, Prashant was a signal processing researcher. He received his BS and MS degrees in electrical engineering from Rice University. <a href="/prashant-singh/">Video</a> | <a href="http://linkedin.com/pub/prashant-singh/1a/38b/646">LinkedIn</a> | <a href="http://twitter.com/prashtx">@prashtx</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/zach-williams/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2011/10/Zach.jpg" /></a></div>
+<div class="name"><strong><a href="/zach-williams" name="Zach Williams"></a>Zach Williams</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/macon/">Macon Team</a>
+Zach Williams is a web developer from Fort Worth, Texas. Zach has worked with Code for America from June 2010, starting off as a Google Summer of Code intern. Over the past few months he's worked on a number of open source developer tools, the EPA data visualization site MadeWithData.com, and the City of Boston's open data catalog, Build:Boston. He recently graduated with a BS in Psychology from Tarleton State University. <a href="http://twitter.com/zachwill">@zachwill</a></div>
+</div>
+<div class="2012fellow">
+<div class="headshot"><a href="/alex-yule/"><img class="alignleft" alt="" src="http://codeforamerica.org/wp-content/uploads/2012/01/Alex3.jpg" /></a></div>
+<div class="name"><a href="/alex-yule/" name="Alex Yule"></a><strong>Alex Yule</strong></div>
+<div class="bio"><a href="http://codeforamerica.org/2012-partners/philadelphia/">Philadelphia Team</a>
+Alex Yule comes to CfA from the Mapping Center team at Esri, an industry leader in Geographic Information System (GIS) software, where he built interactive web mapping experiences with ArcGIS and HTML/CSS/JS/Flex. Alex graduated cum laude from Middlebury College in Vermont with a degree in Geography in 2009, earning accolades for his work creating innovative visualizations for the Geographies of the Holocaust Project. An avid writer and photographer, his technical skills include application planning and design, web development, data analysis, and visualization. <a href="/alex-yule/">Video</a> | <a href="http://linkedin.com/in/alexyule">LinkedIn</a> | <a href="http://twitter.com/yuletide">@yuletide</a></div>
+</div>
+<p style="text-align: right;"><a href="http://codeforamerica.org/fellows/apply">Apply for Next Year's Fellowship &gt;&gt;</a></p>

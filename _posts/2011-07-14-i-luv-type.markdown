@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: I <3 Typography
+author: Pete Fecteau
+author_login: peter
+author_email: peter@codeforamerica.org
+author_url: http://www.buttonpresser.com
+wordpress_id: 7398
+wordpress_url: http://codeforamerica.org/?p=7398
+date: 2011-07-14 15:30:24.000000000 +00:00
+categories:
+- CfA Labs
+tags: []
+---
+<img class="alignleft size-full wp-image-7400" title="typography" src="http://codeforamerica.org/wp-content/uploads/2011/07/typography.jpg" alt="" width="300" height="300" />One of the secret weapons that many graphic designers have is an eye for typography or "fonts" for the layman. Typography drives almost all of the good design you see. It drives EVERY great brand, think Coca Cola. That's some strong type. Typography and web development however are not necessarily married even though they should be.
+
+For the majority of the time the web has been active there have been painfully few typographical resources that work well on the web. For too long, the amount of web-ready typefaces have been limited to Arial, Courier New, Times New Roman, Georgia, Trebuchet and Verdana. If you wanted another font you had to make it an image and embed that into your code. This was not a great practice.
+
+Over the last couple years technologies cropped up that used image or vector text replacement (like <a title="sIFR" href="http://wiki.novemberborn.net/sifr/" target="_blank">sIRF</a> or <a title="Cufon" href="http://cufon.shoqolate.com/generate/" target="_blank">Cufon</a>) which gives the user a non-web font (limited fonts to choose but still more than six) and doesn't compromise the SEO. The downside being load time and the dreaded "<a title="FOBUC" href="http://www.google.com/url?sa=t&amp;source=web&amp;cd=1&amp;ved=0CCUQFjAA&amp;url=http%3A%2F%2Fwww.acronymgeek.com%2FFOBUC&amp;rct=j&amp;q=FOBUC&amp;ei=N9YcTtjrCI3egQftoLj2CQ&amp;usg=AFQjCNGhyOazasGin2pDr2m8BHhw3jBJWg&amp;cad=rja" target="_blank">fobuc</a>". This method is still very popular today.
+
+As HTML5 and CSS3 have been rolled out, browsers like Chrome and Firefox are looking at fonts differently. Google has rolled out a <a title="Google Web Fonts API" href="http://code.google.com/apis/webfonts/" target="_blank">Web Fonts API</a> and <a title="Google Web Fonts Directory" href="http://www.google.com/webfonts" target="_blank">Directory</a> with 190 families and growing, rapidly. This is a much better approach to web fonts than previously offered. Simply select your desired font or fonts and then use the provided link tag just like how you would a CSS file. You can use the font like any other web-safe font and it's fair game for any and all CSS you can cook up. It's also okey-dokey with commercial use. <a title="Google Web Fonts Directory" href="http://www.google.com/webfonts" target="_blank">Check it out</a>.
+
+The <a title="@font-face" href="http://www.css3.info/preview/web-fonts-with-font-face/" target="_blank">@font-face CSS method</a> is another viable option for custom fonts. By calling a font from your server you can implement it via CSS3. The down side is that you are constrained to open-source fonts allows for web use in their licensing. Also, it's hard to find a font in all the formats needed to be cross-browser compatible and still carries the aforementioned licensing. You'll need to do your research before implementing this method. The upside is that the load time is super fast and there's no javascript or flash needed to run it, only CSS and the "trusty" browser. Sixrevisions has a good post about it <a title="SixRevisions" href="http://sixrevisions.com/css/font-face-guide/" target="_blank">here</a>.
+
+That's all great but once you know the tech, you still need some theory. Here are some tips I follow when designing with type.
+<ul>
+	<li>Use no more than two type families for a brand.</li>
+	<li>You will need a Headline/Title font, they tend to be more decorative.</li>
+	<li>You will need a copy font, needs to be readable.</li>
+	<li>The two fonts need to look good together (duh).</li>
+	<li>Set your line-height to 150% for any copy that is not a title.</li>
+	<li>Set your titles to 120% line-height.</li>
+	<li>Both fonts should look good as white-on-black and black-on-white.</li>
+	<li>Look at the negative space.</li>
+	<li>LESS IS MORE, use bold sparingly.</li>
+</ul>
+Good fonts cost money and aren't worth stealing. You can find a lot of free fonts (like <a href="http://www.dafont.com">here</a> and <a href="http://www.1001freefonts.com/">here</a>) but many aren't worth a damn. <a href="http://www.google.com/webfonts">Google's web fonts</a> are surprisingly tasteful and well built. You can also check out <a title="FontSquirrel" href="http://www.fontsquirrel.com/" target="_blank">FontSquirrel</a> and <a title="Fontex" href="http://www.fontex.org/" target="_blank">Fontex</a>.
+
+Make sure you read the licensing on every font you use, free or paid, before you release something public. Lawsuits are not fun, and ripping off a good typographer is bad JuJu.

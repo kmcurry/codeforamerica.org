@@ -1,0 +1,61 @@
+---
+layout: page
+status: publish
+published: true
+title: Code for America Video
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 23784
+wordpress_url: http://codeforamerica.org/?page_id=23784
+date: 2013-07-11 19:46:35.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America hosts regular educational events for its volunteers, city partners and staff. If you'd like to propose a workshop, email <a href="mailto:jack@codeforamerica.org">jack[at]codeforamerica.org</a> with your idea and we'll poll our members for their interest.
+<h1>Upcoming Events</h1>
+BEN BALTER: Former White House Presidential Innovation Fellow Ben Balter will talk about his work with Github and his focus on state, local and federal government awareness and integration.
+<div>
+<h1>Past Events</h1>
+&nbsp;
+<h2><a href="https://vimeo.com/71053793"><img class="alignleft" alt="" src="https://secure-b.vimeocdn.com/ts/444/603/444603307_295.jpg" width="250" height="166" /></a>Diversity in Tech</h2>
+Hosted in association with Code 2040 and featuring speakers from Black Girls Code, Kapor Center, Change.org and Code for America -- this event will highlight some of the problems and solutions in creating an inclusive tech industry.
+
+<a href="https://vimeo.com/71053793">Watch</a>
+
+<a href="http://codeforamerica.org/07-11-2013-jared/"><img class="size-full wp-image-23840 alignleft" title="jaredspool" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/jaredspool1.jpg" width="250" height="141" /></a>
+<h2>Jared Spool</h2>
+User Interface Engineering Founder Jared Spool offers his insights on user interface design and human factors in computing.
+<a href="http://codeforamerica.org/07-11-2013-jared/">Watch</a>
+
+</div>
+&nbsp;
+<div>
+
+<a href="http://codeforamerica.org/06-27-2013"><img class="size-full wp-image-23841  alignleft" title="housefacts" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/housefacts1.jpg" width="250" height="141" /></a>
+<h2>House Facts</h2>
+CfA and partners discuss a new civic data standard for building inspections.
+<a href="http://codeforamerica.org/06-27-2013">Watch</a>
+
+</div>
+&nbsp;
+
+&nbsp;
+<div>
+
+<a href="http://codeforamerica.org/05-24-2013/"><img class="size-full wp-image-23842 alignleft" title="rufuspollock" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/rufuspollock1.jpg" width="250" height="141" /></a>
+<h2>Rufus Pollock</h2>
+Cofounder of the Open Knowledge Foundation discusses CKAN 2.0 and the Federal open data catalog's open source platform.
+<a href="http://codeforamerica.org/05-24-2013">Watch</a>
+
+</div>
+&nbsp;
+<div>
+
+<a href="http://codeforamerica.org/05-13-201/"><img class="size-full wp-image-23843 alignleft" title="susancrawford" alt="" src="http://codeforamerica.org/wp-content/uploads/2013/07/susancrawford1.jpg" width="250" height="141" /></a>
+<h2>Susan Crawford</h2>
+Author of Captive Audience and Codirector of the Berkman Center at Harvard Susan Crawford discusses broadband access, policy and the role of municipal government.
+<a href="http://codeforamerica.org/05-13-201">Watch</a>
+
+</div>

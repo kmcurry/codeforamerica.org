@@ -1,0 +1,14 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 2489
+wordpress_url: http://50.16.221.90/cfa_wordpress/?p=2489
+date: 2010-12-23 04:29:34.000000000 +00:00
+categories: []
+tags: []
+---
+Code for America helps city governments become more transparent, connected and efficient by connecting the talents of cutting-edge web developers with people who deliver city services and want to embrace the transformative power of the web to achieve more impact with less money. Inspired in part by Teach for America, CFA works with city officials and leading web development talent to identify and then develop web solutions that can then be shared and rolled out more broadly to cities across America. For the 2011 program,four innovative cities have been selected, and out of a pool of 362 applicants, 20 fellows were chosen our inaugural class. Code for America is a non-partisan, non-political organization. Our team is made up of web geeks, city experts, and technology industry leaders. Early funders include the Knight Foundation,Omiydar Network, Rockefeller Foundation, Sunlight Foundation, the Case Foundation, and the Louis & Anne Abrons Foundation. What We Do Who We Are

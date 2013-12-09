@@ -1,0 +1,26 @@
+---
+layout: cfa_app
+status: publish
+published: true
+title: Textizen
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+excerpt: Textizen is a civic dialogue platform that allows residents to connect with
+  a powerful mix of offline outreach and online engagement.
+wordpress_id: 22376
+wordpress_url: http://codeforamerica.org/?post_type=cfa_app&#038;p=22376
+date: 2013-05-27 15:01:00.000000000 +00:00
+categories: []
+tags: []
+---
+"What if you didn’t have to trek to a town hall or city council meeting to be heard? What if City Hall could open its ears to nearly the entire city?
+
+Textizen asks questions on posters in public places, then collects citizen feedback via text message. Anyone with a minute and an opinion can reply.
+
+Textizen’s cloud-based platform allows city officials and community groups to create surveys and track feedback as it comes in. Textizen not only allows a city to garner more representative feedback from a larger cross-section of their communities, but allows for data-driven decisions and more empowered residents."
+
+<iframe src="http://player.vimeo.com/video/43448446?byline=0&amp;portrait=0" frameborder="0" width="500" height="281"></iframe>
+
+Get the <a href="https://github.com/codeforamerica/textizen">code</a>.

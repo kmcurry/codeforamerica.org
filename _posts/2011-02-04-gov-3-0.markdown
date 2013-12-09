@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Gov 3.0?
+author: Lauren Dyson
+author_login: lauren
+author_email: lauren@codeforamerica.org
+wordpress_id: 3556
+wordpress_url: http://codeforamerica.org/?p=3556
+date: 2011-02-04 00:46:18.000000000 +00:00
+categories:
+- News
+- Commentary
+tags: []
+---
+Jen Pahlka, CfA’s founder and executive director, was featured in a recent <a href="http://www.govtech.com/e-government/Web-30-Could-Lead-to-E-Government-That-Anticipates-Citizens-Needs.html">article</a> about Web 3.0 and local governments on <em><a href="http://govtech.com">Government Technology</a></em>. The article asks what the advent of Web 3.0 -- understood as the growing prevalence of “machine to machine communication” online -- could mean for state and city governments.
+
+Jen was part of the team at O’Reilly Media that originally coined the term “Web 2.0” back in 2004. She explained that they never intended to start a succession of web generations identified by perpetually climbing numbers: “They weren’t intending to put us in a position where every couple of years we’re trying to decide what version we’re at and who gets to determine what it means,” she said.
+
+Nevertheless, it appears the catchphrase “Web 3.0” is here to stay for the time being. Envisioning what Gov 3.0 could be, Jen and others interviewed in the piece describe innovative uses of open government data in machine-readable formats to facilitate smoother interactions between citizens and government -- for example, she imagines, “a smartphone user drives over a pothole, the device senses it and an app automatically reports that pothole to the appropriate public works agency.”
+
+<a href="http://codeforamerica.org/issues/openness">Transparency</a> and <a href="http://codeforamerica.org/dc">shareability</a>, two of Code for America’s core values, are essential to enabling this kind of innovation in government. “Different cities use different formats for posting data, which creates an obstacle when comparing one city’s data to another,” Jen said, underscoring the importance of making data available in standardized formats to facilitate cross-platform exchange.
+
+Some expressed skepticism that Web 3.0 will become a reality anytime soon, considering some governments’ resistance to joining the open data movement. But Jen takes an optimistic viewpoint that increased pressure from top officials is going to make open data the norm, citing the <a href="http://data.gov">Data.gov</a> project and the growing political popularity of transparency. “If you look at the strong signals that are coming from Washington, D.C.,” she said, “right now it is becoming very clear that this is the direction the top leaders in government technology want to see the rest of the country go. I think that pressure will increase.”
+
+Read the full article on GovTech.com: <a href="http://www.govtech.com/e-government/Web-30-Could-Lead-to-E-Government-That-Anticipates-Citizens-Needs.html?page=1">Web 3.0 Could Lead to E-Government That Anticipates Citizens’ Needs</a> (February 1, 2011)

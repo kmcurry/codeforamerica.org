@@ -1,0 +1,30 @@
+---
+layout: page
+status: publish
+published: true
+title: Become a Fellow
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 801
+wordpress_url: http://codeforamerica.org/?page_id=801
+date: 2010-07-04 08:47:12.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+---
+<div style="float: left; width: 365px; margin-right: 30px; padding: 20px 15px 15px 20px; margin-top: 15px; background: #f2f2f2;">
+
+<iframe src="http://player.vimeo.com/video/70016328?title=0&amp;byline=0&amp;portrait=0" height="202" width="360" frameborder="0"></iframe>
+<h3><strong>Still Have Questions? </strong></h3>
+If you have questions about the fellowship and application, <a href="https://codeforamerica.wufoo.com/forms/z83uuct199rktr/">Contact Us</a>.
+
+</div>
+<div style="float: left; width: 500px; margin-top: 60px;">
+<h1><strong>The application for fellows is now closed.</strong></h1>
+Application intake will reopen in the Spring. If you're interested in finding out more about the program visit our <a href="http://codeforamerica.org/fellows">Fellowship Program page</a> or <a href="https://codeforamerica.wufoo.com/forms/z83uuct199rktr/">Contact Us</a>.
+<h3></h3>
+<h3>Want to Code for America before the next fellowship?</h3>
+Other ways you can Code for America include contributing to <a href="https://github.com/codeforamerica">an existing app</a>, connecting with your <a href="http://brigade.codeforamerica.org/brigades">local Code for America Brigade</a> and attending an <a href="http://brigade.codeforamerica.org/pages/events">upcoming event or hackathon</a>.
+
+</div>

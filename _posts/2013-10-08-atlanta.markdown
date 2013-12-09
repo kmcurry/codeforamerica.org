@@ -1,0 +1,54 @@
+---
+layout: page
+status: publish
+published: true
+title: Atlanta
+author: Dana Oshiro
+author_login: Dana Oshiro
+author_email: dana@codeforamerica.org
+author_url: http://codeforamerica.org
+wordpress_id: 26697
+wordpress_url: http://www.codeforamerica.org/?page_id=26697
+date: 2013-10-08 00:16:44.000000000 +00:00
+categories: []
+tags: []
+---
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/atlanta_logo.jpg" width="144" height="144" /></div>
+<blockquote><em>"Code for America offers our city an unparalleled opportunity to encourage collective problem-solving through civic collaboration, while creating a more open and transparent government."</em>
+
+<strong>--Mayor Kasim Reed, City of Atlanta
+</strong></blockquote>
+</div>
+<div class="clearfix"></div>
+<h3>Join us in Atlanta</h3>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/atlanta_brigade.jpg" /></div>
+<h4>The Community</h4>
+In early 2013, the City of Atlanta partnered with Start Up Atlanta to co-host the city’s first <a href="http://govathon.com/">Govathon</a> or city-wide civic tech hackathon. The effort not only sparked innovation and greater citizen collaboration, but it also released some of the city’s most useful <a href="https://atlanta.demo.socrata.com/">datasets</a>. In addition, the City of Atlanta also established <a href="http://www.atlantaga.gov/index.aspx?page=133">Focus on Results (FOR)</a> Atlanta. A performance focused strategy group that uses data to improve and augment strategic and operational goals across city departments.
+
+As the city moves into its 2014 fellowship year, we hope to support Atlanta’s already strong tech community and increase available data sets and community participation.
+<p class="link-block"><a href="http://brigade.codeforamerica.org/">Organize a Brigade</a>
+<a href="https://atlanta.demo.socrata.com/">Govathon Open Datasets</a></p>
+
+</div>
+<div class="text-and-picture">
+<div class="picture"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/atlanta_fellowship.jpg" /></div>
+<h4>The 2014 Fellowship in Atlanta</h4>
+The 2014 fellowship in Atlanta is currently in progress. Look for more details as the team dives into community needs assessment. 
+
+<b>City Team Leads</b>: Kristin Wilson, Director of Innovation Delivery; Anne Torres, Deputy Director of Communications; Daphne Rackley, Deputy Chief Information Officer 
+
+<b>Community Partners</b>: Atlanta Committee for Progress
+
+</div>
+
+<hr />
+
+<h3>Articles and Videos</h3>
+<div class="picture-and-text">
+<div class="picture"><a href="http://www.atlantadailyworld.com/201310159576/Business/atlanta-named-2014-code-for-america-city"><img alt="" src="http://www.codeforamerica.org/wp-content/uploads/2013/10/atlanta_press.jpg" /></a></div>
+<h4>Atlanta Named 2014 Code for America City - <a href="http://www.atlantadailyworld.com/201310159576/Business/atlanta-named-2014-code-for-america-city">Atlanta Daily World</a></h4>
+The City of Atlanta announced its selection as a 2014 Code for America City today. The Code for America Fellowship is an 11-month program where developers, designers, researchers, and product managers work alongside with governments to solve community issues with new technology. Atlanta was selected as one of ten cities to participate. The official announcement came earlier today at the Code for America Summit.
+
+</div>

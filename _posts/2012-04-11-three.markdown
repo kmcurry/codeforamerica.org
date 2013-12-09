@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Three
+author: Zach Williams
+author_login: zach
+author_email: zach@codeforamerica.org
+wordpress_id: 12260
+wordpress_url: http://codeforamerica.org/?p=12260
+date: 2012-04-11 15:37:48.000000000 +00:00
+categories:
+- CfA Labs
+tags: []
+---
+Last summer, I created the Python Open311 API wrapper for Code for America (I was a Google Summer of Code intern then, I'm a fellow now), and now want to introduce its successor, Three: <a href="http://github.com/codeforamerica/three">http://github.com/codeforamerica/three</a>
+
+If you've ever worked with the <a href="http://wiki.open311.org/GeoReport_v2">Open311 API</a> before, you notice there's a lot of subtle differences between <a href="http://wiki.open311.org/GeoReport_v2/Servers">GeoReport server implementations</a>. For instance, some of the code that <a href="https://twitter.com/#!/EvansML">Michael Evans</a> and <a href="https://twitter.com/#!/ctbarna">Chris Barna</a> wrote for the <a href="https://github.com/codeforamerica/open311dashboard">Open311 Dashboard</a> last summer was San Francisco specific — meaning it takes some time to repurpose that project to other cities (even though they all follow the Open311 GeoReport V2 Specification).
+
+Three hopes to change all that. In fact, it was built from the ground up to be as <strong>user-friendly</strong> and <strong>easy-to-use</strong> as possible — which was not the case for my first attempt at creating a <a href="https://github.com/codeforamerica/open311_python">Python API wrapper</a>. A ton of great ideas were contributed by Michael and this year's Chicago team, and both <a href="https://twitter.com/#!/seekayel">Kam</a>, at SeeClickFix, and <a href="https://twitter.com/#!/davemitchell">Dave</a>, at Connected Bits, were awesome at quickly answering any emails I sent their way over the past month and a half.
+
+Three, in its current state, allows you to interact with 29 different Open311 cities using some pretty simple code. For instance, if we were going to look at the services and requests for Macon, Ga.:
+
+<code>import three
+three.city('macon')
+three.services()
+three.requests()
+</code>
+
+If interested, you should check out the code (and documentation) <a href="https://github.com/codeforamerica/three">on GitHub</a>, and feel free to submit any bug reports or pull requests. A special shout-out should also go, again, to Michael Evans — as he's put up with daily emails and questions from me about Three's functionality and future direction for the project.

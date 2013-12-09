@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Civic Startups Wishlist #1: <br />A Better Freecycle'
+author: Jennifer Pahlka
+author_login: jen
+author_email: jen@pahlka.com
+author_url: http://codeforamerica.org
+wordpress_id: 8532
+wordpress_url: http://codeforamerica.org/?p=8532
+date: 2011-09-14 17:20:41.000000000 +00:00
+categories:
+- Commentary
+- Civic Startups
+tags: []
+---
+Dear Lazy Web, 
+
+Please make a better <a href="http://www.freecycle.org/">Freecycle</a>. 
+
+<a href="http://codeforamerica.org/wp-content/uploads/2011/09/freecycle.jpg"><img src="http://codeforamerica.org/wp-content/uploads/2011/09/freecycle.jpg" alt="" title="freecycle" width="300"  class="alignright size-full wp-image-8543" /></a>Earlier this year when Code for America was closed for a break, and I spent some of the time off cleaning out my basement. When I moved into my house ten years ago, the previous owners (who must have been really into refinishing wood furniture) failed to clean out the basement when they moved, leaving shelves full of the kinds of things people have in basements: motor oil, paint, caulk, scrap wood, every kind of paint stripper and solvent on the market, and, oddly, bottles and bottles of linseed oil. These days, with a full time startup and a kid, I’m not changing my own oil, refinishing my own furniture, or caulking my own bathtub. It was time for this stuff to go.
+
+You can’t throw toxic waste into the garbage. Either you drive it down to the Household Hazardous Waste Facility, which is open three days a week for just three hours each day, or, if it’s remotely usable, you can try to give it to someone else who could use it. A surprising amount of the stuff in my basement was full, unopened bottles of items you’d pay good money for at the store, so I decided to try to give some of it away. Benefit to neighbor + decreased burden on waste facility + less toxic waste in the environment = win win win, right?
+
+Except wow, have you ever used freecycle? The communication overhead is kind of a beast. After you post your item on offer, it goes out in a daily email, and folks start responding. Say you choose the first person who responds, and attempt to set up a time to do the hand off. In the meantime you have another dozen inquiries coming in, each of whom need to be told they are next in line. Typically, it takes a few days to discover that the first person isn’t in fact going to come by when he said he would, and it’s time to offer the item to another responder. Then there’s that whole communication, agreeing upon a time, sending the address and instructions, etc. When the item is finally, gleefully, out of your possession, there is still informing the remaining respondents and marking the item as taken on the freecycle website. That’s a lot of email to get rid of one bag of motor oil. The net result is that you feel like you’ve tried to do the right thing, and ended up punished for it. All this back and forth is more than the average busy person really wants to take on. 
+
+And it’s not hard to imagine a far more efficient system, one that borrows a little bit from <a href="http://ebay.com">Ebay</a>, a little bit from <a href="http://calendar.google.com">Google Calendar</a>, and a little bit from <a href="http://neighborgoods.net/">NeighborGoods</a>. A decent system should structure the interactions and provide transparency into the process. Instead of emailing someone with your interest, it should look more like a bid on Ebay, and it should allow you to see how many others are interested in the item. Instead of a price, the system should ask takers to indicate when they could come by to pick the item up, or allow the giver/donor to offer up times convenient for them for the handoff, and let takers commit to those times in their "bid." A giver could choose a first place "bid" and automatically generate an email to the taker with the appropriate information, including the address and boilerplate language around their commitment to claim the item at the agreed upon time. If the item isn’t taken by the agreed upon time, the giver would simply need to tell the system to move on to the next appropriate bid and automatically send the information again, until the item is actually gone and the giver notes this. Then the system could inform all the interested parties that the item is no longer available. A properly constructed system would handle the communication overhead for both parties, and make it a whole lot easier to give away stuff you don’t need.
+
+Who cares about a system like this working? Or rather, who should care? Well, besides Mother Earth, who always appreciates less landfill, your municipal waste management authority should care, which means your city or county government should care when they are trying to balance their budgets every year. Every item diverted from the dump or the toxic waste facility is a few dollars saved to the bottom line. What if, when you went online to look up the hours of the household hazardous waste facility, or called their hotline, you were encouraged to try giving your items away first, through an online network? If a system like that reduced demand on the municipal waste system by even just two or three percent, how much money would your city or county save? What if hundreds of cities and counties saved just a few percent this way? Would it be worth it?

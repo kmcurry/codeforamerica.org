@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+published: true
+title: '"Quick Win"'
+author: Tamara Shopsin
+author_login: tamara
+author_email: tamara@codeforamerica.org
+wordpress_id: 16352
+wordpress_url: http://codeforamerica.org/?p=16352
+date: 2012-08-28 11:44:55.000000000 +00:00
+categories:
+- News
+- 2012 fellows
+- Santa Cruz
+- Design
+tags: []
+---
+<strong>Day 1 of being in Santa Cruz, Calif.</strong>
+The maps around city hall are confusing, out of date, and the display cases are fogged up:
+
+<img class="alignnone size-full wp-image-16354" title="oldfrontmapsm" src="http://codeforamerica.org/wp-content/uploads/2012/08/oldfrontmapsm.jpg" alt="" width="500" height="375" />
+
+City’s website is no better:
+
+<img class="alignnone size-full wp-image-16355" title="oldwebmap" src="http://codeforamerica.org/wp-content/uploads/2012/08/oldwebmap.jpg" alt="" width="500" height="383" />
+
+<strong>CfA January training</strong>: “Look for quick wins.”
+
+I make a <a href="https://maps.google.com/maps/ms?msid=209512327102246183896.0004b7ed3faaa9791a0bc&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=36.974924,-122.028365&amp;spn=0.012,0.018239&amp;z=17&amp;source=embed" target="_blank">Google Map</a> with all the city offices and their hours. I also draw a printable <a href="http://codeforamerica.org/wp-content/uploads/2012/08/SMALLMAP.pdf" target="_blank">vector map</a> of where the buildings are located.
+
+<strong>CfA January training:</strong> “Find a city ally who can champion your project.”
+
+Crystal Birns, City Arts Program Manager for Santa Cruz, is excited to help. She tells me what information to keep in / take out of the City Hall map.
+
+I measure the display boxes and design a map of the City Hall building and its Annex.
+
+Crystal drinks San Pellegrino like it’s water. I learn this while teaching her Adobe Illustrator. After four lunches she has the skills needed to update the maps on her own.
+
+Crystal sends the map around to the city departments. I make changes based on their feedback and the map is sent around again.
+
+And again. And again.
+
+And again.
+
+I tell Crystal I am fine with what ever they decide, but I need to move on.  I will not be hurt if my icons or type size are changed. I leave it in her hands.
+
+<strong>CfA January training:</strong> “Be patient. Government turns like a battleship.”
+
+<strong>Month 7 of fellowship
+</strong>Crystal emails me a <a href="http://cityofsantacruz.com/index.aspx?page=1860" target="_blank">link</a>. The city website has been updated with the Google Map and printable PDF.
+
+<strong>Month 8 of fellowship
+</strong>Crystal sends me photos of the four new campus maps:
+
+<img class="alignnone size-full wp-image-16358" title="newfrontmap550" src="http://codeforamerica.org/wp-content/uploads/2012/08/newfrontmap550.jpg" alt="" width="550" height="394" />
+
+Hang Ten Crystal!
+
+&nbsp;
+
+Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.

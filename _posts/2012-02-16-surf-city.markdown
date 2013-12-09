@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: Surf City
+author: Tamara Shopsin
+author_login: tamara
+author_email: tamara@codeforamerica.org
+wordpress_id: 11114
+wordpress_url: http://codeforamerica.org/?p=11114
+date: 2012-02-16 21:07:18.000000000 +00:00
+categories:
+- News
+- 2012 fellows
+- Santa Cruz
+tags: []
+---
+<a href="http://codeforamerica.org/wp-content/uploads/2012/02/pillow.jpg"><img class="alignnone size-full wp-image-11115" title="pillow" src="http://codeforamerica.org/wp-content/uploads/2012/02/pillow.jpg" alt="" width="576" height="432" /></a>
+
+<strong>Monday</strong>
+
+<strong></strong>City hall looks like Charlie Chaplin’s studio. It was built as part of a WPA project.
+
+Peter Koht, our city contact introduces us to everyone. They give us coffee mugs and an office in IT. We call it the fish bowl because it has windows that don’t look outside.
+
+Downtown Santa Cruz is in great shape. Three independent bookstores and two record stores. “Streetlight Records” has a comedy vinyl bin. I score <a href="http://www.youtube.com/watch?v=e-oed4kxQB4&amp;feature=related" target="_blank">Spike Jones &amp; The City Slickers</a> for $1.99.
+
+<strong>Tuesday</strong>
+
+The weather is amazing. There’s a beautiful cactus garden outside city hall that is kept up by volunteers. We meet planners and council members. Everyone is laid back and special. All agree the traffic impact fees are a problem.
+
+<strong>Wednesday</strong>
+
+<strong></strong>We hold a <a href="http://www.santacruzsentinel.com/localnews/ci_19871025" target="_blank">press conference</a>. Peter advises us to eat a banana because it has beta blockers that help lower stress.
+
+<a href="http://codeforamerica.org/wp-content/uploads/2012/02/ryanposter.jpg"><img class="alignnone size-full wp-image-11117" title="ryanposter" src="http://codeforamerica.org/wp-content/uploads/2012/02/ryanposter.jpg" alt="" width="432" height="599" /></a>
+
+I notice a poster in the office of council member/ex-mayor Ryan Coonerty. It makes my heart go pitter-pat. I google it and find that the <a href="http://www.flickr.com/photos/34564322@N03/sets/72157623327595013/" target="_blank">print shop</a> retired in 2005.
+
+&nbsp;
+
+<a href="http://codeforamerica.org/wp-content/uploads/2012/02/flowers.jpg"><img class="alignnone size-full wp-image-11118" title="flowers" src="http://codeforamerica.org/wp-content/uploads/2012/02/flowers.jpg" alt="" width="720" height="574" /></a>
+
+Stumble on the lovely Santa Cruz Farmers Market.
+
+<strong>Thursday</strong>
+
+<a href="http://codeforamerica.org/wp-content/uploads/2012/02/hand.jpg"><img class="alignnone size-full wp-image-11119" title="hand" src="http://codeforamerica.org/wp-content/uploads/2012/02/hand.jpg" alt="" width="720" height="540" /></a>
+
+The not so invisible helpful hand of our city contact Peter Koht.
+
+Focus group with Sole Proprietors. Parking is definitely an issue.
+
+We have met so many people. Each has been nicer than the next. Permitting is permeating our brains. Our <a href="http://santacruzcitycamp.eventbrite.com/" target="_blank">hack-a-thon</a> is in the works.
+
+<strong>Friday</strong>
+
+<strong></strong>Furloughed.
+
+&nbsp;

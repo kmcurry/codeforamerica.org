@@ -1,0 +1,15 @@
+---
+layout: page
+status: publish
+published: true
+title: CfA Labs Blog
+author: Abhi Nemani
+author_login: Abhi
+author_email: abhi@codeforamerica.org
+wordpress_id: 5070
+wordpress_url: http://codeforamerica.org/?page_id=5070
+date: 2011-04-13 15:33:52.000000000 +00:00
+categories: []
+tags: []
+---
+

@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: 'FAF: Why I Code for America'
+author: Sarayu Ramanan
+author_login: Sarayu_Ramanan
+author_email: SarayuRamanan@all4kids.org
+author_url: http://familyassessmentform.com/
+wordpress_id: 24863
+wordpress_url: http://www.codeforamerica.org/?p=24863
+date: 2013-08-15 10:00:42.000000000 +00:00
+categories:
+- '2013'
+- Accelerator
+- '#codingforamerica'
+tags: []
+---
+<em>This post is part of a <a href="http://codeforamerica.org/category/accelerator">series</a> to about the Code for America <a href="http://codeforamerica.org/accelerator">Accelerator</a> companies.</em>
+<p dir="ltr"><strong><a href="http://www.familyassessmentform.com/"><img class="alignleft size-full wp-image-24912" alt="faf" src="http://www.codeforamerica.org/wp-content/uploads/2013/08/faf.jpg" width="318" height="281" /></a>How do you quantify social value created?</strong></p>
+<p dir="ltr">This question is at the heart of nonprofit service delivery, social policy analysis, and lives in the minds of funders and policy-makers alike.</p>
+<p dir="ltr">Civic entities have the responsibility of ensuring the best programs are delivered to the right people in a manner that efficiently and transparently uses taxpayer dollars. That's why the Health and Human Services sector looks for evidence-based models and practice tools demonstrating impact from programs.  The <a href="http://www.familyassessmentform.com/">Family Assessment Form</a> (FAF web tool) meets this need in an important segment of the Health and Human Services sector.</p>
+<strong>Metrics for Child Welfare </strong>
+
+There's has been a paradigm shift in the logic and design of child welfare policies and programs.  Rather than addressing only the risk factors and aftermath of child abuse, policy-makers and <a href="http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=3832">studies</a> are realizing the ROI of investing into prevention-focussed early childhood social programs. These programs target at-risk families and focus on building and strengthening young families as part of a comprehensive approach to abate risk.  This prevention and strength-focused approach ensures that more children stay out of the juvenile justice, foster and child welfare systems.  The investment in prevention has been promoted at the nation’s highest level, with federal block grants awarded to states to implement home visitation programs. These are part of<a href="http://mchb.hrsa.gov/programs/homevisiting/index.html"> maternal and child health</a> services -- a strategy supporting families in-need before they enter the child welfare system.  The demand for prevention-focused strategies dovetails with the need to monitor, evaluate, and demonstrate the social value of these very programs.
+<p dir="ltr">To meet this need, Children’s Bureau of Southern California developed a child welfare tool enabling programs to identify key markers of family functioning, guiding practitioners through a strengths-based approach and collecting demonstrating positive programmatic impact.  The <a href="http://www.familyassessmentform.com/">FAF program </a>at Children’s Bureau of Southern California uses current technology to bring this programmatic insight to the civic space.</p>
+<p dir="ltr"><strong>The Step forward for the FAF tool </strong></p>
+While the FAF program originally involved contracts with small- to medium-sized nonprofit organizations, it recently gained significant exposure in the public sector.  The FAF tool has expanded the portfolio of clients to include the State of New Hampshire, New York City, and Los Angeles County.  Additionally, the tool’s focus on outcomes metrics has been lauded in the Province of Alberta, Canada, where child and family service agencies are implementing an Outcomes Based Service Delivery model.
+
+The FAF tool has been used as a program evaluation instrument in a Los Angeles County-wide program called Partnership for Families (PFF). PFF has <a href="http://www.first5la.org/files/PFF_USC_F5FinalReport_11302011.pdf">demonstrated</a> positive programmatic outcomes over many years via the FAF tool.  In addition to its fit in the program evaluation arena, the FAF tool has also maintained relevancy in the social science research community.  The tool was originally put through rigorous psychometric testing in 1997, which established its statistical validity and reliability as a measure of family functioning.  Those original studies confirmed the evidence and enabled FAF tool to gain credibility in the field.  More recently, in 2013, the assessment was evaluated as part of a new study confirming its validity and clinical relevancy.
+<p dir="ltr">With the growth of the FAF software program and its expansion into new prevention-based child welfare programs, Children’s Bureau has the unique opportunity to make national, sector-wide impact in the child welfare field.  In doing so, it is enabling the Health and Human Services sector to promote valuable programs, impact the lives of thousands of families and truly demonstrate the creation of social value.</p>
+
+
+<hr />
+
+Questions? Comments? Hit us up at <a href="http://twitter.com/codeforamerica">@codeforamerica</a>.
