@@ -19,6 +19,8 @@ You can do something as simple as a tweet or as fun as a party — we’ve even 
 
 Check out our <a href="http://codeforamerica.org/recruit">fellow recruitment action center</a>: <a href="http://codeforamerica.org/recruit">http://codeforamerica.org/recruit</a>
 
+<!--more-->
+
 One big thing you can do is host an event bringing together people in the community to talk about open government or even hack on it. We threw together some tips and advice to help you out.
 
-<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/58644813/content?start_page=1&view_mode=list&access_key=key-21qjjpq4ckt4o6cn8cvr" data-auto-height="true" data-aspect-ratio="0.772727272727273" scrolling="no" id="doc_89529" width="100%" height="600" frameborder="0"></iframe><script type="text/javascript">(function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "http://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();</script>
+<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/58644813/content?start_page=1&amp;view_mode=list&amp;access_key=key-21qjjpq4ckt4o6cn8cvr" data-auto-height="true" data-aspect-ratio="0.772727272727273" scrolling="no" id="doc_89529" width="100%" height="600" frameborder="0"></iframe><script type="text/javascript">(function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "http://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();</script>

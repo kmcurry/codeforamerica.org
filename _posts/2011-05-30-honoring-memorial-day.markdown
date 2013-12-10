@@ -27,7 +27,7 @@ Today, across the country, we observe Memorial Day. There are barbeques and tee 
 <em>“To my Dad, a 30+ year DoD/Army auditor who taught me to honor, respect and value public service.”</em>
 — Matt, Washington DC
 
-<em>“He's serving us in the US Army. He & his family's sacrifice & service are admirable & honorable.”</em>
+<em>“He's serving us in the US Army. He &amp; his family's sacrifice &amp; service are admirable &amp; honorable.”</em>
 — John Carson, Honolulu, HI
 
 <em>“Thank you to the men and women who risk their lives for our nation overseas!”</em>
@@ -37,3 +37,5 @@ Today, across the country, we observe Memorial Day. There are barbeques and tee 
 — Debbie Little, Wilmington , OH</blockquote>
 
 We just wanted to share our support and appreciation, and we hope that you'll take a moment today to do the same.
+
+<!--more-->

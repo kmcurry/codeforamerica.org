@@ -17,18 +17,34 @@ tags:
 ---
 Last week I had the chance to attend my first RailsConf.  <a href="http://codeforamerica.org/author/dan" target="_blank">Dan</a>, <a href="http://codeforamerica.org/author/erik/" target="_blank">Erik</a> and <a href="http://codeforamerica.org/author/scott/" target="_blank">Scott</a> from Code for America were also in attendance at the conference. The conference was filled with great tutorial sessions, tech sessions and some inspiring keynotes. Here are some quick snippets from the conference.
 
+
+
 <a title="RDR-20110519-18.jpg by Ryan Resella, on Flickr" href="http://www.flickr.com/photos/lastminuteracer/5753144438/"><img class="aligncenter" src="http://farm3.static.flickr.com/2465/5753144438_b0898dbaa4.jpg" alt="RDR-20110519-18.jpg" width="500" height="333" /></a>
+
+
 
 For the past 7 years I have been a .NET Developer. Over the past few months I have been learning Ruby on Rails and making the switch.  I was surprised to see how many .NET Developers were in attendance and that were making the move to Ruby on Rails. Makes sense. Ruby on Rails Developers are really in high demand right now. Check out what the job board looked like:
 
+
+
 <a title="IMG_20110519_114727.jpg by Ryan Resella, on Flickr" href="http://www.flickr.com/photos/lastminuteracer/5752600985/"><img class="aligncenter" src="http://farm3.static.flickr.com/2634/5752600985_6073b8e72a.jpg" alt="IMG_20110519_114727.jpg" width="500" height="374" /></a>
 
+<!--more-->
+
 If you're eager to get in on the action, trust me, you can do it. Learning Ruby on Rails has been great for me because there are so many resources out there from the Rails community. Here are a list of resources that I have found useful learning Ruby on Rails.
+
 <ul>
+
 	<li><a href="http://ruby.railstutorial.org/" target="_blank">Ruby on Rails Tutorial by Michael Hartl</a> - This is a great book that guides you from zero to deploying your Rails application.</li>
+
 	<li><a href="http://railsforzombies.org/" target="_blank">Rails for Zombies</a> - Built by Envy Labs this is a fun way to learn Rails using Zombies as an example.</li>
+
 	<li><a href="http://rubyonrails.org/screencasts/rails3/" target="_blank">Dive into Rails 3 </a> - Screencasts with a good overview of Rails 3.</li>
+
 </ul>
+
 Finally, CfA's CTO Dan Melton had the honor of presenting a keynote; check out the video and his call for a "geek army":
 
-<iframe width="560" height="349" src="http://www.youtube.com/embed/CrjUts20bsU" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="560" height="349" src="http://www.youtube.com/embed/CrjUts20bsU" frameborder="0"></iframe>
