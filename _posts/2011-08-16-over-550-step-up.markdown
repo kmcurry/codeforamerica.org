@@ -12,21 +12,18 @@ date: 2011-08-16 14:31:02.000000000 +00:00
 categories:
 - News
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2011/08/16/over-550-step-up/
 ---
-All of this only works because people are willing to step up. Because individuals across the country -- and in fact across the globe -- decide that they want to help their communities, that they have skills they want to contribute, that they want to Code for America. Last year, we were overwhelmed with the response we received for our inaugural program; over 360 people applied for 2011. What was ever better to see, however, was that it wasn't a one time thing. 
 
-<strong>For 2012, we received 552 applications, which constitutes a 52 percent increase!</strong> That means this movement is not only sustaining but growing. We'll be sharing more details on recruitment, the selection process, and our applicant engagement in the coming weeks; for now, we wanted to share some visualizations to give a sense of the terrific response.
-
+<p>All of this only works because people are willing to step up. Because individuals across the country — and in fact across the globe — decide that they want to help their communities, that they have skills they want to contribute, that they want to Code for America. Last year, we were overwhelmed with the response we received for our inaugural program; over 360 people applied for 2011. What was ever better to see, however, was that it wasn’t a one time thing. </p>
+<p><strong>For 2012, we received 552 applications, which constitutes a 52 percent increase!</strong> That means this movement is not only sustaining but growing. We’ll be sharing more details on recruitment, the selection process, and our applicant engagement in the coming weeks; for now, we wanted to share some visualizations to give a sense of the terrific response.</p>
 <h3>Applicant Breakdown by Role*</h3>
-<a href="http://codeforamerica.org/wp-content/uploads/2011/08/applicants-role1.png"><img src="http://codeforamerica.org/wp-content/uploads/2011/08/applicants-role1.png" alt="" title="applicants-role" width="610" class="aligncenter size-full wp-image-8095" /></a>
-
-<h3>"Why do you want to Code for America?"</h3>
-<a href="http://codeforamerica.org/wp-content/uploads/2011/08/wordcloud.png"><img src="http://codeforamerica.org/wp-content/uploads/2011/08/wordcloud.png" alt="" title="wordcloud" width="610" class="aligncenter size-full wp-image-8079" /></a>
-
+<p><a href="http://codeforamerica.org/wp-content/uploads/2011/08/applicants-role1.png"><img alt="" class="aligncenter size-full wp-image-8095" src="http://codeforamerica.org/wp-content/uploads/2011/08/applicants-role1.png" title="applicants-role" width="610"/></a></p>
+<h3>“Why do you want to Code for America?”</h3>
+<p><a href="http://codeforamerica.org/wp-content/uploads/2011/08/wordcloud.png"><img alt="" class="aligncenter size-full wp-image-8079" src="http://codeforamerica.org/wp-content/uploads/2011/08/wordcloud.png" title="wordcloud" width="610"/></a></p>
 <h3>Geographic Location of Applicants (World)</h3>
-<a href="http://codeforamerica.org/wp-content/uploads/2011/08/map.png"><img src="http://codeforamerica.org/wp-content/uploads/2011/08/map-1024x641.png" alt="" title="map" width="610" class="aligncenter size-large wp-image-8076" /></a>
-
+<p><a href="http://codeforamerica.org/wp-content/uploads/2011/08/map.png"><img alt="" class="aligncenter size-large wp-image-8076" src="http://codeforamerica.org/wp-content/uploads/2011/08/map-1024x641.png" title="map" width="610"/></a></p>
 <h3>Geographic Location of Applicants (USA)</h3>
-<a href="http://codeforamerica.org/wp-content/uploads/2011/08/usa.png"><img src="http://codeforamerica.org/wp-content/uploads/2011/08/usa.png" alt="" title="usa" width="610" class="aligncenter size-full wp-image-8088" /></a>
-
-*Note: The application allowed for more granular submissions on potential roles and for multiple selections, so we generalized the data, so the above is a rough estimation. "PM/CM" indicates project or communications manager.
+<p><a href="http://codeforamerica.org/wp-content/uploads/2011/08/usa.png"><img alt="" class="aligncenter size-full wp-image-8088" src="http://codeforamerica.org/wp-content/uploads/2011/08/usa.png" title="usa" width="610"/></a></p>
+<p>*Note: The application allowed for more granular submissions on potential roles and for multiple selections, so we generalized the data, so the above is a rough estimation. “PM/CM” indicates project or communications manager.</p>
