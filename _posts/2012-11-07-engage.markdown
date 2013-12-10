@@ -14,21 +14,17 @@ categories:
 - '#meta'
 - Campaigns
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2012/11/07/engage/
 ---
-<img class="alignleft" style="float: left;" src="http://brigade.codeforamerica.org/assets/r2r/r4r-round.png" alt="Race logo" width="186" height="194" />We like campaigns at Code for America. Campaigns provide us motivation, inspiration, and support for reaching shared objectives and goals. Each of our <a title="Brigade home" href="http://brigade.codeforamerica.org">Brigade</a> campaigns is designed to direct energy in support one of our <a title="Brigade Activities page" href="http://brigade.codeforamerica.org/pages/activities">five activities</a>. Each of those activities advances <a title="About Brigade" href="http://brigade.codeforamerica.org/pages/about#goals">our strategic outcomes</a>. Our summer campaign, <a title="Campaign home" href="http://openimpact.us">Open Impact</a>, was about advocating for changes needed to support government on the web. Our current campaign, <a title="campaign home" href="http://brigade.codeforamerica.org/pages/race-for-reuse">Race for Reuse</a>, is about engaging citizens and community groups to address civic issues together.
 
-<a title="campaign home" href="http://brigade.codeforamerica.org/pages/races-for-reuse">Race for Reuse</a> is important to us because it connects the engagement of civic-minded technologists with engagement in the general population. We asked you to redeploy these four apps because they share characteristics that are important to us. Foremost, all are applications for engagement and each engages in a different way.
-
-<a title="textizen home" href="http://textizen.org">Textizen</a> polls the mobile population about matters important locally. <a title="localwiki home" href="http://localwiki.org">LocalWiki</a> enlists writers, editors and curators to "edit their city." <a title="shareabouts home" href="http://shareabouts.org">Shareabouts</a> invites residents to participate in planning by answering questions for which a key part of the answers is location. <a title="Adopta home" href="http://adoptahydrant.org/">Adopt-a</a> connects traditional, volunteer maintenance activities with an increasingly digital populace.
-
-<img class="alignright" src="http://blog.atomicreach.com/wp-content/uploads/2012/08/picard.jpg" alt="quickmeme.com" width="226" height="173" />
-
-Join us on the <a title="campaign home" href="http://brigade.codeforamerica.org/pages/race-for-reuse">Race for Reuse</a> campaign to promote and celebrate civic app reuse and civic engagement. We asked you to deploy one of these apps by Election Day -- yesterday.  Now, that's done, let's get people using them.
-
-It's time to engage our communities.
-
-&nbsp;
-
-&nbsp;
+<p><img alt="Race logo" class="alignleft" height="194" src="http://brigade.codeforamerica.org/assets/r2r/r4r-round.png" style="float: left;" width="186"/>We like campaigns at Code for America. Campaigns provide us motivation, inspiration, and support for reaching shared objectives and goals. Each of our <a href="http://brigade.codeforamerica.org" title="Brigade home">Brigade</a> campaigns is designed to direct energy in support one of our <a href="http://brigade.codeforamerica.org/pages/activities" title="Brigade Activities page">five activities</a>. Each of those activities advances <a href="http://brigade.codeforamerica.org/pages/about#goals" title="About Brigade">our strategic outcomes</a>. Our summer campaign, <a href="http://openimpact.us" title="Campaign home">Open Impact</a>, was about advocating for changes needed to support government on the web. Our current campaign, <a href="http://brigade.codeforamerica.org/pages/race-for-reuse" title="campaign home">Race for Reuse</a>, is about engaging citizens and community groups to address civic issues together.</p>
+<p><a href="http://brigade.codeforamerica.org/pages/races-for-reuse" title="campaign home">Race for Reuse</a> is important to us because it connects the engagement of civic-minded technologists with engagement in the general population. We asked you to redeploy these four apps because they share characteristics that are important to us. Foremost, all are applications for engagement and each engages in a different way.</p>
+<p><a href="http://textizen.org" title="textizen home">Textizen</a> polls the mobile population about matters important locally. <a href="http://localwiki.org" title="localwiki home">LocalWiki</a> enlists writers, editors and curators to “edit their city.” <a href="http://shareabouts.org" title="shareabouts home">Shareabouts</a> invites residents to participate in planning by answering questions for which a key part of the answers is location. <a href="http://adoptahydrant.org/" title="Adopta home">Adopt-a</a> connects traditional, volunteer maintenance activities with an increasingly digital populace.</p>
+<p><img alt="quickmeme.com" class="alignright" height="173" src="http://blog.atomicreach.com/wp-content/uploads/2012/08/picard.jpg" width="226"/></p>
+<p>Join us on the <a href="http://brigade.codeforamerica.org/pages/race-for-reuse" title="campaign home">Race for Reuse</a> campaign to promote and celebrate civic app reuse and civic engagement. We asked you to deploy one of these apps by Election Day — yesterday.  Now, that’s done, let’s get people using them.</p>
+<p>It’s time to engage our communities.</p>
+<p> </p>
+<p> </p>
 <p style="text-align: right;"><em>image: quickmeme.com</em></p>
 <p style="text-align: left;">Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.</p>

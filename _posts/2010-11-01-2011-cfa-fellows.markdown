@@ -13,137 +13,51 @@ date: 2010-11-01 14:51:06.000000000 +00:00
 categories:
 - News
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2010/11/01/2011-cfa-fellows/
 ---
-Today we're thrilled to introduce you to our inaugural class of Fellows.
 
-
-
-Out of a pool of over 360 amazing applicants, these 20 stood out for their talent, experience, and passion.* They will be the first participants in our experiment to help city governments better leverage the power of the web. Starting in January, it will be their challenge to not only build innovative apps for each of our cities, but also become the leaders of the ongoing movement to make government more open and efficient. Having gotten to know each of them over the past few months, I can assure you that they can and they will.
-
-
-
-I hope you're as excited as we are to see what together they can accomplish.
-
-<!--more-->
-
-<img class="alignright" src="/img/ogle.png" alt="" width="100.0" height="100.0" align="right" /><strong>Aaron Ogle</strong>
-
-Aaron Ogle is a software developer for Azavea in Philadelphia where he builds location-based web applications for local governments, non-profits, and universities. He specializes in solving urban sustainability problems with such applications as <a href="http://PhillyStormwater.org">PhillyStormwater.org</a>, a web app to support Philadelphia's new green stormwater management program, and <a href="http://Walkshed.org">Walkshed.org</a>, a webapp to precisely map the walkability of multiple cities in real-time.
-
-
-
-<img class="alignright" src="/img/palazzolo.png" alt="" width="92.0" height="120.0" align="right" /><strong>Alan Palazzolo</strong>
-
-Alan Palazzolo is a web developer, focusing on open source software, data visualization, and mapping. He has worked in the non-profit and NGO sectors, having worked for multiple organizations at home and abroad. He is an active contributor to the Drupal community and is a firm believer that open source is more than just a software methodology. Specifically, he is one of the lead developers of the Drupal OpenLayers module, which is a robust solution for web mapping in Drupal. He received his BS in Computer Information Systems from Appalachian State University.
-
-
-
-<img class="alignright" src="/img/bloom.png" alt="" width="100.0" height="100.0" align="right" /><strong>Anna Bloom</strong>
-
-Anna Bloom has worked as a reporter and researcher for news organizations ranging from local newspapers to national websites. After graduating from UC Berkeley's Graduate School of Journalism in 2010, she worked for YouTube to launch an innovative news project documenting the Bay Area with user-generated video. Prior to that, she regularly contributed to The New York Times Bay Area Blog and co-founded a hyper-local news site for Oakland in 2008, <a href="http://oaklandnorth.net">OaklandNorth.net</a>.
-
-
-
-<img class="alignright" src="/img/sikes.png" alt="" width="100.0" height="100.0" align="right" /><strong>Chach Sikes</strong>
-
-Chach Sikes is an experienced developer who builds organizational websites and participatory educational experiences. She was a core developer for the state of Missouri's Department of Conservation website. She also founded the <a href="http://garden.localbiology.org/">Drupal Open Garden Project</a>, a collaborative learning project that brings technologists and community gardeners together to work on open source technology for local food systems. She holds a BA in History and Anthropology from Bard College.
-
-
-
-<img class="alignright" src="/img/ober.png" alt="" width="137.0" height="91.0" align="right" /><strong>Erik Michaels-Ober</strong>
-
-Erik Michaels-Ober is a software developer and entrepreneur in San Francisco, California. Since graduating from Carnegie Mellon University in 2005, he has been a founder and CTO of startups that have raised more than $4.5 million in venture capital. He contributes to various open-source software projects and just wrapped up the summer as a Ruby Summer of Code mentor.
-
-
-
-<img class="alignright" src="/img/canfield.png" alt="" width="100.0" height="100.0" align="right" /><strong>Jeremy Canfield</strong>
-
-Jeremy Canfield is a web developer, interaction designer, and entrepreneur. As a co-founder of Phonagle, he designed, developed, and launched a location-based mobile game, funded by winning a venture capital competition. Before his start-up, he worked for the Government Accountability Office, leveraging open source software to increase transparency and collaboration. He earned a Masters of Science in Information at the University of Michigan.
-
-
-
-<img class="alignright" src="/img/mahoney.png" alt="" width="97.0" height="97.0" align="right" /><strong>Joel Mahoney</strong>
-
-Joel Mahoney has been designing and developing web applications since 1999. He is a Certified Scrum Master and has served as the COO and CTO of multiple start-up companies. Recently, he was the lead architect of <a href="http://pandoxa.com">Pandoxa</a>, a citizen-engagement platform for the 2010 California Special Election. He holds a BA from Bates College in Lewiston, ME, and a MA from St. John's College in Santa Fe, NM.
-
-
-
-<img class="alignright" src="/img/mertens.png" alt="" width="90" align="right" /><strong>John Mertens</strong>
-
-John is a developer and designer, specializing in user experience and open source solutions. Most recently, he was a web developer at Alientation Digital, one of the top digital agencies in Scotland, where he built over 50 unique websites per year. In addition to traditional websites &amp; e-commerce sites, he also built a civic app for self-evaluation of all Scottish Social Service workers. He earned a BS in Computer Science with a minor in Mathematics from Iowa State University.
-
-
-
-<img class="alignright" src="/img/macedo.png" alt="" width="100.0" height="100.0" align="right" /><strong>Karla Macedo</strong>
-
-Karla is a print artist and graphic designer, currently working in the Bay Area. She has developed and redesigned the graphic identity of numerous organizations, including the Youth Workers Collective and Spacesonic. She also designed and produced a multi-page voter guide for the DREAM Act, titled, <a href="http://kmacedo.carbonmade.com/projects/2636378#1">American Dreamers.</a> She earned her Bachelors at the The Art Institute of California‚ San Francisco.
-
-
-
-<img class="alignright" src="/img/lewis.png" alt="" width="100.0" height="100.0" align="right" /><strong>Matt Lewis</strong>
-
-Matt Lewis currently is a search marketing analyst for a digital ad agency in San Francisco. He has a wide array of experiences in politics, business, and technology. He has worked as a community organizer for the Newsom for Progress campaign, as well as an equity analyst for a boutique financial analysis firm, where he undertook the redesign of the corporate blog, <a href="http://retailgeeks.com">retailgeeks.com</a>. He graduated from Claremont McKenna College in 2009 with a degree in Politics, Philosophy, and Economics (PPE).
-
-
-
-<img class="alignright" src="/img/ogden.png" alt="" width="73.0" height="73.0" align="right" /><strong>Max Ogden</strong>
-
-Max Ogden develops client applications, developer tools, and APIs, currently living in Portland, OR, and working as a developer at a market research company. In his spare time, he develops open source civic applications, including a hosted data service for geographic information about Portland, OR, called PDX API. In a 2010 apps competition hosted by the City of Portland, his work on PDX API was awarded, "Best use of public data."
-
-
-
-<img class="alignright" src="/img/bernstein.png" alt="" width="98.0" height="98.0" align="right" /><strong>Michael Bernstein</strong>
-
-Michael Bernstein is a web designer, developer, writer, and veteran living in Albuquerque, New Mexico. He has been the lead developer on software projects such as a system to consolidate voter registration records, and an emergency notification system. Drawing on his early participation in that community, he co-authored the <em><a href="http://t.co/kYkfQm8">Zope Bible</a></em>, a "comprehensive Bible... on the leading Open Source Web Application Platform," published by Wiley Press in 2002.
-
-
-
-<img class="alignright" src="/img/evans.png" alt="" width="100.0" height="100.0" align="right" /><strong>Michael Evans</strong>
-
-Michael Evans is a web developer from Mountain View, CA. As a self-taught open source programmer, he has focused on data visualization and GIS systems with projects such as NYC Graffiti Snapshot, which helps users explore graffiti trends with interactive maps and charts, and SF Crime Snapshot, a combination of heat maps and street maps illustrating crime density in San Francisco. He earned a BS in Physical Chemistry from UCLA in 2005.
-
-
-
-<img class="alignright" src="/img/koeth.png" alt="" width="100.0" height="100.0" align="right" /><strong>Michelle Koeth</strong>
-
-Michelle is an intellectual property attorney and web developer. As a lawyer, she worked on securing the rights of inventors, by drafting, reviewing, and defending patent applications at a Washington DC law firm. Prior to law school, she gained experience and skill in web application development at CIGNA, a global health company. She holds a BS in Computer Engineering from Rutgers University and a JD from the Chicago-Kent School of Law.
-
-
-
-<img class="alignright" src="/img/poe.png" alt="" width="100.0" height="100.0" align="right" /><strong>Mjumbe Wa Watu Poe</strong>
-
-Mjumbe Wa Watu Poe has worked for the last five years developing software tools for researchers at the University of Pennsylvania for modelling and simulating social phenomena. Recently, he has been building a set of applications called "Phillyware" to help people better use and affect their city and consulting for a firm developing a collaboration tool for high school educators. He graduated in 2005 with a BS in Computer Science from Harvey Mudd College.
-
-
-
-<img class="alignright" src="/img/fecteau.png" alt="" width="100.0" height="100.0" align="right" /><strong>Pete Fecteau</strong>
-
-Pete Fecteau works mainly in the interactive design and development field creating and administrating dozens of websites for a major non-profit organization. He has experience designing numerous social networks, apps, and templates using open source software. His latest side project involved creating a mosaic of Dr. Martin Luther King using record-breaking 4,242 Rubik's Cubes. He studied at Kendall College of Art &amp; Design and graduated in 2007 with a BFA in Digital Media.
-
-
-
-<img class="alignright" src="/img/resella.png" alt="" width="101.0" height="101.0" align="right" /><strong>Ryan Resella</strong>
-
-Ryan currently works for the City of Santa Clarita as a Senior Information Technology Analyst. Ryan manages the Application Development group, which is responsible for the City's website as well as implementing, developing and managing new software applications. He was the lead developer for <a href="http://www.santa-clarita.com/eGraffiti">eGraffiti</a>, a graffiti tracking and prevention database, that was recognized by the League of California Cities with the prestigous Grand Prize Helen Putnam Award in 2007. He holds a Masters Degree in Public Administration and a Bachelors in Computer Science from California State University, Northridge.
-
-
-
-<img class="alignright" src="/img/silverman.png" alt="" width="100.0" height="100.0" align="right" /><strong>Scott Silverman</strong>
-
-Scott is a recent graduate of Tufts University and has experience in a variety of fields, ranging from technology and communications to video and design. For Apple, he assessed the value of product features for usability, and for the New York Times he conducted market research with focus on news media and technology. As the Vice President of the Tufts University Student Body, he led the complete migration and redesign of the <a href="http://senate.tufts.edu">Tufts Student Government website</a>.
-
-
-
-<img class="alignright" src="/img/salway.png" alt="" width="86.0" height="100.0" align="right" /><strong>Talin Salway</strong>
-
-Talin Salway graduated from UNLV with a degree in Computer Science in 2009, and has developed web applications since then, including the co-founding of social location site<a href="http://peercompass.com">peerCompass.com</a>, which aggregates multiple social feeds -- Facebook, Twitter, Gowalla, Foursquare -- into user-friendly desktop and mobile apps. He was awarded the rank of Eagle Scout, and was part of a team which placed in the 2009 DefCon badge hacking contest.
-
-
-
-<img class="alignright" src="/img/stalder.png" alt="" width="100.0" height="100.0" align="right" /><strong>Tyler Stalder</strong>
-
-Tyler Stalder is a web developer, specializing in internal application development and design. Tyler received his bachelor's degree in Information, Networking, and Telecommunications from Fort Hays State University, while also co-founding two web companies, including an election forecasting service and a technology consulting firm. He currently volunteers with Youth Entrepreneurs of Kansas, helping students develop business skills and entrepreneurial thinking.
-
-
-
-Please join us in congratulating (and supporting!) our first class of Fellows!
+<p>Today we’re thrilled to introduce you to our inaugural class of Fellows.</p>
+<p>Out of a pool of over 360 amazing applicants, these 20 stood out for their talent, experience, and passion.* They will be the first participants in our experiment to help city governments better leverage the power of the web. Starting in January, it will be their challenge to not only build innovative apps for each of our cities, but also become the leaders of the ongoing movement to make government more open and efficient. Having gotten to know each of them over the past few months, I can assure you that they can and they will.</p>
+<p>I hope you’re as excited as we are to see what together they can accomplish.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/ogle.png" width="100.0"/><strong>Aaron Ogle<br/>
+</strong>Aaron Ogle is a software developer for Azavea in Philadelphia where he builds location-based web applications for local governments, non-profits, and universities. He specializes in solving urban sustainability problems with such applications as <a href="http://PhillyStormwater.org">PhillyStormwater.org</a>, a web app to support Philadelphia’s new green stormwater management program, and <a href="http://Walkshed.org">Walkshed.org</a>, a webapp to precisely map the walkability of multiple cities in real-time.</p>
+<p><img align="right" alt="" class="alignright" height="120.0" src="/img/palazzolo.png" width="92.0"/><strong>Alan Palazzolo<br/>
+</strong>Alan Palazzolo is a web developer, focusing on open source software, data visualization, and mapping. He has worked in the non-profit and NGO sectors, having worked for multiple organizations at home and abroad. He is an active contributor to the Drupal community and is a firm believer that open source is more than just a software methodology. Specifically, he is one of the lead developers of the Drupal OpenLayers module, which is a robust solution for web mapping in Drupal. He received his BS in Computer Information Systems from Appalachian State University.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/bloom.png" width="100.0"/><strong>Anna Bloom<br/>
+</strong>Anna Bloom has worked as a reporter and researcher for news organizations ranging from local newspapers to national websites. After graduating from UC Berkeley’s Graduate School of Journalism in 2010, she worked for YouTube to launch an innovative news project documenting the Bay Area with user-generated video. Prior to that, she regularly contributed to The New York Times Bay Area Blog and co-founded a hyper-local news site for Oakland in 2008, <a href="http://oaklandnorth.net">OaklandNorth.net</a>.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/sikes.png" width="100.0"/><strong>Chach Sikes<br/>
+</strong>Chach Sikes is an experienced developer who builds organizational websites and participatory educational experiences. She was a core developer for the state of Missouri’s Department of Conservation website. She also founded the <a href="http://garden.localbiology.org/">Drupal Open Garden Project</a>, a collaborative learning project that brings technologists and community gardeners together to work on open source technology for local food systems. She holds a BA in History and Anthropology from Bard College.</p>
+<p><img align="right" alt="" class="alignright" height="91.0" src="/img/ober.png" width="137.0"/><strong>Erik Michaels-Ober<br/>
+</strong>Erik Michaels-Ober is a software developer and entrepreneur in San Francisco, California. Since graduating from Carnegie Mellon University in 2005, he has been a founder and CTO of startups that have raised more than $4.5 million in venture capital. He contributes to various open-source software projects and just wrapped up the summer as a Ruby Summer of Code mentor.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/canfield.png" width="100.0"/><strong>Jeremy Canfield<br/>
+</strong>Jeremy Canfield is a web developer, interaction designer, and entrepreneur. As a co-founder of Phonagle, he designed, developed, and launched a location-based mobile game, funded by winning a venture capital competition. Before his start-up, he worked for the Government Accountability Office, leveraging open source software to increase transparency and collaboration. He earned a Masters of Science in Information at the University of Michigan.</p>
+<p><img align="right" alt="" class="alignright" height="97.0" src="/img/mahoney.png" width="97.0"/><strong>Joel Mahoney<br/>
+</strong>Joel Mahoney has been designing and developing web applications since 1999. He is a Certified Scrum Master and has served as the COO and CTO of multiple start-up companies. Recently, he was the lead architect of <a href="http://pandoxa.com">Pandoxa</a>, a citizen-engagement platform for the 2010 California Special Election. He holds a BA from Bates College in Lewiston, ME, and a MA from St. John’s College in Santa Fe, NM.</p>
+<p><img align="right" alt="" class="alignright" src="/img/mertens.png" width="90"/><strong>John Mertens<br/>
+</strong>John is a developer and designer, specializing in user experience and open source solutions. Most recently, he was a web developer at Alientation Digital, one of the top digital agencies in Scotland, where he built over 50 unique websites per year. In addition to traditional websites &amp; e-commerce sites, he also built a civic app for self-evaluation of all Scottish Social Service workers. He earned a BS in Computer Science with a minor in Mathematics from Iowa State University.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/macedo.png" width="100.0"/><strong>Karla Macedo<br/>
+</strong>Karla is a print artist and graphic designer, currently working in the Bay Area. She has developed and redesigned the graphic identity of numerous organizations, including the Youth Workers Collective and Spacesonic. She also designed and produced a multi-page voter guide for the DREAM Act, titled, <a href="http://kmacedo.carbonmade.com/projects/2636378#1">American Dreamers.</a> She earned her Bachelors at the The Art Institute of California‚ San Francisco.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/lewis.png" width="100.0"/><strong>Matt Lewis<br/>
+</strong>Matt Lewis currently is a search marketing analyst for a digital ad agency in San Francisco. He has a wide array of experiences in politics, business, and technology. He has worked as a community organizer for the Newsom for Progress campaign, as well as an equity analyst for a boutique financial analysis firm, where he undertook the redesign of the corporate blog, <a href="http://retailgeeks.com">retailgeeks.com</a>. He graduated from Claremont McKenna College in 2009 with a degree in Politics, Philosophy, and Economics (PPE).</p>
+<p><img align="right" alt="" class="alignright" height="73.0" src="/img/ogden.png" width="73.0"/><strong>Max Ogden<br/>
+</strong>Max Ogden develops client applications, developer tools, and APIs, currently living in Portland, OR, and working as a developer at a market research company. In his spare time, he develops open source civic applications, including a hosted data service for geographic information about Portland, OR, called PDX API. In a 2010 apps competition hosted by the City of Portland, his work on PDX API was awarded, “Best use of public data.”</p>
+<p><img align="right" alt="" class="alignright" height="98.0" src="/img/bernstein.png" width="98.0"/><strong>Michael Bernstein<br/>
+</strong>Michael Bernstein is a web designer, developer, writer, and veteran living in Albuquerque, New Mexico. He has been the lead developer on software projects such as a system to consolidate voter registration records, and an emergency notification system. Drawing on his early participation in that community, he co-authored the <em><a href="http://t.co/kYkfQm8">Zope Bible</a></em>, a “comprehensive Bible… on the leading Open Source Web Application Platform,” published by Wiley Press in 2002.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/evans.png" width="100.0"/><strong>Michael Evans<br/>
+</strong>Michael Evans is a web developer from Mountain View, CA. As a self-taught open source programmer, he has focused on data visualization and GIS systems with projects such as NYC Graffiti Snapshot, which helps users explore graffiti trends with interactive maps and charts, and SF Crime Snapshot, a combination of heat maps and street maps illustrating crime density in San Francisco. He earned a BS in Physical Chemistry from UCLA in 2005.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/koeth.png" width="100.0"/><strong>Michelle Koeth<br/>
+</strong>Michelle is an intellectual property attorney and web developer. As a lawyer, she worked on securing the rights of inventors, by drafting, reviewing, and defending patent applications at a Washington DC law firm. Prior to law school, she gained experience and skill in web application development at CIGNA, a global health company. She holds a BS in Computer Engineering from Rutgers University and a JD from the Chicago-Kent School of Law.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/poe.png" width="100.0"/><strong>Mjumbe Wa Watu Poe<br/>
+</strong>Mjumbe Wa Watu Poe has worked for the last five years developing software tools for researchers at the University of Pennsylvania for modelling and simulating social phenomena. Recently, he has been building a set of applications called “Phillyware” to help people better use and affect their city and consulting for a firm developing a collaboration tool for high school educators. He graduated in 2005 with a BS in Computer Science from Harvey Mudd College.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/fecteau.png" width="100.0"/><strong>Pete Fecteau<br/>
+</strong>Pete Fecteau works mainly in the interactive design and development field creating and administrating dozens of websites for a major non-profit organization. He has experience designing numerous social networks, apps, and templates using open source software. His latest side project involved creating a mosaic of Dr. Martin Luther King using record-breaking 4,242 Rubik’s Cubes. He studied at Kendall College of Art &amp; Design and graduated in 2007 with a BFA in Digital Media.</p>
+<p><img align="right" alt="" class="alignright" height="101.0" src="/img/resella.png" width="101.0"/><strong>Ryan Resella<br/>
+</strong>Ryan currently works for the City of Santa Clarita as a Senior Information Technology Analyst. Ryan manages the Application Development group, which is responsible for the City’s website as well as implementing, developing and managing new software applications. He was the lead developer for <a href="http://www.santa-clarita.com/eGraffiti">eGraffiti</a>, a graffiti tracking and prevention database, that was recognized by the League of California Cities with the prestigous Grand Prize Helen Putnam Award in 2007. He holds a Masters Degree in Public Administration and a Bachelors in Computer Science from California State University, Northridge.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/silverman.png" width="100.0"/><strong>Scott Silverman<br/>
+</strong>Scott is a recent graduate of Tufts University and has experience in a variety of fields, ranging from technology and communications to video and design. For Apple, he assessed the value of product features for usability, and for the New York Times he conducted market research with focus on news media and technology. As the Vice President of the Tufts University Student Body, he led the complete migration and redesign of the <a href="http://senate.tufts.edu">Tufts Student Government website</a>.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/salway.png" width="86.0"/><strong>Talin Salway<br/>
+</strong>Talin Salway graduated from UNLV with a degree in Computer Science in 2009, and has developed web applications since then, including the co-founding of social location site<a href="http://peercompass.com">peerCompass.com</a>, which aggregates multiple social feeds — Facebook, Twitter, Gowalla, Foursquare — into user-friendly desktop and mobile apps. He was awarded the rank of Eagle Scout, and was part of a team which placed in the 2009 DefCon badge hacking contest.</p>
+<p><img align="right" alt="" class="alignright" height="100.0" src="/img/stalder.png" width="100.0"/><strong>Tyler Stalder<br/>
+</strong>Tyler Stalder is a web developer, specializing in internal application development and design. Tyler received his bachelor’s degree in Information, Networking, and Telecommunications from Fort Hays State University, while also co-founding two web companies, including an election forecasting service and a technology consulting firm. He currently volunteers with Youth Entrepreneurs of Kansas, helping students develop business skills and entrepreneurial thinking.</p>
+<p>Please join us in congratulating (and supporting!) our first class of Fellows!</p>

@@ -12,17 +12,15 @@ date: 2013-01-25 15:21:59.000000000 +00:00
 categories:
 - News
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2013/01/25/71/
 ---
-Code for America has been named by <em>The Global Journal</em> as one of the <a href="http://theglobaljournal.net/article/view/986/" target="_blank">Top 100 NGOs of 2013</a>.
 
-The NGOs were selected on the criteria of impact, innovation, and sustainability, and were selected from around the globe -- 27 different countries to be specific.
-
-We're proud, and honored, to be in the company of such profound organizations as Habitat for Humanity, Water for Children, Amnesty International, Center for Digital Inclusion, and Ashoka (where our very own <a href="http://usa.ashoka.org/introducing-new-ashoka-fellows" target="_blank">Jennifer Pahlka is a Fellow</a>), to name just a few.
-
-<a href="http://theglobaljournal.net/group/top-100-ngos/"><img class="aligncenter size-full wp-image-20012" title="GlobalJournal_100ngos" src="http://codeforamerica.org/wp-content/uploads/2013/01/GlobalJournal_100ngos.png" alt="" width="504" height="440" /></a>
-
-<strong>Here's what they had to say about us:</strong>
-<blockquote> Like many buzzwords, "Government 2.0" signifies much, but has delivered little of real substance. The idea that the Internet could revolutionize conventional governance processes, however, is worth pursuing. San Francisco-based Code for America is doing just that. Launched at the beginning of 2011, the organization functions on a simple premise – by matching technology fellows with government institutions, not only would new efficiencies be identified, but the public sector would also be placed on the same innovation curve as the rest of society. Two years later, this “peace corps for geeks” has led to a range of innovations, from an "adopt a fire hydrant" app allowing Boston residents to keep these facilities functional during snow season, to a recently-launched "civic accelerator" for government related start-ups.</blockquote>
-Thank you.
-
-Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica">@codeforamerica</a>.
+<p>Code for America has been named by <em>The Global Journal</em> as one of the <a href="http://theglobaljournal.net/article/view/986/" target="_blank">Top 100 NGOs of 2013</a>.</p>
+<p>The NGOs were selected on the criteria of impact, innovation, and sustainability, and were selected from around the globe — 27 different countries to be specific.</p>
+<p>We’re proud, and honored, to be in the company of such profound organizations as Habitat for Humanity, Water for Children, Amnesty International, Center for Digital Inclusion, and Ashoka (where our very own <a href="http://usa.ashoka.org/introducing-new-ashoka-fellows" target="_blank">Jennifer Pahlka is a Fellow</a>), to name just a few.</p>
+<p><a href="http://theglobaljournal.net/group/top-100-ngos/"><img alt="" class="aligncenter size-full wp-image-20012" height="440" src="http://codeforamerica.org/wp-content/uploads/2013/01/GlobalJournal_100ngos.png" title="GlobalJournal_100ngos" width="504"/></a></p>
+<p><strong>Here’s what they had to say about us:</strong></p>
+<blockquote><p> Like many buzzwords, “Government 2.0″ signifies much, but has delivered little of real substance. The idea that the Internet could revolutionize conventional governance processes, however, is worth pursuing. San Francisco-based Code for America is doing just that. Launched at the beginning of 2011, the organization functions on a simple premise – by matching technology fellows with government institutions, not only would new efficiencies be identified, but the public sector would also be placed on the same innovation curve as the rest of society. Two years later, this “peace corps for geeks” has led to a range of innovations, from an “adopt a fire hydrant” app allowing Boston residents to keep these facilities functional during snow season, to a recently-launched “civic accelerator” for government related start-ups.</p></blockquote>
+<p>Thank you.</p>
+<p>Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica">@codeforamerica</a>.</p>

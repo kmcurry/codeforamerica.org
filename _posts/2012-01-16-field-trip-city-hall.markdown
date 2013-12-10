@@ -14,42 +14,37 @@ categories:
 - 2012 fellows
 tags:
 - City Hall
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2012/01/16/field-trip-city-hall/
 ---
-<img class="alignnone size-full wp-image-10688" title="SFCityHallflags" src="http://codeforamerica.org/wp-content/uploads/2012/01/SFCityHallflags.jpg" alt="" width="311" height="491" />
 
-<strong>Pre-field trip:
-</strong>Debate on dress code - Blazers vs. Track Jackets
-
-<strong>Travel:</strong>
-Muni with clipper card tutorials for the bikers.
-
-<strong>SF City Hall <a href="http://en.wikipedia.org/wiki/San_Francisco_City_Hall#cite_note-3" target="_blank">Wiki</a> trivia:
-</strong>Dome is the fifth largest in the world.
-
-<strong>Conference room:</strong>
-Freezing, fellows glad they had track jackets.
-
-<strong>Speakers:</strong>
-Steve Kawa - Chief of Staff to Mayor Lee
-Jay Nath - Chief Innovation Officer
-Nancy Alfaro - Director of 311
-Ed Reiskin - Director of Municipal Transportation Agency
-Shannon Spanhake - Analyst on Innovation Team
-
-<strong>Notes on speeches:</strong>
-The glass is half full. Abundance not Scarcity.
-Customer service!
-311 is not a switch board.
-Bureaucracy doesn't have to be bad. Is just bogged down in layers of well intentioned rules.
-Thanks to innovation, it is an exciting time to work in city hall.
-
-<strong>Notes on the speakers:</strong>
-Glad these people exist. City workers need better PR, they are not in it for the fat pension.
-
-<strong>Speakers Advice for navigating city hall:</strong>
-Be patient. Be patient. Be patient.
-Use their own data to plead your case.
-Not everyone is as technically savvy as you.
-When it comes to tech lots of people are afraid of looking like neophytes.
-Don't let legacy systems get you down, they are a chance to help.
-When all else fails call in the big guns.
+<p><img alt="" class="alignnone size-full wp-image-10688" height="491" src="http://codeforamerica.org/wp-content/uploads/2012/01/SFCityHallflags.jpg" title="SFCityHallflags" width="311"/></p>
+<p><strong>Pre-field trip:<br/>
+</strong>Debate on dress code – Blazers vs. Track Jackets</p>
+<p><strong>Travel:</strong><br/>
+Muni with clipper card tutorials for the bikers.</p>
+<p><strong>SF City Hall <a href="http://en.wikipedia.org/wiki/San_Francisco_City_Hall#cite_note-3" target="_blank">Wiki</a> trivia:<br/>
+</strong>Dome is the fifth largest in the world.</p>
+<p><strong>Conference room:</strong><br/>
+Freezing, fellows glad they had track jackets.</p>
+<p><strong>Speakers:</strong><br/>
+Steve Kawa – Chief of Staff to Mayor Lee<br/>
+Jay Nath – Chief Innovation Officer<br/>
+Nancy Alfaro – Director of 311<br/>
+Ed Reiskin – Director of Municipal Transportation Agency<br/>
+Shannon Spanhake – Analyst on Innovation Team</p>
+<p><strong>Notes on speeches:</strong><br/>
+The glass is half full. Abundance not Scarcity.<br/>
+Customer service!<br/>
+311 is not a switch board.<br/>
+Bureaucracy doesn’t have to be bad. Is just bogged down in layers of well intentioned rules.<br/>
+Thanks to innovation, it is an exciting time to work in city hall.</p>
+<p><strong>Notes on the speakers:</strong><br/>
+Glad these people exist. City workers need better PR, they are not in it for the fat pension.</p>
+<p><strong>Speakers Advice for navigating city hall:</strong><br/>
+Be patient. Be patient. Be patient.<br/>
+Use their own data to plead your case.<br/>
+Not everyone is as technically savvy as you.<br/>
+When it comes to tech lots of people are afraid of looking like neophytes.<br/>
+Don’t let legacy systems get you down, they are a chance to help.<br/>
+When all else fails call in the big guns.</p>

@@ -14,7 +14,9 @@ categories:
 - Dispatches
 - '#codingforamerica'
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2010/11/01/alan-palazzolo-why-im-coding-for-america/
 ---
-I have always loved coding and building and have spent most of my professional experience in the non-profit and NGO sectors.  I have also always been interested in the concepts of open source and open data in government as a way to make government more efficient, participatory, and democratic. Code for America offers the unique opportunity to explore these ideas by not just creating a new service in a city, but by being change agents in government.
 
-My technical roots are in web development, Drupal, web mapping, and data visualization, which I will utilize to help government and Code for America accomplish their missions.
+<p>I have always loved coding and building and have spent most of my professional experience in the non-profit and NGO sectors.  I have also always been interested in the concepts of open source and open data in government as a way to make government more efficient, participatory, and democratic. Code for America offers the unique opportunity to explore these ideas by not just creating a new service in a city, but by being change agents in government.</p>
+<p>My technical roots are in web development, Drupal, web mapping, and data visualization, which I will utilize to help government and Code for America accomplish their missions.</p>

@@ -13,52 +13,42 @@ date: 2013-03-07 15:58:54.000000000 +00:00
 categories:
 - CfA Staff
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2013/03/07/cfa-sxsw/
 ---
-Several of us CfAers will be in Austin this weekend for SXSW, and on Sunday, we're taking over the Knight Pavilion at Austin Convention Center, booth #719 from 4:30 to 6:00 p.m. for a little meetup. I'll be making an announcement during my panel on Saturday at 3:30 p.m. (1:30 P/3:30 E).
 
-Here's a list of panels, sessions and events where you'll find civic hackers and CfA staff and brigade members:
-
-<a href="http://schedule.sxsw.com/2013/events/event_IAP993701" target="_blank">Civic Hacking MeetUp</a>
-<em>When:</em> Friday, March 8, 5:00 - 6:00 p.m.
-<em>Where:</em> Create Meet Up Tent, 101 Red River Street
-<em>Who:</em> Hosted by Austin Brigade captain Chip Rosenthal
-
-<strong><a href="http://leanstartupsxsw.co/agenda/" target="_blank">Lean Startup @ SXSW: Innovating Government One Geek at a Time</a></strong>
-<em>When:</em> Saturday, March 9, 3:30 - 4:00 p.m.
-<em>Where:</em> Hilton Austin Downtown, 500 E 4th Street
-<em>Who:</em> Tim O'Reilly and I will be substituting for United States CIO Steven VanRoekel and CTO Todd Park, talking about all the ways people are "coding for America," including the Presidential Innovation Fellows program.
-
-<a href="http://schedule.sxsw.com/2013/events/event_IAP2591" target="_blank">Hacking Cities for a Better, Sustainable Tomorrow</a>
-<em>When:</em> Saturday, March 9, 5:00 - 6:00 p.m.
-<em>Where:</em> Austin Convention Center, Room 9ABC
-<em>Who:</em> CfA's Chief of Staff Abhi Nemani is on this panel, along with Erika Diamond of RecycleBank and Rachel Haot, NYC's Chief Digital Officer.
-
-<a href="http://schedule.sxsw.com/2013/events/event_IAP15693" target="_blank">The Information Diet</a>
-<em>When:</em> Saturday, March 9, 5:00 - 6:00 p.m.
-<em>Where:</em> Austin Convention Center, Ballroom EF
-<em>Who:</em> Civic tech pioneer and good friend of CfA Clay Johnson
-
-<a href="http://schedule.sxsw.com/2013/events/event_IAP6755" target="_blank">Redefining Political Tech &amp; Civic Participation</a>
-<em>When:</em> Sunday, March 10, 3:30 - 4:30 p.m.
-<em>Where:</em> Austin Convention Center, Room 9ABC
-<em>Who:</em> I will be on this panel along with Obama for America's Besty Hoover, Ginny Hunt from Google's Civic Innovation team, and my friend and former colleague Nick Grossman
-
-<strong>Code for America Q&amp;A in the Knight Pavilion</strong>
-<em>When:</em> Sunday, March 10, 4:30 - 6:00 p.m.
-<em>Where:</em> Austin Convention Center, booth #719
-<em>What and who:</em> Interested in hearing more about the Fellowship or the CfA startup Accelerator? Have questions about CfA? Want to just meet some cool people who care about civic hacking and making government work in this century? The wonderful folks at the Knight Foundation are lending us their space to host a small get-together and we hope you'll join us.
-
-<a href="http://schedule.sxsw.com/2013/events/event_IAP984" target="_blank">Can Crowdfunding Save Local Government Budgets?</a>
-<em>When:</em> Tuesday, March 12, 11:00 a.m. -12:00 p.m.
-<em>Where:</em> Austin Convention Center, Room 6AB
-<em>Who:</em> CfA partner Story Bellows, co-director of the Mayor's Office of New Urban Mechanics in Philadelphia, is on this panel, with three other great panelists
-
-There are a bunch of other great sessions at SXSW in the <a href="http://schedule.sxsw.com/events?all_theme=Government+and+Civic+Engagement" target="_blank">Government and Civic Engagement track</a>, including a Hacking Transportation Meetup, Senator Moran talking about why your startup should care about public policy, and an intriguing discussion of bots for civic engagement. Great line up!
-
-I hope to see you at SXSW!
-
-&nbsp;
-
-Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.
-
-&nbsp;
+<p>Several of us CfAers will be in Austin this weekend for SXSW, and on Sunday, we’re taking over the Knight Pavilion at Austin Convention Center, booth #719 from 4:30 to 6:00 p.m. for a little meetup. I’ll be making an announcement during my panel on Saturday at 3:30 p.m. (1:30 P/3:30 E).</p>
+<p>Here’s a list of panels, sessions and events where you’ll find civic hackers and CfA staff and brigade members:</p>
+<p><a href="http://schedule.sxsw.com/2013/events/event_IAP993701" target="_blank">Civic Hacking MeetUp</a><br/>
+<em>When:</em> Friday, March 8, 5:00 – 6:00 p.m.<br/>
+<em>Where:</em> Create Meet Up Tent, 101 Red River Street<br/>
+<em>Who:</em> Hosted by Austin Brigade captain Chip Rosenthal</p>
+<p><strong><a href="http://leanstartupsxsw.co/agenda/" target="_blank">Lean Startup @ SXSW: Innovating Government One Geek at a Time</a></strong><br/>
+<em>When:</em> Saturday, March 9, 3:30 – 4:00 p.m.<br/>
+<em>Where:</em> Hilton Austin Downtown, 500 E 4th Street<br/>
+<em>Who:</em> Tim O’Reilly and I will be substituting for United States CIO Steven VanRoekel and CTO Todd Park, talking about all the ways people are “coding for America,” including the Presidential Innovation Fellows program.</p>
+<p><a href="http://schedule.sxsw.com/2013/events/event_IAP2591" target="_blank">Hacking Cities for a Better, Sustainable Tomorrow</a><br/>
+<em>When:</em> Saturday, March 9, 5:00 – 6:00 p.m.<br/>
+<em>Where:</em> Austin Convention Center, Room 9ABC<br/>
+<em>Who:</em> CfA’s Chief of Staff Abhi Nemani is on this panel, along with Erika Diamond of RecycleBank and Rachel Haot, NYC’s Chief Digital Officer.</p>
+<p><a href="http://schedule.sxsw.com/2013/events/event_IAP15693" target="_blank">The Information Diet</a><br/>
+<em>When:</em> Saturday, March 9, 5:00 – 6:00 p.m.<br/>
+<em>Where:</em> Austin Convention Center, Ballroom EF<br/>
+<em>Who:</em> Civic tech pioneer and good friend of CfA Clay Johnson</p>
+<p><a href="http://schedule.sxsw.com/2013/events/event_IAP6755" target="_blank">Redefining Political Tech &amp; Civic Participation</a><br/>
+<em>When:</em> Sunday, March 10, 3:30 – 4:30 p.m.<br/>
+<em>Where:</em> Austin Convention Center, Room 9ABC<br/>
+<em>Who:</em> I will be on this panel along with Obama for America’s Besty Hoover, Ginny Hunt from Google’s Civic Innovation team, and my friend and former colleague Nick Grossman</p>
+<p><strong>Code for America Q&amp;A in the Knight Pavilion</strong><br/>
+<em>When:</em> Sunday, March 10, 4:30 – 6:00 p.m.<br/>
+<em>Where:</em> Austin Convention Center, booth #719<br/>
+<em>What and who:</em> Interested in hearing more about the Fellowship or the CfA startup Accelerator? Have questions about CfA? Want to just meet some cool people who care about civic hacking and making government work in this century? The wonderful folks at the Knight Foundation are lending us their space to host a small get-together and we hope you’ll join us.</p>
+<p><a href="http://schedule.sxsw.com/2013/events/event_IAP984" target="_blank">Can Crowdfunding Save Local Government Budgets?</a><br/>
+<em>When:</em> Tuesday, March 12, 11:00 a.m. -12:00 p.m.<br/>
+<em>Where:</em> Austin Convention Center, Room 6AB<br/>
+<em>Who:</em> CfA partner Story Bellows, co-director of the Mayor’s Office of New Urban Mechanics in Philadelphia, is on this panel, with three other great panelists</p>
+<p>There are a bunch of other great sessions at SXSW in the <a href="http://schedule.sxsw.com/events?all_theme=Government+and+Civic+Engagement" target="_blank">Government and Civic Engagement track</a>, including a Hacking Transportation Meetup, Senator Moran talking about why your startup should care about public policy, and an intriguing discussion of bots for civic engagement. Great line up!</p>
+<p>I hope to see you at SXSW!</p>
+<p> </p>
+<p>Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.</p>
+<p> </p>

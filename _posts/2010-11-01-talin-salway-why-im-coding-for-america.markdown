@@ -13,11 +13,11 @@ categories:
 - Uncategorized
 - '#codingforamerica'
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2010/11/01/talin-salway-why-im-coding-for-america/
 ---
-I believe technology is vital to the future of government and nationhood in the United States, for three reasons: efficiency, transparency, but most importantly, for fostering a culture of collaboration and active participation.
 
-The greatest untapped potential in our society isn't the promise of technology, but the talents, skills, and participation of the people in it. I believe, by usingtechnology, especially technology that's open to discuss, modify, share, and extend, we can bridge the gap between citizen and civic official. That's why I'm coding for America.
-
-By using technology for communications and data management, government functions can be performed at lower cost to the nation, and with greater response speed to its citizens.
-
-By using technology to publish government information in open, accessible formats, transparency can be ensured, corruption held at bay, and citizens can become informed and educated about the state of the nation.
+<p>I believe technology is vital to the future of government and nationhood in the United States, for three reasons: efficiency, transparency, but most importantly, for fostering a culture of collaboration and active participation.</p>
+<p>The greatest untapped potential in our society isn’t the promise of technology, but the talents, skills, and participation of the people in it. I believe, by usingtechnology, especially technology that’s open to discuss, modify, share, and extend, we can bridge the gap between citizen and civic official. That’s why I’m coding for America.</p>
+<p>By using technology for communications and data management, government functions can be performed at lower cost to the nation, and with greater response speed to its citizens.</p>
+<p>By using technology to publish government information in open, accessible formats, transparency can be ensured, corruption held at bay, and citizens can become informed and educated about the state of the nation.</p>

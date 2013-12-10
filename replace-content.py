@@ -3,7 +3,7 @@ from re import compile
 from bs4 import BeautifulSoup
 from requests import get
 
-pattern = compile(r'^---\n(?P<yaml>(.+\n)*wordpress_url: (?P<url>\S+)(\n.+)*)\n---\n')
+pattern = compile(r'^---\n(?P<yaml>(.+\n)*wordpress_id: (?P<id>\d+)(\n.+)*)\n---\n')
 
 for filename in argv[1:]:
 
@@ -18,8 +18,10 @@ for filename in argv[1:]:
         print 'fuck this'
         continue
     
-    print 'GET', match.group('url'), '...'
-    resp = get(match.group('url'))
+    url = 'http://codeforamerica.org/?p=' + match.group('id')
+    
+    print 'GET', url, '...'
+    resp = get(url)
     
     print resp.status_code, resp.url
     soup = BeautifulSoup(resp.content)

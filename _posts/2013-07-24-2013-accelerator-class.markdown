@@ -13,10 +13,13 @@ categories:
 - News
 - Accelerator
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2013/07/24/2013-accelerator-class/
 ---
-<p dir="ltr"><img class="alignleft" alt="" src="/_accelerator/images/logo.jpg" width="327" height="141" /></p>
-<p dir="ltr">Code for America opened applications for the <a href="http://codeforamerica.org/accelerator/" target="_blank">2013 Accelerator</a> knowing that the competition would be fierce. This year we received over 190 applications from amazing candidates. Today, we're pleased to announce the five teams chosen to participate in the 2013 Accelerator.</p>
-<p dir="ltr">The teams are articulate, knowledgeable, and passionate about their businesses. They come from all over the country — Texas, North Carolina, Florida, and California  — and we're excited to get started with them. Teams include:</p>
+
+<p dir="ltr"><img alt="" class="alignleft" height="141" src="/_accelerator/images/logo.jpg" width="327"/></p>
+<p dir="ltr">Code for America opened applications for the <a href="http://codeforamerica.org/accelerator/" target="_blank">2013 Accelerator</a> knowing that the competition would be fierce. This year we received over 190 applications from amazing candidates. Today, we’re pleased to announce the five teams chosen to participate in the 2013 Accelerator.</p>
+<p dir="ltr">The teams are articulate, knowledgeable, and passionate about their businesses. They come from all over the country — Texas, North Carolina, Florida, and California  — and we’re excited to get started with them. Teams include:</p>
 <p dir="ltr"><a href="http://archivesocial.com/">ArchiveSocial</a> enables organizations to embrace social media by minimizing risk and eliminating compliance barriers. Specifically, it solves the challenge of retaining Gov 2.0 communications for compliance with FOIA and other public records laws. It currently automates business-grade record keeping of communications on networks such as Facebook, Twitter, and YouTube. Moving forward, ArchiveSocial will help further enforce social media policy and protect the organizational brand.</p>
 <p dir="ltr">The <a href="http://myfaf.org/">Family Assessment Form (FAF) Web</a> is a tool designed by social workers, researchers, and technology experts to help family support practitioners improve family functioning, service planning for families, and organizational performance. The FAF is ideal for use in organizations performing home visitation services for families that address comprehensive concerns about family well-being and child welfare. FAF Web enables all stakeholders to access essential data remotely from any internet-enabled device.</p>
 <p dir="ltr"><a href="http://opencounter.us/">OpenCounter</a> helps entrepreneurs to register their businesses with the local government. It does so through an online check-out experience that adapts to the applicant’s answers and asks for pertinent information only once. OpenCounter estimates licensing time and costs so entrepreneurs can understand what it will take to get their business off the ground. It’s the TurboTax of business permitting.</p>

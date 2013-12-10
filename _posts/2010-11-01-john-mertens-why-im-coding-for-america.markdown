@@ -14,7 +14,9 @@ categories:
 - Dispatches
 - '#codingforamerica'
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2010/11/01/john-mertens-why-im-coding-for-america/
 ---
-Being a web developer, I am constantly trying to solve problems in the most efficient way possible. The flip side to this mindset is that I see inefficient or ineffective solutions all the time, usually stemming from improper use of technology or antiquated processes, or both. Participating in Code for America is a chance for me to use my skills to fix some of these flawed and ineffective processes in a direct, hands on manner.
 
-I hate to sound like a cliche, but I also just want to give something back. I've been looking for a program like this for a few years and I am excited for the chance to participate.
+<p>Being a web developer, I am constantly trying to solve problems in the most efficient way possible. The flip side to this mindset is that I see inefficient or ineffective solutions all the time, usually stemming from improper use of technology or antiquated processes, or both. Participating in Code for America is a chance for me to use my skills to fix some of these flawed and ineffective processes in a direct, hands on manner.</p>
+<p>I hate to sound like a cliche, but I also just want to give something back. I’ve been looking for a program like this for a few years and I am excited for the chance to participate.</p>

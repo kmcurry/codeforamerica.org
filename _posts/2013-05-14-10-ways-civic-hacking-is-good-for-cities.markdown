@@ -14,10 +14,12 @@ categories:
 - Brigade
 - Civic Hacking
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2013/05/14/10-ways-civic-hacking-is-good-for-cities/
 ---
-<p dir="ltr"><a href="http://codeforamerica.org/wp-content/uploads/2013/05/logo2.png"><img class="alignleft size-full wp-image-21894" title="logo" src="http://codeforamerica.org/wp-content/uploads/2013/05/logo2.png" alt="" width="615" height="116" /></a></p>
-<p dir="ltr">At Code for America, we’re getting excited for the National Day of Civic Hacking; the weekend is a galvanizing moment in our ongoing movement to call citizens to action. We want citizens everywhere to help their cities work better, through technology. Why do we think this is so important?</p>
 
+<p dir="ltr"><a href="http://codeforamerica.org/wp-content/uploads/2013/05/logo2.png"><img alt="" class="alignleft size-full wp-image-21894" height="116" src="http://codeforamerica.org/wp-content/uploads/2013/05/logo2.png" title="logo" width="615"/></a></p>
+<p dir="ltr">At Code for America, we’re getting excited for the National Day of Civic Hacking; the weekend is a galvanizing moment in our ongoing movement to call citizens to action. We want citizens everywhere to help their cities work better, through technology. Why do we think this is so important?</p>
 <h3>We put together a list of 10 reasons why civic hacking is good for cities:</h3>
 <p dir="ltr"><strong>1. Creates space for innovation (for government and citizens)</strong></p>
 <p dir="ltr">Every week in cities across the country, local government officials and civic-minded volunteers (developers, designers, urban planners, policy wonks, etc.) come together to collaborate on web apps and technologies to make their communities work better. In the <a href="http://brigade.codeforamerica.org">Code for America Brigade</a> network alone, <a href="http://brigade.codeforamerica.org/forums">there are regular hack nights in more than 25 cities</a>. These hack nights create a space for government and citizens to come together to solve interesting challenges.</p>

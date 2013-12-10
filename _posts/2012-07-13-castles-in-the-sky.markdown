@@ -13,13 +13,12 @@ categories:
 - Commentary
 - 2012 fellows
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2012/07/13/castles-in-the-sky/
 ---
-Meet Jesse Bounds.
 
-From Wall Street to 9th Street Jesse has literally climbed mountains (and one glacier) in search of more meaningful work. A search that led him here to 155 9th Street, home to staff and fellows of Code for America.
-
-Watch Jesse's journey:
-
-<iframe src="http://player.vimeo.com/video/44537196" frameborder="0" width="500" height="281"></iframe>
-
-If you want the see and touch and feel the system you build make a real difference in our cities and our communities, apply for a Code for America fellowship: <a href="http://codeforamerica.org/apply" target="_blank">codeforamerica.org/apply</a> -- deadline 7/29.
+<p>Meet Jesse Bounds.</p>
+<p>From Wall Street to 9th Street Jesse has literally climbed mountains (and one glacier) in search of more meaningful work. A search that led him here to 155 9th Street, home to staff and fellows of Code for America.</p>
+<p>Watch Jesse’s journey:</p>
+<p><iframe frameborder="0" height="281" src="http://player.vimeo.com/video/44537196" width="500"></iframe></p>
+<p>If you want the see and touch and feel the system you build make a real difference in our cities and our communities, apply for a Code for America fellowship: <a href="http://codeforamerica.org/apply" target="_blank">codeforamerica.org/apply</a> – deadline 7/29.</p>

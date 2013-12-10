@@ -16,21 +16,16 @@ categories:
 - Detroit
 - 2012 Intern
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2012/11/09/podcast-blightstatus-empowering-neighborhood-improvement/
 ---
-<a href="http://codeforamerica.org/wp-content/uploads/2012/08/Screen-Shot-2012-08-27-at-12.52.09-PM.png"><img class="alignleft size-full wp-image-16432" title="blightSTATUS homepage" src="http://codeforamerica.org/wp-content/uploads/2012/08/Screen-Shot-2012-08-27-at-12.52.09-PM.png" alt="blightSTATUS homepage" width="571" height="296" /></a><strong></strong>
 
-&nbsp;
-
-&nbsp;
-
-<a href="http://blightstatus.nola.gov">BlightStatus</a> is an online tool that aims to answer the question, “What’s going on with that abandoned house down the street?”
-
-Vacant and abandoned properties have become a huge problem for many cities. The story is clear: these properties drain city resources and cast a shadow over a neighborhood's progress and quality of life.
-
-The problem is a hard one to solve. Just try to find information about the status of a property in the blight abatement process - it's harder than you think. Without a centralized place to access that information, individuals and organizations working to return these properties back to productive use are being held back.
-
-By making the status of properties public and easily browsable, BlightStatus will "help government and community groups make informed decisions regarding blight abatement, demolition and real estate use."
-
-Tune in to this episode where fellows in New Orleans, Macon, and Detroit join us to talk about how BlightStatus can help their cities deal with the crisis of blight.
-
-<iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F55687645&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe>
+<p><a href="http://codeforamerica.org/wp-content/uploads/2012/08/Screen-Shot-2012-08-27-at-12.52.09-PM.png"><img alt="blightSTATUS homepage" class="alignleft size-full wp-image-16432" height="296" src="http://codeforamerica.org/wp-content/uploads/2012/08/Screen-Shot-2012-08-27-at-12.52.09-PM.png" title="blightSTATUS homepage" width="571"/></a><strong></strong></p>
+<p> </p>
+<p> </p>
+<p><a href="http://blightstatus.nola.gov">BlightStatus</a> is an online tool that aims to answer the question, “What’s going on with that abandoned house down the street?”</p>
+<p>Vacant and abandoned properties have become a huge problem for many cities. The story is clear: these properties drain city resources and cast a shadow over a neighborhood’s progress and quality of life.</p>
+<p>The problem is a hard one to solve. Just try to find information about the status of a property in the blight abatement process – it’s harder than you think. Without a centralized place to access that information, individuals and organizations working to return these properties back to productive use are being held back.</p>
+<p>By making the status of properties public and easily browsable, BlightStatus will “help government and community groups make informed decisions regarding blight abatement, demolition and real estate use.”</p>
+<p>Tune in to this episode where fellows in New Orleans, Macon, and Detroit join us to talk about how BlightStatus can help their cities deal with the crisis of blight.</p>
+<p><iframe frameborder="no" height="166" scrolling="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F55687645&amp;show_artwork=true" width="100%"></iframe></p>

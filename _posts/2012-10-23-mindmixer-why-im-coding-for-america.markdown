@@ -14,22 +14,17 @@ categories:
 - Accelerator
 - '#codingforamerica'
 tags: []
+wordpress_html: true
+wordpress_permalink: http://www.codeforamerica.org/2012/10/23/mindmixer-why-im-coding-for-america/
 ---
-<em>MindMixer is one of the seven civic startups in the inaugural class of the CfA <a href="http://codeforamerica.org/accelerator" target="_blank">Accelerator</a>. </em>
 
-Government is reeling, politics are gross, and citizenship is suffering. In the backdrop of this decline we are also witnessing a complete technological revolution that has forever changed the way we communicate. It is possible for the first time for people to efficiently connect, learn, and take collective action. Why, then, are we at a national standstill? It is our belief that the country’s collective interface is broken, and only through reinvention can communities engender real engagement.
-
-As  Tim O’Reilly says, “Government is what we do together that we can’t do alone.” The operative word here is “do”. Rather than citizens as obnoxious children making wishlists, we need to take seriously our obligation for collective action. This is precisely where government can play a bigger role. The irony is that many citizens want to participate more robustly while their local and federal government desperately needs that extra muscle, but never the twain shall meet; again, a broken interface.
-
-What if it was possible to not just engage citizens in real dialogue, but to connect
-community makers, to shift the focus from citizen as consumer of government to citizen as a community contributor? Today an awake and nimble government has the capability to empower collective action, to harness the muscle of the community doers.
-
-None of this is a new idea of course: “Ask not what your country can do for you,” but it is an idea that with the right interface could finally reach its potential. That is why we Code for America.
-
-At MindMixer we are obsessed with the idea of activating community contributors and creating a place where ideas, voices, and perspectives are shared to facilitate deeper and better conversations that yield actionable insights.
-
-<a href="http://mindmixer.com" target="_blank">http://mindmixer.com</a>
-
-&nbsp;
-
-Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.
+<p><em>MindMixer is one of the seven civic startups in the inaugural class of the CfA <a href="http://codeforamerica.org/accelerator" target="_blank">Accelerator</a>. </em></p>
+<p>Government is reeling, politics are gross, and citizenship is suffering. In the backdrop of this decline we are also witnessing a complete technological revolution that has forever changed the way we communicate. It is possible for the first time for people to efficiently connect, learn, and take collective action. Why, then, are we at a national standstill? It is our belief that the country’s collective interface is broken, and only through reinvention can communities engender real engagement.</p>
+<p>As  Tim O’Reilly says, “Government is what we do together that we can’t do alone.” The operative word here is “do”. Rather than citizens as obnoxious children making wishlists, we need to take seriously our obligation for collective action. This is precisely where government can play a bigger role. The irony is that many citizens want to participate more robustly while their local and federal government desperately needs that extra muscle, but never the twain shall meet; again, a broken interface.</p>
+<p>What if it was possible to not just engage citizens in real dialogue, but to connect<br/>
+community makers, to shift the focus from citizen as consumer of government to citizen as a community contributor? Today an awake and nimble government has the capability to empower collective action, to harness the muscle of the community doers.</p>
+<p>None of this is a new idea of course: “Ask not what your country can do for you,” but it is an idea that with the right interface could finally reach its potential. That is why we Code for America.</p>
+<p>At MindMixer we are obsessed with the idea of activating community contributors and creating a place where ideas, voices, and perspectives are shared to facilitate deeper and better conversations that yield actionable insights.</p>
+<p><a href="http://mindmixer.com" target="_blank">http://mindmixer.com</a></p>
+<p> </p>
+<p>Questions? Comments? Hit us up <a href="http://twitter.com/codeforamerica" target="_blank">@codeforamerica</a>.</p>
